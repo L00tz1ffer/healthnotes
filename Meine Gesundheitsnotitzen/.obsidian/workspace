@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-01-24-04-15-54.md",
-            "mode": "preview",
+            "file": "Gesprächskultur/Kontrolldramen/Der Unnahbare.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-24-04-15-54.md",
+                "file": "Gesprächskultur/Kontrolldramen/Der Unnahbare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-01-24-04-15-54.md"
+                "file": "Gesprächskultur/Kontrolldramen/Der Unnahbare.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "697a3e0e35664f67",
   "lastOpenFiles": [
-    "2022-01-24-04-15-54.md",
-    "Index.md",
-    "Rezepte/Hydrogene Peroxide.md",
-    "Rezepte/Hummus.md",
-    "Rezepte/Aschedünger.md",
-    "Glossar/Antioxidanz.md",
-    "Glossar/Razemisch.md",
-    "Glossar/Kolloid.md",
-    "Glossar/Destillation.md",
-    "Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md"
+    "Gesprächskultur/Kontrolldramen/Der Unnahbare.md",
+    "Gesprächskultur/Kontrolldramen/Der Vernehmungsbeamte.md",
+    "Nützliche Gerätschaften/Destille.md",
+    "Sonochemie/Sonochemie.md",
+    "Gesprächskultur/Kontrolldramen/Kontrolldramen.md",
+    "Gesprächskultur/Kontrolldramen/Das Opfer.md",
+    "Gesprächskultur/Gesprächskultur.md",
+    "Gesprächskultur/Kontrolldramen/Der Einschüchterer.md",
+    "Gesprächskultur/Unbenannt.md",
+    "Index.md"
   ]
 }

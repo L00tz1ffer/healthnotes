@@ -1,5 +1,18 @@
 # Heilmittel der Natur
 
+
+# [Sonochemie](Sonochemie/Sonochemie.md)
+Bevor wir uns mit irgendwie gearteten Heilmitteln aus Materiellen Gütern befassen sollten wir für einen Augenblick inne halten und uns mal kurz auf uns konzentrieren!
+
+Halt Stop! ich meine es wirklich ernst!
+Wie seht tragen wir selbst zu unserem Wohlergehen oder unserem Unglück bei?
+Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument [Sonochemie](Sonochemie.md) hinein, sie werden erstaunt sein, was dort auf Sie wartet
+
+# [Gesprächskultur](Gesprächskultur/Gesprächskultur.md)
+Wie gehen Sie mit Ihren Mitmenschen um?
+Wie kommen Sie zu ihren Informationen?
+Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
+
 ## Wasser
 - Quellwasser
 	+ Hunzer
@@ -63,14 +76,17 @@
 		- unterbewusstsein ahnt, dass die schüler **verarscht** werden
 			- Resultat: **Pseudowissen**
 				- **gefährlich**
-				- ![image info](./images/tk_manipulation.png)
+				- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](./images/tk_manipulation.png)
+					-  Quelle: Nährstofflabyrinth - Dr. Andreas Noack
+
 ### Beispiel
 - Eine Himbeere enthält bis zu über 2 Mio. 	Extrahierarer Substanzen
 	- Ein Ökotrophologe ist bereit 50 dieser Substanzen als relevant zu klassifizieren
 		- den Rest muss er, da er nicht versteht, wass die stoffe tun als irrelevant einschätzen
 ### Pyramiden
 - alles ist Pyramidal aufgebaut, das Fundament bildet eine Pyramide.
-	- ![image info](./images/pyramides.png)	
+	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](./images/pyramides.png)	
+		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 	-  Wissenschaft geht vor indem bei der Analyse eines Problems die beiden Spitzen des Spektrums abgeschnitten werden und übersieht dabei wesentliche Eigenarten des beobachteten Systems
 ### Woran erkennt man einen guten Wissenschaftler?
 - "Er weiß, dass er nichts weiß"
@@ -117,7 +133,8 @@
 	- Langendorfsches Herz
 	- Kupfer Wand Experiment
 	- ist es möglich, dass viele Herzkrankeiten durch Siliziumoxidmangel in der Nahrung verursacht werden?
-	- ![image info](./images/silizium_im_Wasser.png)
+	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](./images/silizium_im_Wasser.png)
+		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 					
 #### Das Blutgefäßsystem
 - ist kein Gefäßsystem
@@ -174,7 +191,8 @@
 - spalet bis zu 400 000 Moleküle pro sekunde!!!
 - was sind die wichtigsten kathalytisch aktiven Metalle?
 	- Vulkankurve der Kathalytisch aktiven Metalle
-	- ![image info](./images/vulkankurve.png)
+	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](./images/vulkankurve.png)
+		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 	- je höher in der Vulkankurve desto höher die Gitterenergie
 	- je höher die Gitterenergie desto schwieriger die nutzarmachung als Bioverfügbares Nutrazeutikum
 - je geringer die kathalytische aktivität, desto wertloser das Enzym in dem das Element sitzt
@@ -194,7 +212,6 @@
 				
 # [[Vitamine]]
 		
-# [Sonochemie](Sonochemie.md)
+
 		
 # [[Rezepte]]
-# [Salz](Index.md#Salz)

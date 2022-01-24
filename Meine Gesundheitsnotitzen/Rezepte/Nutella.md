@@ -1,5 +1,6 @@
 # Nutella
- ![image info](../images/nutella.png)
+ ![Quelle: Simplicissimus](../images/nutella.png) Quelle: Simplicissimus
+ 
 - ziemlich ungesund
 	- Viel Palmfett
 	- Magerilchpulver
