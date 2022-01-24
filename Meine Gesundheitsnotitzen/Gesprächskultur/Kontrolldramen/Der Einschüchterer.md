@@ -7,7 +7,7 @@ Er verschafft sich seine Aufmerksamkeit durch __lautes, Aggressives Auftreten__ 
 Sein Handwerk ist die __Rohe Gewalt, die Lautstärke und Drohung sowie Temperament Ausbrüche__.
 
 ## Komplementärdrama
-Als Gegenwehr wird in der Regel das __Arme ich__ aufgesetzt, welches versucht den Energiefluss durch das erregen von Mitleid umzukehren.
+Als Gegenwehr wird in der Regel das __Arme ich__ / __[[Das Opfer]]__ aufgesetzt, welches versucht den Energiefluss durch das erregen von Mitleid umzukehren.
 
 
 ## Auflösung des Dramas

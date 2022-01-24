@@ -1,7 +1,7 @@
 # Der Unnahbare
 
 ## Entstehung
-Das Unnahbare Wesen entsteht **aus dem Bedürfnis heraus sich der Kontrolle des Vernehmungsbeamten zu entziehen**, 
+Das Unnahbare Wesen entsteht **aus dem Bedürfnis heraus sich der Kontrolle der Rolle  "[[Der Vernehmungsbeamte]]"  zu entziehen**, 
 
 ## Erkennungsmerkmal
 aufgrund dessen **versperrt sich die Persönlichkeit und rückt in den Hintergrund** um ja keine Angriffsfläche zu bieten.
