@@ -1,0 +1,12 @@
+# Wasserstoffperoxid
+- **bei innerer anwendung langsam einschleichen, da es im Magen aufgrund der hohen Sauerstoffmenge sehr potent reagiert**
+	- 1 Tropfen 10%iges Wasserstoffperoxid in 1 glas Destilliertem Wasser lösen und täglich um 1 Tropfen steigern
+	- bis nach 30 Tagen 30 Tropfen auf 1 Glas
+	- dann ausschleichen indem jeden Tag 1 Tropfen weniger
+- obwohl in verruf geraten war es früher als potentes Heilmittel bekannt
+- Paracelsus hat mit Wasserstoffperoxid geheilt
+	- krebs
+- weitere Anwendungsbereiche
+	- Grauer Star
+	- Wundbehandlung
+		- 1 Tropfen stillt direkt Blutungen

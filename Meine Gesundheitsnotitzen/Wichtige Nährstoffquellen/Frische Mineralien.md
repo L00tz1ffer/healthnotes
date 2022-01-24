@@ -1,0 +1,2 @@
+# Frische Mineralien
+- wir benötigen die Elemente des Periodensystems in frischer form, in Form von [[Kolloid]]en, wenn wir zulange mit dem Konsum insbesondere zubereiteter (etwa gekochter) Speisen warten, aglomerieren die [[Kolloid]]e zu für uns nicht mehr verfügbaren Ansammlungen in der Absicht ihre Oberfläche zu verkleinern. Je größer also die daraus entstehenden Moleküle werden, desto weniger Nährwert ergibt sich hieraus für uns
