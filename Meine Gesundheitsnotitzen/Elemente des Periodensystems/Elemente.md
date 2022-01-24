@@ -1,4 +1,5 @@
 # Auflistung der Elemente des Periodensystems zu welchen Daten bekannt oder zu vermuten sind
+
 [[Gold]]
 [[Lithium]]
 [[Strontium]]
@@ -17,4 +18,4 @@
 [[Rhodium]]
 [[Wasserstoff]]
 [[Sauerstoff]]
-[[Vanadium]]]
+[[Vanadium]]
