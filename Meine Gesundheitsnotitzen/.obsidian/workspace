@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Rezepte.md",
+            "file": "Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Rezepte.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ]
@@ -97,10 +99,10 @@
   },
   "active": "494f79e2eecfa256",
   "lastOpenFiles": [
+    "Index.md",
     "Rezepte/Rezepte.md",
     "Rezepte/Ursuppe.md",
     "Wichtige Persönlichkeiten/Andreas Noack.md",
-    "Index.md",
     "Rezepte/Aschedünger.md",
     "Glossar/Kolloid.md",
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
