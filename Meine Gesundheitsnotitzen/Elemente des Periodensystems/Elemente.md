@@ -1,4 +1,4 @@
-# Die einzelnen Elemente des Periodensystems aufgelistet
+# Auflistung der Elemente des Periodensystems zu welchen Daten bekannt oder zu vermuten sind
 [[Gold]]
 [[Lithium]]
 [[Strontium]]

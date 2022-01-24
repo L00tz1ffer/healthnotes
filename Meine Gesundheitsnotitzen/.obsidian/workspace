@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494f79e2eecfa256",
+        "id": "697a3e0e35664f67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lebensmittel nach Wertigkeit/Mittelwertige Lebensmittel/Mittelwertige Lebensmittel.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lebensmittel nach Wertigkeit/Mittelwertige Lebensmittel/Mittelwertige Lebensmittel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lebensmittel nach Wertigkeit/Mittelwertige Lebensmittel/Mittelwertige Lebensmittel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "494f79e2eecfa256",
+  "active": "697a3e0e35664f67",
   "lastOpenFiles": [
-    "Lebensmittel nach Wertigkeit/Mittelwertige Lebensmittel/Mittelwertige Lebensmittel.md",
-    "Lebensmittel nach Wertigkeit/Minderwertige Lebensmittel/Minderwertige Lebensmittel.md",
-    "Lebensmittel nach Wertigkeit/Hochwertige Lebensmittel/Hochwertige Lebensmittel.md",
+    "Elemente des Periodensystems/Elemente.md",
+    "Elemente des Periodensystems/Gallium.md",
+    "Elemente des Periodensystems/Bor.md",
+    "Elemente des Periodensystems/Arsen.md",
+    "Elemente des Periodensystems.md",
     "Index.md",
-    "Lebensmittel nach Wertigkeit/Hochwertige Lebensmittel/Himalaya Salz.md",
-    "Lebensmittel nach Wertigkeit/Minderwertige Lebensmittel/Pasteurisierte Produkte.md",
-    "Lebensmittel nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
-    "Lebensmittel nach Wertigkeit/Mittelwer.md",
-    "Rezepte/Rezepte.md",
-    "Rezepte/Ursuppe.md"
+    "Rezepte/Hummus.md",
+    "Rezepte/Hydrogene Peroxide.md",
+    "Rezepte/Lugolsche Lösung.md",
+    "Rezepte/Wasserstoffperoxid.md"
   ]
 }
