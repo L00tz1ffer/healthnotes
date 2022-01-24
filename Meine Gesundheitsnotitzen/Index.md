@@ -196,4 +196,4 @@
 		
 # [Sonochemie](Sonochemie.md)
 		
-# [Rezepte](Rezepte/Rezepte.md)
+# [[Rezepte]]
