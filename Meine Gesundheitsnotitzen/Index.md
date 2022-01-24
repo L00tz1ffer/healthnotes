@@ -19,7 +19,7 @@
 		
 ## Salz
 - Gute Salze:
-	- Himalaya Salz
+	- [[Himalaya Salz]]
 - warum Salz?
 	- enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form
 	- Salz ist das Reinigungsmittel des Körpers - sein Waschwasser!!!
