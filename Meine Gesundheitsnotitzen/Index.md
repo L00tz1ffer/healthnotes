@@ -194,9 +194,6 @@
 				
 # [[Vitamine]]
 		
-# [[Sonochemie]]
+# [Sonochemie](sonochemie.md)
 		
 # [[Rezepte]]
-
-			
-		
