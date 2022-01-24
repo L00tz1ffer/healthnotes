@@ -1,3 +1,0 @@
-# Minderwertige Lebensmittel
-
-[[Pasteurisierte Produkte]]

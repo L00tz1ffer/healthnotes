@@ -7,8 +7,12 @@
         "id": "697a3e0e35664f67",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-01-24-04-15-54.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-01-24-04-15-54.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-01-24-04-15-54.md"
+              }
             }
           }
         ]
@@ -92,15 +99,15 @@
   },
   "active": "697a3e0e35664f67",
   "lastOpenFiles": [
-    "Elemente des Periodensystems/Elemente.md",
-    "Elemente des Periodensystems/Gallium.md",
-    "Elemente des Periodensystems/Bor.md",
-    "Elemente des Periodensystems/Arsen.md",
-    "Elemente des Periodensystems.md",
+    "2022-01-24-04-15-54.md",
     "Index.md",
-    "Rezepte/Hummus.md",
     "Rezepte/Hydrogene Peroxide.md",
-    "Rezepte/Lugolsche Lösung.md",
-    "Rezepte/Wasserstoffperoxid.md"
+    "Rezepte/Hummus.md",
+    "Rezepte/Aschedünger.md",
+    "Glossar/Antioxidanz.md",
+    "Glossar/Razemisch.md",
+    "Glossar/Kolloid.md",
+    "Glossar/Destillation.md",
+    "Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md"
   ]
 }

@@ -1,1 +1,0 @@
-# Mittelwertige Lebensmittel

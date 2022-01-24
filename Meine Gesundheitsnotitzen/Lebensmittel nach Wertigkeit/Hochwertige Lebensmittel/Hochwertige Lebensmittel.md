@@ -1,3 +1,0 @@
-# Hochwertige Lebensmittel
-
-[[Himalaya Salz]]
