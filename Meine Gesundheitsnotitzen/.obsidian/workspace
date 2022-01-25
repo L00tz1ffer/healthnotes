@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Sonochemie/Sonochemie.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Sonochemie/Sonochemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Sonochemie/Sonochemie.md"
               }
             }
           }
@@ -99,6 +99,8 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Sonochemie/Sonochemie.md",
+    "Sonochemie/Glaubenssätze.md",
     "Index.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
     "Rezepte/Lugolsche Lösung.md",
@@ -106,8 +108,6 @@
     "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
     "Gesprächskultur/Kontrolldramen/Kontrolldramen.md",
     "Gesprächskultur/Gesprächskultur.md",
-    "Wichtige Persönlichkeiten/Andreas Noack.md",
-    "Wichtige Nährstoffquellen/Frische Mineralien.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md"
+    "Wichtige Persönlichkeiten/Andreas Noack.md"
   ]
 }
