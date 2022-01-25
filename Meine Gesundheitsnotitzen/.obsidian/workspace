@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
+            "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
+                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md"
+                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
     "Wichtige Persönlichkeiten/Otto Warburg.md",
     "Wichtige Persönlichkeiten/Manfred von Adrenne.md",
@@ -107,7 +108,6 @@
     "Wichtige Persönlichkeiten/Karl Popper.md",
     "Sonochemie/Glaubenssätze.md",
     "Sonochemie/__Attatchments/emoto_masaru_frozen_water.png",
-    "Sonochemie/Sonochemie.md",
-    "Index.md"
+    "Sonochemie/Sonochemie.md"
   ]
 }
