@@ -3,11 +3,11 @@
 ## Was ist Sonochemie? 
 Sonochemie ist wenn Unser Körper Stoffe nach dem Willen unseres Geistes hergestellt.
 
-Ähnlich wie wir mithilfe von Schallwellen kleine Bällchen aus Styropor schweben lassen können oder mit elektrischen Impulsen (EMP) Elektrische Geräte lahmlegen können, so scheinen elektromagnetische Impulse in Form unserer Gedanken und [[Emotion]]en auch eine signifikante Wirkung auf unsere Körpereigenen Chemiefabriken zu haben.
+Ähnlich wie wir mithilfe von Schallwellen kleine Bällchen aus Styropor schweben lassen können oder mit elektrischen Impulsen (EMP) Elektrische Geräte lahmlegen können, so scheinen elektromagnetische Impulse in Form unserer Gedanken und [Emotionen](/../Meine%20Gesundheitsnotitzen/Glossar/Emotion.md) auch eine signifikante Wirkung auf unsere Körpereigenen Chemiefabriken zu haben.
 Sicherlich ist jedem schonmal aufgefallen, dass wir bei guter Laune oder im Gefühl der Liebe ein anderes Körpergefühl haben als wenn wir schlecht gelaunt, verärgert oder gar depressiv verstimmt sind haben, dies liegt daran, dass unser Körper andere Botenstoffe herstellt, die eben andere Nerven aktiv schalten, dadurch, dass sie auf ihre Rezeptoren verbinden.
 Dieses System legt anschaulich offen, dass unser Körper definitiv in der Lage ist je nach Bedarf andere Stoffe aus dem Ihm zur Verfügung stehenden Werkzeugen und Baumaterialien zu Synthetisieren
 
-Je nach Gemütszustand und je nach [[Emotion]]aler Lage laufen Alchemistische Wechselwirkungen und Chemische Prozesse anders ab, die Atome reagieren auf das sie umgebende Elektrische Feld und ordnen sich entsprechend an. 
+Je nach Gemütszustand und je nach [Emotion](/Glossar/Emotion.md)aler Lage laufen Alchemistische Wechselwirkungen und Chemische Prozesse anders ab, die Atome reagieren auf das sie umgebende Elektrische Feld und ordnen sich entsprechend an. 
 
 ## "Der Arzt behandelt und Gott heilt" 
 Wäre es nicht vermessen zu behaupten wir Menschen könnten diese Körper heilen?

@@ -1,5 +1,10 @@
-[[Roadmap]]
-
+<<<<<<< HEAD
+<<<<<<< HEAD
+[Roadmap](Roadmap.md)
+=======
+>>>>>>> parent of 243e3a3 (.)
+=======
+>>>>>>> parent of 243e3a3 (.)
 # Heilmittel der Natur
 
 
@@ -13,7 +18,7 @@ Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument
 # [Gesprächskultur](Gesprächskultur/Gesprächskultur.md)
 Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
-Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
+Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Gesprächskultur/Gesprächskultur.md)
 
 ## Wasser
 - Quellwasser
@@ -27,14 +32,14 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 	- bedeutet, dass da mehr co² drin gelöst ist
 		- hat zur folge, dass das wasser mehr Mineralien bindet und mit zu tage fördern kann
 	- gutes Quellwasser hat mehr natürliches CO²
-- [[Wasserstoffperoxid]]
+- [Wasserstoffperoxid](Rezepte/Wasserstoffperoxid.md)
 				
 	
 		
 		
 ## Salz
 - Gute Salze:
-	- [[Himalaya Salz]]
+	-  [Himalaya Salz](Wichtige%20Nährstoffquellen/Lebensmittelkategorisierung%20nach%20Wertigkeit/Hochwertige%20Lebensmittel.md#Himalaya%20Salz)
 - warum Salz?
 	- enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form
 	- Salz ist das Reinigungsmittel des Körpers - sein Waschwasser!!!
@@ -48,13 +53,13 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 			- mineralien verlieren bioverfügbarkeit
 				- durch hildung von kristallstrukturen
 	- natürliche nahrung ist reich an sio2
-		- [[Kolloid]]e (von sio2) vermögen durch die gleichnamige elektrische ladung eine Abstoßung der Roten Blutkörperchen zueinander zu bewirken, was einen intakten Blutfluss ermöglicht, gar fördert
-		- **keine [[Kolloid]]e = keine ausreichende Sauerstofftransportkapazitäten**
-			- **[[Otto Warburg]]: (Sauerstoffmediziner in den 1960er Jahren)** 
+		- [Kolloide](Glossar/Kolloid.md) (von sio2) vermögen durch die gleichnamige elektrische ladung eine Abstoßung der Roten Blutkörperchen zueinander zu bewirken, was einen intakten Blutfluss ermöglicht, gar fördert
+		- **keine [Kolloide](Glossar/Kolloid.md) = keine ausreichende Sauerstofftransportkapazitäten**
+			- **[Otto Warburg](Glossar/Wichtige%20Persönlichkeiten/Otto%20Warburg.md) : (Sauerstoffmediziner in den 1960er Jahren)** 
 				- **"80% aller Krankheiten sind das Resultat von Sauerstoff - unterversorgung"**
 			- weitere Wichtige Namen
-				- [[Manfred von Adrenne]]
-				- [[Laszlo Fodor]]
+				- [Manfred von Adrenne](Glossar/Wichtige%20Persönlichkeiten/Manfred%20von%20Adrenne.md)
+				- [Laszlo Fodor](Glossar/Wichtige%20Persönlichkeiten/Laszlo%20Fodor.md)
 			- **Sauerstoffpartialdruck ist relevant - nicht Sauerstoffsättigung**
 			- Eine Maus kann in Flüssigkeit getaucht ewig leben, solange der TetraChlorKohlenstoff stark genug Sauerstoff eindiffudiert wird.
 		- natürlich impliziert, dass ein Baum bei der Produktion der Nahrung beteiligt ist
@@ -96,7 +101,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 	- man kann niemals wissen wie es wirklich aussieht
 	- der echte Wissenschaftler weiß genau. dass er nur Modelle entwickeln kann und mutmaßen
 	- Arbeitet nach der Popperschen Philosophie
-	- nach **[[Karl Popper]]**
+	- nach **[Karl Popper](Glossar/Wichtige%20Persönlichkeiten/Karl%20Popper.md)**
 		- Wissenschaft ist aneinanderreihung von Mutmaßungen
 			- Beispiel
 				- These: 
@@ -157,8 +162,8 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 	- gibt es keine Mineralien im Boden
 - Was kann man da tun?
 	- Anbau von Essen auf Humusboden
-	- Die asche Essen ([[Ursuppe]])
-	- [[Aschedünger]]
+	- Die asche Essen ([Ursuppe](Rezepte/Ursuppe.md))
+	- [Aschedünger](Rezepte/Aschedünger.md)
 	
 ## Molekulare Verbindungen
 ### was nicht in den Körper gehört:
@@ -168,9 +173,9 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 - je nach anzahl der möglichen Richtungsänderungen in der Struktur steigt exponentiell der Prozentsatz an nicht als solche identifizierbaren Abfallprodukten
 
 ### Was der Körper braucht
-#### [[Kolloid]]e
+#### [Kolloide](Glossar/Kolloid.md)
 				
-## Die Elemente
+## Die [Elemente](PSElements/Elemente.md)
 ### Grundlegendes
 - Alle Elemente des Periodensystems sind in unserem Boden
 - Alle Elemente des Periodensystems sind relevant für unsere Artgerechte Entwicklung
@@ -200,20 +205,20 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [[Gesprächskultur]]
 - je geringer die kathalytische aktivität, desto wertloser das Enzym in dem das Element sitzt
 	- Enzyme gehen kaputt dadurch
 - Je höher die kathalysefähigkeiten des Elements desto mehr davon sollte man im Körper haben
-	- [[Platin]], [[Gold]], [[Silber]],  [[Iridium]] & [[Rhodium]]
+	- [Platin](PSElements/Platin.md), [Gold](PSElements/Gold.md), [Silber](PSElements/Silber.md),  [Iridium](PSElements/Iridium.md) & [Rhodium](PSElements/Rhodium.md)
 - Pflanzen auf Humusboden versorgen uns mit kolloidalen Metallkomplexen
 											
 
 ## Es handelt sich bei allen folgenden Elementen um ihre Bioverfügbare Form, das Kolloid oder seine "Monoatomare"		Struktur	
 - Monoatomare Strukturen sind nicht monoatomar, sie heißen nur so
 	- Metalle sind Lebendig ! 
-		- [[Etienne Szekely]]
+		- [Etienne Szekely](Glossar/Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
 
-[[Elemente des Periodensystems]]
+[Die Elemente des Periodensystems](PSElements/Elemente.md)
 
 				
-# [[Vitamine]]
+# [Vitamine](Vitamine/Vitamine.md)
 		
 
 		
-# [[Rezepte]]
+# [Rezepte](Rezepte/Rezepte.md)
