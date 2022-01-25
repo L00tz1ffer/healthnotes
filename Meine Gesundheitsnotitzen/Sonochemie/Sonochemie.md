@@ -9,7 +9,8 @@ Dieses System legt anschaulich offen, dass unser Körper definitiv in der Lage i
 
 Je nach Gemütszustand und je nach [Emotion](../Glossar/Emotion.md)aler Lage laufen Alchemistische Wechselwirkungen und Chemische Prozesse anders ab, die Atome reagieren auf das sie umgebende Elektrische Feld und ordnen sich entsprechend an. 
 
-## #
+## Wie kann ich darauf nun Einfluss nehmen?
+Bevor wir darauf eingehen, wie wir nun Einfluss auf das Geschehen nehmen können müssen wir ersteinmal unsere [Glaubenssätze](Glaubenssätze.md) anpassen.
 
 ## "Der Arzt behandelt und Gott heilt" 
 Wäre es nicht vermessen zu behaupten wir Menschen könnten diese Körper heilen?
