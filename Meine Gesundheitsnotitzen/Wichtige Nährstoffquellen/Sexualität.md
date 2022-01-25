@@ -31,3 +31,11 @@ Werden überdies zu wenig Nährstoffe zugeführt, so vermute ich zum gegenwärti
 Im Umkehrschluss würde diese Annahme bedeuten, dass werden ausreichend Nährstoffe zugeführt, die Chancen gut stehen, dass ein intelligentes und gesundes Kind heranwächst.
 Indiz hierfür ist die Pflanzenwelt, gibt man der Pflanze eine umfassende für sie Bioverfügbare Ernährung, so erfährt man eine reichhaltige Ernte, wenngleich andernfalls pflanzentypische Mangelerscheinungen auftreten und die geschulte Zunge erkennt auch hier deutlich den weniger guten Geschmack.
 
+## Orgasmus ist nicht gleich Orgasmus
+Ein weiterer viel zu wenig beachteter Punkt mit vermutlich gigantischen Auswirkungen ist die wenig bekannte Tatsache, dass ein Orgasmus nicht zwangsläufig mit einer Ejakulation einhergeht.
+
+Durch Intensives Training seiner Willenskraft ist der Mann nähmlich in der Lage einen Orgasmus zu erleben, ohne dabei seinen wertvollen Lebensspendenden Mineralstoffcoctail zu verschleudern.
+
+Essenziell für den Erfolg beim Erlernen dieser Methode ist Ruhe, die Ruhe selbst in der völlig körperlich erregten Situation des Geschlechtsaktes seinen Körper präzise zu bewegen, denn wenn er lernt die Erregung weiter und weiter und weiter zu steigern ohn dabei die Muskuläre Kontrolle des Genitalbereiches zu verlieren wird er Gefühle und Sensationen erleben, die er sich nie erahnen hätte können.
+
+Ich werde hier nicht weiter darauf eingehen, da es andere Literatur zu diesem Thema zu genüge im Internet gibt.
