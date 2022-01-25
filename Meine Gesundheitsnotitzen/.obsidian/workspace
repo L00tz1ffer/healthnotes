@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sonochemie/Sonochemie.md",
+            "file": "Sonochemie/Glaubenssätze.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonochemie/Sonochemie.md",
+                "file": "Sonochemie/Glaubenssätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonochemie/Sonochemie.md"
+                "file": "Sonochemie/Glaubenssätze.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
-    "Sonochemie/Sonochemie.md",
     "Sonochemie/Glaubenssätze.md",
+    "Sonochemie/__Attatchments/emoto_masaru_frozen_water.png",
+    "Sonochemie/Sonochemie.md",
     "Index.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
     "Rezepte/Lugolsche Lösung.md",
     "Rezepte/Hydrogene Peroxide.md",
     "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
     "Gesprächskultur/Kontrolldramen/Kontrolldramen.md",
-    "Gesprächskultur/Gesprächskultur.md",
-    "Wichtige Persönlichkeiten/Andreas Noack.md"
+    "Gesprächskultur/Gesprächskultur.md"
   ]
 }
