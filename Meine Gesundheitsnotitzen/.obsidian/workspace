@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sonochemie/Glaubenssätze.md",
+            "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonochemie/Glaubenssätze.md",
+                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonochemie/Glaubenssätze.md"
+                "file": "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
+    "Wichtige Persönlichkeiten/Otto Warburg.md",
+    "Wichtige Persönlichkeiten/Manfred von Adrenne.md",
+    "Wichtige Persönlichkeiten/Andreas Noack.md",
+    "Wichtige Persönlichkeiten/Etienne Szekely.md",
+    "Wichtige Persönlichkeiten/Karl Popper.md",
     "Sonochemie/Glaubenssätze.md",
     "Sonochemie/__Attatchments/emoto_masaru_frozen_water.png",
     "Sonochemie/Sonochemie.md",
-    "Index.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
-    "Rezepte/Lugolsche Lösung.md",
-    "Rezepte/Hydrogene Peroxide.md",
-    "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
-    "Gesprächskultur/Kontrolldramen/Kontrolldramen.md",
-    "Gesprächskultur/Gesprächskultur.md"
+    "Index.md"
   ]
 }
