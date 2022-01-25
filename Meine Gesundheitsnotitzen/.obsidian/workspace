@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Lugolsche Lösung.md",
+            "file": "Index.md",
             "mode": "source",
             "source": false
           }
@@ -27,14 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dba515dd3d1f0419",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "302e545a3af96697",
             "type": "leaf",
             "state": {
@@ -48,8 +40,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "dba515dd3d1f0419",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Lugolsche Lösung.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +87,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte/Lugolsche Lösung.md"
+                "file": "Index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,15 +100,15 @@
   },
   "active": "1358abc799f2e505",
   "lastOpenFiles": [
+    "Index.md",
+    "Vitamine/Vitamin D.md",
+    "Roadmap.md",
     "Rezepte/Lugolsche Lösung.md",
     "Elemente des Periodensystems/Elemente.md",
     "Elemente des Periodensystems/Iod.md",
     "Glossar/Glossar.md",
     "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
-    "Index.md",
     "Glossar/Nützliche Gerätschaften/Destille.md",
-    "Gesprächskultur/Kontrolldramen/Das Opfer.md",
-    "Gesprächskultur/Kontrolldramen/Der Einschüchterer.md",
-    "Gesprächskultur/Kontrolldramen/Der Unnahbare.md"
+    "Gesprächskultur/Kontrolldramen/Das Opfer.md"
   ]
 }
