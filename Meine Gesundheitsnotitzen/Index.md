@@ -2,6 +2,8 @@
 
 # Heilmittel der Natur
 
+**Entlernen du musst, was früher du gelernt - Meister Yoda**
+
 
 # [Sonochemie](Sonochemie/Sonochemie.md)
 Bevor wir uns mit irgendwie gearteten Heilmitteln aus Materiellen Gütern befassen sollten wir für einen Augenblick inne halten und uns mal kurz auf uns konzentrieren!

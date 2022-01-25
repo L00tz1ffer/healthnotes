@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wichtige Nährstoffquellen/Sexualität.md",
+            "file": "Index.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Sexualität.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Sexualität.md"
+                "file": "Index.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Index.md",
     "Wichtige Nährstoffquellen/Sexualität.md",
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
@@ -107,7 +108,6 @@
     "Wichtige Persönlichkeiten/Manfred von Adrenne.md",
     "Wichtige Persönlichkeiten/Andreas Noack.md",
     "Wichtige Persönlichkeiten/Etienne Szekely.md",
-    "Wichtige Persönlichkeiten/Karl Popper.md",
-    "Sonochemie/Glaubenssätze.md"
+    "Wichtige Persönlichkeiten/Karl Popper.md"
   ]
 }
