@@ -34,6 +34,7 @@ Wenn Diese oder ähnliche Glaubenssätze anfangen werden dein Leben zu bestimmen
 - Never ever ever give up
 - Live is a daring adventure - or nothing!
 - Ich bin immer in guter Gesellschaft, der große Architekt wacht über mich
+- Ich bin immer zur rechten Zeit am rechten Ort
 
 ### Bonus: Die 8 Gebote der Entfesselung nach Dr. Andreas Noack
 1. Ich habe eine einzigartige Macht. Ich handle stets auf Basis meiner einzigartigen Macht.
