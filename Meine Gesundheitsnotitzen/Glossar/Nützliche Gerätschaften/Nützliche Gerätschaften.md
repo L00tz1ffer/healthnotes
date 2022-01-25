@@ -1,3 +1,3 @@
 # Nützliche Gerätschaften
-[[Höhensonne]]
-[[Destille]]
+[Höhensonne](Höhensonne.md)
+[Destille](Destille.md)

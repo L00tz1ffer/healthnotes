@@ -1,2 +1,2 @@
 # Destille
-Apparatur zur [[Destillation]] von Stoffen zur Abspaltung thermisch flüchtiger Inhaltsstoffe
+Apparatur zur [Destillation](../Destillation.md) von Stoffen zur Abspaltung thermisch flüchtiger Inhaltsstoffe

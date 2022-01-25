@@ -1,2 +1,2 @@
 # Hydrogene Peroxide
-siehe [[Wasserstoffperoxid]]
+siehe [Wasserstoffperoxid](Wasserstoffperoxid.md)

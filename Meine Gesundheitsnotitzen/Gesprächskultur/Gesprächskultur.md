@@ -1,1 +1,1 @@
-[[Kontrolldramen]]
+[Kontrolldramen](Kontrolldramen/Kontrolldramen.md)

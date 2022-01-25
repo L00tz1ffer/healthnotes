@@ -8,6 +8,6 @@ Dies tun sie durch die Nutzung von "erarbeiteten" Verhaltensmustern, sogenannten
 
 Was genau die Kontrolldramen sind und wie du dich vor ihnen Schützen kannst indem du sie auflöst erfährst du durch das klicken der unten stehenden Links
 
-[[Der Vernehmungsbeamte]] verhält sich Antagonistisch zu [[Der Unnahbare]]
+[Der Vernehmungsbeamte](Der%20Vernehmungsbeamte.md) verhält sich Antagonistisch zu [Der Unnahbare](Der%20Unnahbare.md)
 
-[[Der Einschüchterer]] verhält sich antagonistisch zu [[Das Opfer]]
+[Der Einschüchterer](Der%20Einschüchterer.md) verhält sich antagonistisch zu [Das Opfer](Das%20Opfer.md)

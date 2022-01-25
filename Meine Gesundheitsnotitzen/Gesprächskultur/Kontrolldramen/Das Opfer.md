@@ -12,7 +12,7 @@ Sucht Pertner mit Bedrohungspotential.
 
 
 ## Komplementärdrama
-Hauptantagonist ist **alles von dem man eine Entschuldigung erwarten kann, jedoch hauptsächlich [[Der Einschüchterer]]**.
+Hauptantagonist ist **alles von dem man eine Entschuldigung erwarten kann, jedoch hauptsächlich [Der Einschüchterer](Der%20Einschüchterer.md)**.
 
 
 ## Auflösung

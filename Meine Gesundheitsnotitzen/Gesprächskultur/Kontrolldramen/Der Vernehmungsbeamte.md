@@ -4,8 +4,8 @@
 Der Vernehmungsbeamte bezieht seine Aufmerksamkeit hauptsächlich durch __Kritik__ oder dem __Einfordern von Rechtfertigungen__ alles was man kritisieren oder hinterfragen kann.
 
 ## Komplementärdrama
-Als Gegenwehr verfällt das Gegenüber entweder in die Rolle  __"[[Der Unnahbare]]"__ 
-oder in die Rolle __"[[Das Opfer]]"__.
+Als Gegenwehr verfällt das Gegenüber entweder in die Rolle  __"[Der Unnahbare](Der%20Unnahbare.md)"__ 
+oder in die Rolle __"[Das Opfer](Das%20Opfer.md)"__.
 
 
 ## Auflösung des Dramas

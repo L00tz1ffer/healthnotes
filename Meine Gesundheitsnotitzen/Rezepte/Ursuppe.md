@@ -1,6 +1,6 @@
 # Ursuppe (Alchemistischer Mineralcoctail)
 ## Quelle
-Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darmstädter Chemiker, Alchemisten und Erfinder, sowie inspirator für dieses Werk: [[Andreas Noack]]
+Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darmstädter Chemiker, Alchemisten und Erfinder, sowie inspirator für dieses Werk: [Andreas Noack](../Wichtige%20Persönlichkeiten/Andreas%20Noack.md)
 
 ### Vorbereitung
 1. Holz Verbrennen
@@ -20,7 +20,7 @@ Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darm
 1. Eine Messerspitze Trockenmasse in ein Glas
 2. Zitronensaft hinzufügen
 3. Mischung schäumt auf durch Säure-Basen Reaktion
-4. Glas mit [[Wasser]] auffüllen / Substrat verdünnen
+4. Glas mit [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md) auffüllen / Substrat verdünnen
 5. Trinken
 	
 ### Trivia
