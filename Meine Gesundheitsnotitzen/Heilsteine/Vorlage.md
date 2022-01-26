@@ -1,5 +1,4 @@
-# Bergkristall
-
+# Vorlage
 ## Synonyme
 
 ## Reinigungszyklus
@@ -22,7 +21,6 @@
 ## Chakren
 
 ## Wirkung
-
 ### Körperlich
 
 ### Emotio Ratio

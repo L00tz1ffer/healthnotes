@@ -1,5 +1,4 @@
 # Bergkristall
-
 ## Synonyme
 - Wassertropfenquarz
 - Bergeis
