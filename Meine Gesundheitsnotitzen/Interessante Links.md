@@ -9,8 +9,8 @@
 | James Redfield | Die Prophezeihungen von Celestine | <https://www.youtube.com/watch?v=jqSyswDZLZo> |
 | Florence Scovel Shinn | Das Lebensspiel und seine Regeln | [Deutsch](https://www.youtube.com/watch?v=fOgFqamanIQ) [Englisch](https://www.youtube.com/watch?v=Mu-es6rGfOE) |
 | David Münnich | Die 5 Biologische Naturgesetze nach Dr. Ryke Geerd Hamer | <https://www.youtube.com/watch?v=Dv0LjabBQnk>|
-| Dr. Andreas Noack | Nährstofflabyrinth| [1 A](https://t.me/c/1736395625/30) [1 B](https://t.me/c/1736395625/31) [1 C](https://t.me/c/1736395625/32) [1 D](https://t.me/c/1736395625/33) [1 E](https://t.me/c/1736395625/34) [1 F](https://t.me/c/1736395625/35) [1 G](https://t.me/c/1736395625/42) [1 H](https://t.me/c/1736395625/43) [1 I Part 1](https://t.me/c/1736395625/44) [1 I Part 2]   |
-| | | |
+| Dr. Andreas Noack | Nährstofflabyrinth (Geschnittene Highlights)| [1 A](https://www.youtube.com/watch?v=_RUlbFFusNM) [1 B](https://www.youtube.com/watch?v=SgxhT-A_PtE) [1 C](https://www.youtube.com/watch?v=R7GeIqMkpIQ) [1 D](https://www.youtube.com/watch?v=MzmaX6WKtJw) [1 E](https://www.youtube.com/watch?v=09V9ioO-3fo) |
+| Dr. Andreas Noack | Nährstofflabyrinth (ungeschnitten)| [Part 1/3](https://www.youtube.com/watch?v=lWJU1MS8O78) [Part 2/3](https://www.youtube.com/watch?v=PbGb2f1O6bs) [Part 3/3](https://www.youtube.com/watch?v=lEL3lpuLsvw) |
 
 
 
