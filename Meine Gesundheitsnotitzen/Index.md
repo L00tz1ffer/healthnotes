@@ -10,9 +10,12 @@
 .quote-quote {
 	width: 70%; 
 	font-weight: bold;
+	float: left;
+	font-size: 50px;
 }
-.quote-author {
+.two-col-layout .quote-author {
 	width: 30%; 
+	float: left;
 }
 </style>
 
@@ -31,13 +34,13 @@
 
 
 <div class="two-col-layout">
-	<div class="quote">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
+	<div class="quote-quote">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
 	<div class="quote-author">Emelia Clarke</div>
 </div>
 
 
 <div class="two-col-layout">
-	<div class="quote">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+	<div class="quote-quote">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
 	<div class="quote-author">Veit Lindau</div>
