@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilsteine/Rosenquarz.md",
-            "mode": "source",
-            "source": false
+            "file": "Rezepte/Aschedünger.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilsteine/Rosenquarz.md",
+                "file": "Rezepte/Aschedünger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilsteine/Rosenquarz.md"
+                "file": "Rezepte/Aschedünger.md"
               }
             }
           },
@@ -109,6 +109,7 @@
   },
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
+    "Rezepte/Aschedünger.md",
     "Heilsteine/Rosenquarz.md",
     "Heilsteine/Vorlage.md",
     "Heilsteine/Heilsteine.md",
@@ -117,7 +118,6 @@
     "Unbenannt.md",
     "Interessante Links.md",
     "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
-    "Wichtige Nährstoffquellen/Salz.md",
-    "Rezepte/Rezepte.md"
+    "Wichtige Nährstoffquellen/Salz.md"
   ]
 }
