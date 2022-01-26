@@ -1,9 +1,11 @@
-| [Roadmap](Roadmap.md) |  [Spendenlink](https://www.paypal.com/paypalme/jensmysl)|
-|-|-|
+> Dies ist die [Roadmap](Roadmap.md) für das Projekt
+
+> Das Gesamte Werk entsteht in meiner Freizeit. Du kannst mich gerne dabei unterstützen indem du den [Spendenlink](https://www.paypal.com/paypalme/jensmysl) anklickst!
 
 
 
-## Zitate
+-----------
+## Einige wundervolle Zitate
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
 	<div style="font-weight: bold; width: 100%;">"Entlernen du musst, was früher du gelernt"</div>
