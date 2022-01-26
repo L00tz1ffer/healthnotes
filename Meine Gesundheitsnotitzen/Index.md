@@ -1,37 +1,40 @@
 [Roadmap](Roadmap.md)
 
-# Heilmittel der Natur
 
 ## Zitate
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold; width: 70%;">"Entlernen du musst, was früher du gelernt"</div>
-	<div style="width: 30%; text-align: right; vertical-align: middle;">Meister Yoda</div>
+<div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold; width: 100%;">"Entlernen du musst, was früher du gelernt"</div>
+	<div style="width: 90%; text-align: right; margin-top: 2em;">Meister Yoda</div>
 </div>
 
 </br>
 </br>
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold; width: 70%;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
-	<div style="width: 30%; text-align: right; vertical-align: middle;">Emelia Clarke</div>
+<div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold; width: 100%;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
+	<div style="width: 90%; text-align: right; margin-top: 2em;">Emelia Clarke</div>
 </div>
 </br>
 </br>
 
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold; width: 70%;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+<div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold; width: 100%;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
-	<div style="width: 30%; text-align: right; vertical-align: middle;">Veit Lindau</div>
+	<div style="width: 90%; text-align: right; margin-top: 2em;">Veit Lindau</div>
 </div>
+</br>
+</br>
 
 
+-----------------------------
 
 
+<h1 style="text-align: center; font-size: 5rem;">Heilmittel der Natur</h1>
 
-
+-----------------------------
 # [Sonochemie](Sonochemie/Sonochemie.md)
 Bevor wir uns mit irgendwie gearteten Heilmitteln aus Materiellen Gütern befassen sollten wir für einen Augenblick inne halten und uns mal kurz auf uns konzentrieren!
 
