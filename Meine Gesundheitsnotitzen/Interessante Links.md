@@ -2,3 +2,10 @@
 
 # [Spendenlink](https://www.paypal.com/paypalme/jensmysl)
 
+## Interessantes Zeug
+| Author | Name | Link |
+|-|-|-|
+| John Michele Fanuzzi | Internal Stargate Series | <https://www.internalstargate.com/> |
+| James Redfield | Die Prophezeihungen von Celestine | <https://www.youtube.com/watch?v=jqSyswDZLZo> |
+
+
