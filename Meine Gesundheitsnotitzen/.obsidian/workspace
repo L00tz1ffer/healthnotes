@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Unbenannt.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Unbenannt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Unbenannt.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "aba2525e21e0a33c",
   "lastOpenFiles": [
+    "Unbenannt.md",
     "Index.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md",
-    "Glossar/Kolloid.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
     "Interessante Links.md",
+    "Sonochemie/Sonochemie.md",
     "Wichtige Nährstoffquellen/Wasser.md",
-    "Roadmap.md",
-    "Rezepte/Ormus.md",
-    "Rezepte/Nutella.md",
-    "Glossar/Razemisch.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
+    "Wichtige Nährstoffquellen/Frische Mineralien.md"
   ]
 }

@@ -34,3 +34,29 @@ Ist das Quellwasser vom PH wert her sauer, so bedeutet dies, dass in dem Wasser 
 Natürlich im Wasser gebundenes Kohlendioxid hat die für uns sehr förderliche Eigenschaft, dass der Stoff andere Mineralien aus der Erde bei seinem Aufstieg an sich bindet und so für uns Verfügbar macht
 
 Setzen wir dem Wasser hingegen künstlich CO2 hinzu, so wie es jeden Tag Millionen von Litern Wasser geschieht, welches wir dann im Supermarkt kaufen können, so hat es keine Metalle, keine Mineralien gebunden. **Dieses Wasser entzieht und hingegen Elektrochemisch die Mineralien aus unserm Körper und ist damit bestenfalls mit Vorsicht zu genießen!**
+
+## Die Struktur des Wasers
+### Emoto Masaru
+Emoto Masaru ist ein Japanischer Wissenschaftler, der sich die erforschung von Wasser zum Ziel gesetzt hatte.
+
+#### Das Experiment
+Er kam auf die Idee Wasser von der selben Quelle in von einander Isolierten Räumen einzuschließen und anschließend MEnschen zu dem Wasser zu lassen und dem Wasser jewals unterschiedliche Emotionen einzugeben.
+
+Dieses vorgehen wurde auf unterschiedliche Weise durchgeführt, aber immer bei einer Verscuhsanordnung bestehend aus 2 oder mehr Probe auf die gleiche weise.
+
+Mal wurde also bei einem Versuch das Wasserglas mit Aufklebern mit wörtern drauf beklebt, ein anderes mal wurde zum Wasser gesprochen, ein drittes mal bekam das Wasser Songs vorgespielt.
+
+Im Anschluss an jeden solchen Versuch wurde das Wasser langsam abgekühlt und man erzeugte daraus Schnee.
+
+#### Das Ergebnis
+Das Ergebnis war jedoch bei allen Versuchsaufbauten gleich:
+Wurde dem Wasser eine Positive Emotion oder ein Harmonisches Geschehen oder Ereignis vermittelt, so bildete das Wasser wunderschöne Sechs- oder Fünfsternige Kristalle, wie in der Grafik unterhalb zu sehen.
+
+Sprach oder impregnierte man jedoch Angst, Hass, Furcht oder Missgunst dem Wasser gegenüber so resultierte dies in unförmigen, Chaotischen und teilweise ziemlich bizzarr aussehenden Kristallformationen.
+![Quelle: Emoto Masaru](__Attatchments/emoto_masaru_frozen_water.png)
+Quelle: Emoto Masaru
+
+#### Fragen die sich daraus Ergeben:
+- Welchen Einfluss hat unsere [Gesprächskultur](../Tipps%20für%20den%20Alltag/Gesprächskultur.md) auf unsere Gesundheit?
+- Welchen Einfluss hat unsere [Gesprächskultur](../Tipps%20für%20den%20Alltag/Gesprächskultur.md) auf unser Allgemeinwohl?
+- Wären wir nicht alle deutlich näher dem Paradies wenn wir in unseren Mitmenschen die Schönheit hervorheben würden - an stelle ihrer aus unserer Sicht ungünstigen Eigenschaften?

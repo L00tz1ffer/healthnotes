@@ -3,11 +3,11 @@
 ## Was ist Sonochemie? 
 Sonochemie ist wenn Unser Körper Stoffe nach dem Willen unseres Geistes hergestellt.
 
-Ähnlich wie wir mithilfe von Schallwellen kleine Bällchen aus Styropor schweben lassen können oder mit elektrischen Impulsen (EMP) Elektrische Geräte lahmlegen können, so scheinen elektromagnetische Impulse in Form unserer Gedanken und [Emotion](../Glossar/Emotion.md)en auch eine signifikante Wirkung auf unsere Körpereigenen Chemiefabriken zu haben.
+Ähnlich wie wir mithilfe von Schallwellen kleine Bällchen aus Styropor schweben lassen können oder mit elektrischen Impulsen (EMP) Elektrische Geräte lahmlegen können, so scheinen elektromagnetische Impulse in Form unserer Gedanken und [Emotionen](../Glossar/Emotion.md) auch eine signifikante Wirkung auf unsere Körpereigenen Chemiefabriken zu haben.
 Sicherlich ist jedem schonmal aufgefallen, dass wir bei guter Laune oder im Gefühl der Liebe ein anderes Körpergefühl haben als wenn wir schlecht gelaunt, verärgert oder gar depressiv verstimmt sind. Dies liegt daran, dass unser Körper andere Botenstoffe herstellt, die eben andere Nerven aktiv schalten, dadurch, dass sie auf ihre Rezeptoren verbinden.
 Dieses System legt anschaulich offen, dass unser Körper definitiv in der Lage ist je nach Bedarf andere Stoffe aus dem Ihm zur Verfügung stehenden Werkzeugen und Baumaterialien zu Synthetisieren
 
-Je nach Gemütszustand und je nach [Emotion](../Glossar/Emotion.md)aler Lage laufen Alchemistische Wechselwirkungen und Chemische Prozesse anders ab, die Atome reagieren auf das sie umgebende Elektrische Feld und ordnen sich entsprechend an. 
+Je nach Gemütszustand und je nach [Emotionaler](../Glossar/Emotion.md) Lage laufen Alchemistische Wechselwirkungen und Chemische Prozesse anders ab, die Atome reagieren auf das sie umgebende Elektrische Feld und ordnen sich entsprechend an. 
 
 ## Wie kann ich darauf nun Einfluss nehmen?
 Bevor wir darauf eingehen, wie wir nun Einfluss auf das Geschehen nehmen können müssen wir ersteinmal unsere [Glaubenssätze](Glaubenssätze.md) anpassen.
@@ -19,7 +19,7 @@ Es scheint als würden wir regelmäßig versuche unternehmen uns über den groß
 
 
 ## Wie kann ich davon profitieren?
-Man sagt es sind positive Emotionen hilfreich, doch wie erschaffe ich mir diese?
+Man sagt es sind positive [Emotionen](../Glossar/Emotion.md) hilfreich, doch wie erschaffe ich mir diese?
 #### Benutze deine Vorstellungskraft
 1. Finde einen Weg zur Ruhe
 	Es gibt viele unterschiedliche Wege die dahin führen können, ich werde dir hier ein paar einfache aufzeigen, die für mich funktioniert haben
@@ -53,29 +53,6 @@ Wichtig ist in jedem fall, dass du alle wörter Intentionell und in Liebe ausspr
 - Glück
 - Heil (Waldmanns**heil**)
 
-## Emoto Masaru
-Emoto Masaru ist ein Japanischer Wissenschaftler, der sich die erforschung von Wasser zum Ziel gesetzt hatte.
 
-### Das Experiment
-Er kam auf die Idee Wasser von der selben Quelle in von einander Isolierten Räumen einzuschließen und anschließend MEnschen zu dem Wasser zu lassen und dem Wasser jewals unterschiedliche Emotionen einzugeben.
-
-Dieses vorgehen wurde auf unterschiedliche Weise durchgeführt, aber immer bei einer Verscuhsanordnung bestehend aus 2 oder mehr Probe auf die gleiche weise.
-
-Mal wurde also bei einem Versuch das Wasserglas mit Aufklebern mit wörtern drauf beklebt, ein anderes mal wurde zum Wasser gesprochen, ein drittes mal bekam das Wasser Songs vorgespielt.
-
-Im Anschluss an jeden solchen Versuch wurde das Wasser langsam abgekühlt und man erzeugte daraus Schnee.
-
-### Das Ergebnis
-
-Das Ergebnis war jedoch bei allen Versuchsaufbauten gleich:
-Wurde dem Wasser eine Positive Emotion oder ein Harmonisches Geschehen oder Ereignis vermittelt, so bildete das Wasser wunderschöne Sechs- oder Fünfsternige Kristalle, wie in der Grafik unterhalb zu sehen.
-
-Sprach oder impregnierte man jedoch Angst, Hass, Furcht oder Missgunst dem Wasser gegenüber so resultierte dies in unförmigen, Chaotischen und teilweise ziemlich bizzarr aussehenden Kristallformationen.
-![Quelle: Emoto Masaru](__Attatchments/emoto_masaru_frozen_water.png)
-Quelle: Emoto Masaru
-
-### Fragen die sich daraus Ergeben:
-- Welchen Einfluss hat unsere Gesprächskultur auf unsere Gesundheit?
-- Welchen Einfluss hat unsere Gesprächskultur auf unser Allgemeinwohl?
-- Wären wir nicht alle deutlich näher dem Paradies wenn wir in unseren Mitmenschen die Schönheit hervorheben würden - an stelle ihrer aus unserer Sicht ungünstigen Eigenschaften?
-
+## [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md)
+In diesem Zusammenhang möge sich der Leser das Kapitel [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md) zu Gemüte führen, insbesondere hier wird das Ergebnis der Sonochemie eindrucksvoll zutage gefördert.
