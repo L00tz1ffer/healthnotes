@@ -5,8 +5,9 @@
 	flex-direction: column; 
 	flex-wrap: nowrap; 
 	text-align: center;
+	
 }
- .quote {
+.quote-quote {
 	width: 70%; 
 	font-weight: bold;
 }
@@ -23,7 +24,7 @@
 ## Zitate
 
 <div class="two-col-layout">
-	<div class="quote">"Entlernen du musst, was früher du gelernt"</div>
+	<div class="quote-quote">"Entlernen du musst, was früher du gelernt"</div>
 	<div class="quote-author">Meister Yoda</div>
 </div>
 
