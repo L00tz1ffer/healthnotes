@@ -27,7 +27,13 @@
 | Florence Scovel Shinn | Das Lebensspiel und seine Regeln | [Deutsch](https://www.youtube.com/watch?v=fOgFqamanIQ) [Englisch](https://www.youtube.com/watch?v=Mu-es6rGfOE) |
 
 ## auch interessant
+
+### Informatik
 | Author | Name | Link |
 |-|-|-|
 | [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) | Coding Adventure - Ant & Slime Simulations | <https://youtu.be/X-iSQQgOd1A>|
 
+### Ufos, Raum und Zeitreisen
+| Author | Name | Link |
+|-|-|-|
+|Phioo wills wissen|Flugscheiben Entwicklung Die Wissensbringer der Vedischen texte|https://youtu.be/Nsoso50_9tQ |
