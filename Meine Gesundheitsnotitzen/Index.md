@@ -5,19 +5,26 @@
 	flex-direction: column; 
 	flex-wrap: nowrap; 
 	text-align: center;
+	font-size: 50px;
 	
 }
 .quote-quote {
 	width: 70%; 
 	font-weight: bold;
 	float: left;
-	font-size: 50px;
+	
 }
 .two-col-layout .quote-author {
 	width: 30%; 
 	float: left;
 }
+
+.test {
+font-size: 50px;
+}
 </style>
+
+<div class="test">test</div>
 
 
 [Roadmap](Roadmap.md)
@@ -27,6 +34,7 @@
 ## Zitate
 
 <div class="two-col-layout">
+	test
 	<div class="quote-quote">"Entlernen du musst, was früher du gelernt"</div>
 	<div class="quote-author">Meister Yoda</div>
 </div>
