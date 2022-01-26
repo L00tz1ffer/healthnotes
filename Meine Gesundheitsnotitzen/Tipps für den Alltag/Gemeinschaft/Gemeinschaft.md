@@ -59,4 +59,4 @@ Ja richtig im wesentlichen war das mal der tragende Gedanke des Wortes Monarchie
 
 Der Monarch war als zwischenhändler zwischen den Fürsten erwählt um so die gemeinsame Route zu verfolgen und gleichwohl jedem der beteiligten Fürsten einheitlich einen Kompromiss zum wohle aller zu unterbreiten.
 
-Durch Machtspiele und Gier wurde das Monarchentum immer weiter in den Absolutismus getrieben, wodurch es sich selbst obsolet machte und uns in die [Demokratie](Gemeinschaft.md#Demokratie) führte.
+Durch Machtspiele und Gier wurde das Monarchentum immer weiter in den Absolutismus getrieben, wodurch es sich selbst obsolet machte und uns in die [Demokratie](#Demokratie) führte.

@@ -46,10 +46,10 @@ Halt Stop! ich meine es wirklich ernst!
 Wie seht tragen wir selbst zu unserem Wohlergehen oder unserem Unglück bei?
 Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument [Sonochemie](Sonochemie/Sonochemie.md) hinein, sie werden erstaunt sein, was dort auf Sie wartet
 
-# [Gesprächskultur](Gesprächskultur/Gesprächskultur.md)
+# [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
 Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
-Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Gesprächskultur/Gesprächskultur.md)
+Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
 
 ## Wasser
 - Quellwasser
