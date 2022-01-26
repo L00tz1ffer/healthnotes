@@ -1,25 +1,52 @@
 
+<style>
+.two-col-layout {
+	display: flex; 
+	flex-direction: column; 
+	flex-wrap: nowrap; 
+	text-align: center;
+}
+.two-col-layout .quote {
+	width: 70%; 
+	font-weight: bold;
+}
+.two-col-layout .quote-author {
+	width: 30%; 
+}
+</style>
+
 
 [Roadmap](Roadmap.md)
 
 # Heilmittel der Natur
 
 ## Zitate
-**"Entlernen du musst, was früher du gelernt"**<div style="text-align:right">Meister Yoda</div>
 
-<div class="flex-container" style="display: flex; flex-direction: column; flex-wrap: nowrap; align:center">
-<div style="width:70%; float: left">**"Entlernen du musst, was früher du gelernt"**</div>
-<div style="width:30%;  float: left">Meister Yoda</div>
+<div class="two-col-layout">
+	<div class="quote">"Entlernen du musst, was früher du gelernt"</div>
+	<div class="quote-author">Meister Yoda</div>
 </div>
+</br>
+</br>
 
 
-**"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"** -
-Emelia Clarke
+<div class="two-col-layout">
+	<div class="quote">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
+	<div class="quote-author">Emelia Clarke</div>
+</div>
+</br>
+</br>
 
-**"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+<div class="two-col-layout">
+	<div class="quote">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
-Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität".** 
-Veit Lindau
+Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
+	<div class="quote-author">Veit Lindau</div>
+</div>
+</br>
+</br>
+
+
 
 
 
