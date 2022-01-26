@@ -7,5 +7,4 @@ type: Checklist
 - [ ] Mehr über die einzelnen Elemente herausfinden
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
 - [ ] Vitaminliste ergänzen
-- [ ] Ciba geigy experiment
-- [ ] Ormus rezept
+- [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept

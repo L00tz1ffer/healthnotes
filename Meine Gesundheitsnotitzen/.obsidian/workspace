@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interessante Links.md",
-            "mode": "preview",
+            "file": "Roadmap.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interessante Links.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interessante Links.md"
+                "file": "Roadmap.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
+    "Roadmap.md",
     "Interessante Links.md",
     "Index.md",
     "Rezepte/Ormus.md",
@@ -108,7 +109,6 @@
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
     "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
-    "Vitamine/Vitamine.md",
-    "Glossar/Enzym.md"
+    "Vitamine/Vitamine.md"
   ]
 }
