@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interessante Links.md",
-            "mode": "preview",
+            "file": "Index.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interessante Links.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interessante Links.md"
+                "file": "Index.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
+    "Index.md",
+    "Wichtige Nährstoffquellen/Wasser.md",
     "Interessante Links.md",
     "Roadmap.md",
-    "Index.md",
     "Rezepte/Ormus.md",
     "Rezepte/Nutella.md",
     "Glossar/Razemisch.md",
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
-    "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
-    "Vitamine/Vitamine.md"
+    "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md"
   ]
 }

@@ -51,20 +51,10 @@ Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
 Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
 
-## Wasser
-- Quellwasser
-	+ Hunzer
-	+ Colloid Minerals
-	+ Lurd
-- warum Quellwasser
-	- enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form
-	- gutes Mineralwasser enthält Partikel die kleiner sind als die Zelle in die sie müssen
-- saures Quellwasser
-	- bedeutet, dass da mehr co² drin gelöst ist
-		- hat zur folge, dass das wasser mehr Mineralien bindet und mit zu tage fördern kann
-	- gutes Quellwasser hat mehr natürliches CO²
-- [Wasserstoffperoxid](Rezepte/Wasserstoffperoxid.md)
-				
+
+## [Wasser](Wichtige%20Nährstoffquellen/Wasser.md)
+Hier findest du einige wichtige Informationen zum Thema [Wasser](Wichtige%20Nährstoffquellen/Wasser.md)
+
 	
 		
 		
