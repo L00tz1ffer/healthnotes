@@ -5,26 +5,26 @@
 ## Zitate
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold;">"Entlernen du musst, was früher du gelernt"</div>
-	<div class="quote-author">Meister Yoda</div>
+	<div style="font-weight: bold; width: 70%;">"Entlernen du musst, was früher du gelernt"</div>
+	<div style="width: 30%; text-align: right; padding-top:2rem">Meister Yoda</div>
 </div>
 
 </br>
 </br>
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
-	<div class="quote-author">Emelia Clarke</div>
+	<div style="font-weight: bold; width: 70%;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
+	<div style="width: 30%; text-align: right; padding-top:2rem">Emelia Clarke</div>
 </div>
 </br>
 </br>
 
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
-	<div style="font-weight: bold;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+	<div style="font-weight: bold; width: 70%;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
-	<div class="quote-author">Veit Lindau</div>
+	<div style="width: 30%; text-align: right; padding-top:2rem">Veit Lindau</div>
 </div>
 
 
