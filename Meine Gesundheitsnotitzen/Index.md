@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
 	<div style="font-weight: bold; width: 70%;">"Entlernen du musst, was früher du gelernt"</div>
-	<div style="width: 30%; text-align: right; padding-top:2rem">Meister Yoda</div>
+	<div style="width: 30%; text-align: right; vertical-align: middle;">Meister Yoda</div>
 </div>
 
 </br>
@@ -14,7 +14,7 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
 	<div style="font-weight: bold; width: 70%;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
-	<div style="width: 30%; text-align: right; padding-top:2rem">Emelia Clarke</div>
+	<div style="width: 30%; text-align: right; vertical-align: middle;">Emelia Clarke</div>
 </div>
 </br>
 </br>
@@ -24,7 +24,7 @@
 	<div style="font-weight: bold; width: 70%;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
-	<div style="width: 30%; text-align: right; padding-top:2rem">Veit Lindau</div>
+	<div style="width: 30%; text-align: right; vertical-align: middle;">Veit Lindau</div>
 </div>
 
 
