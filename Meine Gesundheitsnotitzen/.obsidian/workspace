@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Interessante Links.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,13 +90,21 @@
                 "file": "Interessante Links.md"
               }
             }
+          },
+          {
+            "id": "610a0a2a1444790e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
