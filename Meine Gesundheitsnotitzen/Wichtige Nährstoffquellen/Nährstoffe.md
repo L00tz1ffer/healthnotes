@@ -20,9 +20,3 @@
 				- ist das gewollt?
 			- Bäume holen die mineralien aus dem Boden und reichern diese durch verdunstung in den Blättern an welche dann zu Humus werden
 
-## Salz
-- Gute Salze:
-	- [Himalaya Salz](Wichtige%20Nährstoffquellen/Lebensmittelkategorisierung%20nach%20Wertigkeit/Hochwertige%20Lebensmittel.md#Himalaya%20Salz)
-- warum Salz?
-	- enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form
-	- Salz ist das Reinigungsmittel des Körpers - sein Waschwasser!!!

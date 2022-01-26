@@ -1,3 +1,2 @@
 # Küchentipps
-## Salz ist Hitzeempfindlich
-Salz ist empfindlich gegenüber Hitze. Da das Salz aus Mineralstoffen besteht und diese bei einer bestimmte Temperatur freigesetzt werden und anschließend zum erwerb einer gemeinsamen größeren Oberfläche aglomerieren ist Salz am besten erst unmittelbar kurz vor dem Essen hinzuzuführen. Auf Diese Weise kann der Mineralstoffcoctail deine Zellen optimal erreichen
+## [Salz ist Hitzeempfindlich](../../Wichtige%20Nährstoffquellen/Salz.md#Salz%20ist%20Hitzeempflindlich)

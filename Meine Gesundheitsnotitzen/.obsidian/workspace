@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "aba2525e21e0a33c",
+        "id": "795479f91ebad8c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Rezepte.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d9e69f017188978c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wichtige Nährstoffquellen/Salz.md",
-            "mode": "source",
+            "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Salz.md",
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige Nährstoffquellen/Salz.md"
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md"
               }
             }
           }
@@ -110,13 +98,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9e69f017188978c",
+  "active": "795479f91ebad8c2",
   "lastOpenFiles": [
-    "Wichtige Nährstoffquellen/Salz.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md",
     "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+    "Wichtige Nährstoffquellen/Salz.md",
     "Rezepte/Rezepte.md",
     "Tipps für den Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
+    "Wichtige Nährstoffquellen/Nährstoffe.md",
     "Rezepte/Destilliertes Wasser.md",
     "Rezepte/Ormus.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
