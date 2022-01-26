@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
-            "mode": "preview",
+            "file": "Interessante Links.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Interessante Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Interessante Links.md"
               }
             }
           }
@@ -100,8 +100,8 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
-    "Index.md",
     "Interessante Links.md",
+    "Index.md",
     "Gesprächskultur/Gemeinschaft/Gemeinschaft.md",
     "Glossar/Nützliche Gerätschaften/Höhensonne.md",
     "Gesprächskultur/Gesprächskultur.md",
