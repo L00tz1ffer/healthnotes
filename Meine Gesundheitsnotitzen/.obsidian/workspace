@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+            "file": "Interessante Links.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+                "file": "Interessante Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md"
+                "file": "Interessante Links.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
+    "Interessante Links.md",
     "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
     "Wichtige Nährstoffquellen/Salz.md",
     "Rezepte/Rezepte.md",
@@ -108,7 +109,6 @@
     "Rezepte/Destilliertes Wasser.md",
     "Rezepte/Ormus.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
-    "Wichtige Persönlichkeiten/Karl Popper.md",
-    "Index.md"
+    "Wichtige Persönlichkeiten/Karl Popper.md"
   ]
 }
