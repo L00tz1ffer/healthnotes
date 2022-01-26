@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gesprächskultur/Gemeinschaft/Gemeinschaft.md",
+            "file": "Interessante Links.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gesprächskultur/Gemeinschaft/Gemeinschaft.md",
+                "file": "Interessante Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gesprächskultur/Gemeinschaft/Gemeinschaft.md"
+                "file": "Interessante Links.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Interessante Links.md",
+    "Index.md",
     "Gesprächskultur/Gemeinschaft/Gemeinschaft.md",
     "Glossar/Nützliche Gerätschaften/Höhensonne.md",
-    "Index.md",
     "Gesprächskultur/Gesprächskultur.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Sexualität.md",
-    "Wichtige Nährstoffquellen/Frische Mineralien.md"
+    "Wichtige Nährstoffquellen/Sexualität.md"
   ]
 }
