@@ -137,7 +137,7 @@ Hier findest du einige wichtige Informationen zum Thema [Wasser](Wichtige%20Näh
 [Elemente des Periodensystems](Elemente%20des%20Periodensystems.md)
 
 				
-# [Vitamine](Vitamine/Vitamine.md)
+# [Vitamine](Wichtige%20Nährstoffquellen/Vitamine/Vitamine.md)
 		
 # [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 		
