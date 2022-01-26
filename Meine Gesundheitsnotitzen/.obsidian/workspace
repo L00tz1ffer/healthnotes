@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Rezepte/Ormus.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Rezepte/Ormus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Rezepte/Ormus.md"
               }
             }
           }
@@ -100,10 +100,10 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
+    "Rezepte/Ormus.md",
     "Index.md",
     "Glossar/Razemisch.md",
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
-    "Rezepte/Ormus.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
     "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
     "Vitamine/Vitamine.md",

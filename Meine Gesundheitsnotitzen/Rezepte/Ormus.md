@@ -39,3 +39,6 @@ Aber auch grundlegend die Anleitung um aus Edelmetallen Bioverfügbare Kolloide 
 - Hilft vorallem bei Geistigen beschwerden
 - wirkt Bewusstseinserweiternd
 - kann überall eingebracht werden
+
+## Quelle
+<https://www.youtube.com/watch?v=nm8IKtIhMnI>
