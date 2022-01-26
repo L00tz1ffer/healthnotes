@@ -223,21 +223,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 			- Enzyme...
 
 
-### Enzyme
-- Aufgebaut aus Proteinen							
-	-  im Kern sitzt ein Edelmetall, welches die Enzymatischen Prozesse steuert
-- spalet bis zu 400 000 Moleküle pro sekunde!!!
-- was sind die wichtigsten kathalytisch aktiven Metalle?
-	- Vulkankurve der Kathalytisch aktiven Metalle
-	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/vulkankurve.png)
-		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
-	- je höher in der Vulkankurve desto höher die Gitterenergie
-	- je höher die Gitterenergie desto schwieriger die nutzarmachung als Bioverfügbares Nutrazeutikum
-- je geringer die kathalytische aktivität, desto wertloser das Enzym in dem das Element sitzt
-	- Enzyme gehen kaputt dadurch
-- Je höher die kathalysefähigkeiten des Elements desto mehr davon sollte man im Körper haben
-	- [Platin](Elemente%20des%20Periodensystems/Platin.md), [Gold](Elemente%20des%20Periodensystems/Gold.md), [Silber](Elemente%20des%20Periodensystems/Silber.md),  [Iridium](Elemente%20des%20Periodensystems/Iridium.md) & [Rhodium](Elemente%20des%20Periodensystems/Rhodium.md)
-- Pflanzen auf Humusboden versorgen uns mit kolloidalen Metallkomplexen
+
 											
 
 ## Es handelt sich bei allen folgenden Elementen um ihre Bioverfügbare Form, das Kolloid oder seine "Monoatomare"		Struktur	

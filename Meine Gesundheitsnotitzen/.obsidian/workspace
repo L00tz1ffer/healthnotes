@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Glossar/Glossar.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Glossar/Glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Glossar/Glossar.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
-    "Index.md",
+    "Glossar/Glossar.md",
     "Glossar/Enzym.md",
+    "Index.md",
     "Elemente des Periodensystems.md",
     "Vitamine/Vitamin E.md",
     "Wichtige Persönlichkeiten/Andreas Noack.md",
     "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
     "Tipps für den Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
-    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Interessante Links.md"
+    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md"
   ]
 }
