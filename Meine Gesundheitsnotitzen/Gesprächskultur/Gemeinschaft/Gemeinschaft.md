@@ -42,3 +42,10 @@ Wie sicher ist da ein Ergebnis, das keines der Gruppenmitglieder sehen wollte?
 Wie wäre es hingegen, wenn der Führer immer der ist, der den signifikantesten Beitrag zum Wohlergehen der Gruppe leistet?
 Wie sicher ist es das eine Gruppe mit einem Führer selektiert nach maßgabe des Beitrags zur harmonischen Gruppendynamik ihre Ziele erreicht?
 Wie wahrscheinlich ist es, dass jemand ausgeschlossen wird, wenn das mehrheitliche Stimmrecht bei demjenigen Gruppenmitgleid liegt, dass die Gruppe als solche zusammenbringt?
+
+Ja richtig im wesentlichen war das mal der tragende Gedanke des Wortes Monarchie, der Monarch sollte immer der sein, der am Signifikantesten dazu beitrug die Gruppe stabil zu halten und unter den Mitgliedern zu vermitteln, sodass alle ihre wünsche berücksichtigt wurden.
+
+Der Monarch war als zwischenhändler zwischen den Fürsten erwählt um so die gemeinsame Route zu verfolgen und gleichwohl jedem der beteiligten Fürsten einheitlich einen Kompromiss zum wohle aller zu unterbreiten.
+
+Durch Machtspiele und Gier wurde das Monarchentum immer weiter in den Absolutismus getrieben, wodurch es sich selbst obsolet machte und uns in die [Demokratie](Gemeinschaft.md#Demokratie) führte.
+
