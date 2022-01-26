@@ -7,5 +7,5 @@
 |-|-|-|
 | John Michele Fanuzzi | Internal Stargate Series | <https://www.internalstargate.com/> |
 | James Redfield | Die Prophezeihungen von Celestine | <https://www.youtube.com/watch?v=jqSyswDZLZo> |
-
+| Florence Scovel Shinn | Das Lebensspiel und seine Regeln | [Deutsch](https://www.youtube.com/watch?v=fOgFqamanIQ) [Englisch](https://www.youtube.com/watch?v=Mu-es6rGfOE) | 
 
