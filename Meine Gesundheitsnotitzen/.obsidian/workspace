@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Ormus.md",
-            "mode": "source",
+            "file": "Interessante Links.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Ormus.md",
+                "file": "Interessante Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte/Ormus.md"
+                "file": "Interessante Links.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
-    "Rezepte/Ormus.md",
+    "Interessante Links.md",
     "Index.md",
+    "Rezepte/Ormus.md",
+    "Rezepte/Nutella.md",
     "Glossar/Razemisch.md",
     "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
     "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
     "Vitamine/Vitamine.md",
-    "Glossar/Enzym.md",
-    "Glossar/Emotion.md",
-    "Elemente des Periodensystems/Elemente.md"
+    "Glossar/Enzym.md"
   ]
 }
