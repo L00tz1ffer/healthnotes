@@ -24,7 +24,13 @@ Aber auch grundlegend die Anleitung um aus Edelmetallen Bioverfügbare Kolloide 
 	1. Dazu setzen wir den Metalltrichter auf und geben eine kleine Menge Salzsäure hinzu.
 		- Vorsicht diese fängt direkt an mit dem Wasser zu reagieren und es kann zu Spritzern kommen
 	2. Anschließend fügen wir ebenso eine kleine Menge [Wasserstoffperoxid](Wasserstoffperoxid.md) hinzu (ca. 2 Teelöffel voll)
-	3. Die beiden Schritte werden etwa alle 2 Stunden wiederholt.
+	3. Die beiden Schritte werden etwa alle 2 Stunden wiederholt bis das [Gold](../Elemente%20des%20Periodensystems/Gold.md) sich vollständig gelöst hat.
 		- Am Anfang kann auch etwas mehr von den beiden Chemikalien hinzugefügt werden um das kalte Feuer zu entfachen.
-		- Später jedoch immer nur 1 - 2 Teelöffel
+		- Später jedoch immer nur 1 - 2 Teelöffel 
+	4. Wenn das komplette Gold aufgelöst ist wird die Salzsäure mit Natronlauge Abgelöscht
+	5. .
+	6. 
+		
+ 
+		
 7. 
