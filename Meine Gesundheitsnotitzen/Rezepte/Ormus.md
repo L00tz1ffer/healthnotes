@@ -21,7 +21,10 @@ Aber auch grundlegend die Anleitung um aus Edelmetallen Bioverfügbare Kolloide 
 4. Jetzt ist es zum Einfüllen der Reagenzen Zeit Sicherheitsvorkehrungen zu treffen: also Schutzbrille anziehen und Sicherheitshandschuhe
 5. nun tu das Gold hinzu
 6. Nun entfachen wir das was die Alchemisten kaltes Feuer nannten:
-	1. Dazu setzen wir den Metalltrichter auf und geben eine kleine Menge Salzsäure hinzu 
+	1. Dazu setzen wir den Metalltrichter auf und geben eine kleine Menge Salzsäure hinzu.
 		- Vorsicht diese fängt direkt an mit dem Wasser zu reagieren und es kann zu Spritzern kommen
-	2. Anschließend fügen wir ebenso eine kleine Menge [Wasserstoffperoxid](Wasserstoffperoxid.md) hinzu
+	2. Anschließend fügen wir ebenso eine kleine Menge [Wasserstoffperoxid](Wasserstoffperoxid.md) hinzu (ca. 2 Teelöffel voll)
+	3. Die beiden Schritte werden etwa alle 2 Stunden wiederholt.
+		- Am Anfang kann auch etwas mehr von den beiden Chemikalien hinzugefügt werden um das kalte Feuer zu entfachen.
+		- Später jedoch immer nur 1 - 2 Teelöffel
 7. 
