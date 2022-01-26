@@ -7,8 +7,12 @@
         "id": "73d68d2f0b933fc1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ]
@@ -93,15 +100,15 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
+    "Index.md",
+    "Glossar/Razemisch.md",
+    "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Rezepte/Ormus.md",
     "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
     "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
     "Vitamine/Vitamine.md",
     "Glossar/Enzym.md",
     "Glossar/Emotion.md",
-    "Elemente des Periodensystems/Elemente.md",
-    "Glossar/Kathalytisch aktives Metall.md",
-    "Glossar/Glossar.md",
-    "Index.md"
+    "Elemente des Periodensystems/Elemente.md"
   ]
 }

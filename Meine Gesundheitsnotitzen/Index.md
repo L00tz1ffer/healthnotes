@@ -182,6 +182,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	- Ein Elektromagneitscher Feldgenerator
 	- reichert Quarz / Siliziumoxid an mit der Intention auf piezoelektrischer Bewegung beruhend einen elektromagnetischen Puls räumlich zu etablieren
 
+#### [Sexualität](Wichtige%20Nährstoffquellen/Sexualität.md)
 				
 					
 ## Die Nahrungsmittelproduktion
@@ -198,13 +199,10 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	
 ## Molekulare Verbindungen
 ### was nicht in den Körper gehört:
-#### Razemische Komplexe
-- Künstlich hergestellt
-- 2D strukturen werden in 3D produziert
-- je nach anzahl der möglichen Richtungsänderungen in der Struktur steigt exponentiell der Prozentsatz an nicht als solche identifizierbaren Abfallprodukten
+#### [Razemische Komplexe](Glossar/Razemisch.md)
 
 ### Was der Körper braucht
-#### [Kolloid](Glossar/Kolloid.md)e
+#### [Kolloide](Glossar/Kolloid.md)
 				
 ## Die Elemente
 ### Grundlegendes
