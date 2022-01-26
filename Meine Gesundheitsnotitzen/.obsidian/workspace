@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interessante Links.md",
+            "file": "Index.md",
             "mode": "preview",
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interessante Links.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interessante Links.md"
+                "file": "Index.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
-    "Interessante Links.md",
     "Index.md",
+    "Wichtige Persönlichkeiten/Andreas Noack.md",
+    "Interessante Links.md",
     "Gesprächskultur/Gemeinschaft/Gemeinschaft.md",
     "Glossar/Nützliche Gerätschaften/Höhensonne.md",
     "Gesprächskultur/Gesprächskultur.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Sexualität.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md"
   ]
 }
