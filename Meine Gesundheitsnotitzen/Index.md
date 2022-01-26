@@ -57,63 +57,8 @@ Was trinkst du den ganzen Tag?
 Hier findest du einige wichtige Informationen zum Thema [Wasser](Wichtige%20Nährstoffquellen/Wasser.md)		
 	
 ## [Nährstoffe](Wichtige%20Nährstoffquellen/Nährstoffe.md)
-					
-## Wissenschaft
-- alle Naturwissenschaften sind kinder der Alchemie
-	- daraus folgt, dass nur der interdisziplinäre exkurs zu mehrwert führt
-		- einzelkampf und wetteifern der verschiedenen Disziplinen führen in den untergang
-### Der Fehler im System
-- überkomplizierte lehrweisen von unqualifizierten Lehrern haben zur folge, dass der Bildngsstand sinkt.
-	- Lehrer sind häufig selbst noch schüler daher unqualifizierten
-		- dies hat zur Folge, dass die unterweisungen sinnloserweise übermäßig kompliziert sind
-		- zum lehren sollten nur meister befugt sein, keine Amateure!
-		- unzukässige verallgemeinerungen
-		- Wortmanipulationen, Begriffsumdeutungen
-		- unzureichende Kartographie / erklärung des Systems
-		- kontraintuitiv
-		- unterbewusstsein ahnt, dass die schüler **verarscht** werden
-			- Resultat: **Pseudowissen**
-				- **gefährlich**
-				- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/tk_manipulation.png)
-					-  Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 
-### Beispiel
-- Eine Himbeere enthält bis zu über 2 Mio. 	Extrahierarer Substanzen
-	- Ein Ökotrophologe ist bereit 50 dieser Substanzen als relevant zu klassifizieren
-		- den Rest muss er, da er nicht versteht, wass die stoffe tun als irrelevant einschätzen
-### Pyramiden
-- alles ist Pyramidal aufgebaut, das Fundament bildet eine Pyramide.
-	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/pyramides.png)	
-		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
-	-  Wissenschaft geht vor indem bei der Analyse eines Problems die beiden Spitzen des Spektrums abgeschnitten werden und übersieht dabei wesentliche Eigenarten des beobachteten Systems
-### Woran erkennt man einen guten Wissenschaftler?
-- "Er weiß, dass er nichts weiß"
-	- man kann nur ein Modell entwickeln
-	- man kann niemals wissen wie es wirklich aussieht
-	- der echte Wissenschaftler weiß genau. dass er nur Modelle entwickeln kann und mutmaßen
-	- Arbeitet nach der Popperschen Philosophie
-	- nach **[Karl Popper](Wichtige%20Persönlichkeiten/Karl%20Popper.md)**
-		- Wissenschaft ist aneinanderreihung von Mutmaßungen
-			- Beispiel
-				- These: 
-					- Alle schwäne sind weiß
-					- Falsche Methode 
-						- Beobachtet schwäne und zählt die weißen schwäne
-						- sucht den Beweis dafür, dass es nur weiße schwäne gibt
-					- richtige Methode
-						- suche nach dem andersfarbigen Schwan
-					- Conclusio:
-						- man kann eine These nicht beweisen
-						- man kann sie nur Wiederlegen
-						- **Theorie macht nur sinn wenn sie wiederlegbar ist**
-						- Naturgesetze sind nur spekulativ schätzbar und wollen durch wiederlegung eingegrenzt werden
-					- Fotschritt:
-						- Verantwortungsvolle Politik besteht aus dem _**einen großen Sprung**_, nicht kleinen Schritten
-							- gleiches geht für Theorien
-							- weg mit dem alten
-							- Es macht mehr Sinn theorien zu töten als Menschen
-							- heutige "wissenschaft" versucht lediglich dogmatisch thesen zu beweisen (in kleinen schritten)
-								- man mobbt fähige und inteilligente menschen aus ihrem Job oder denunziert sie
+## [Wissenschaft](Wissenschaft.md)
 					
 					
 ## Der Organismus
