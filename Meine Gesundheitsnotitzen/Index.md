@@ -250,7 +250,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 				
 # [Vitamine](Vitamine/Vitamine.md)
 		
-
+# [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 		
 # [Rezepte](Rezepte/Rezepte.md)
 
