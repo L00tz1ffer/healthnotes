@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vitamine/Vitamine.md",
+            "file": "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitamine/Vitamine.md",
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vitamine/Vitamine.md"
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md"
               }
             }
           }
@@ -100,6 +100,8 @@
   },
   "active": "73d68d2f0b933fc1",
   "lastOpenFiles": [
+    "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md",
     "Vitamine/Vitamine.md",
     "Glossar/Enzym.md",
     "Glossar/Emotion.md",
@@ -107,8 +109,6 @@
     "Glossar/Kathalytisch aktives Metall.md",
     "Glossar/Glossar.md",
     "Index.md",
-    "Elemente des Periodensystems.md",
-    "Vitamine/Vitamin E.md",
-    "Wichtige Persönlichkeiten/Andreas Noack.md"
+    "Elemente des Periodensystems.md"
   ]
 }
