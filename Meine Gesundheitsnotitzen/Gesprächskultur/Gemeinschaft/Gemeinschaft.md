@@ -9,6 +9,18 @@ Zusammenhalt erfordert Nächstenliebe, das bedeutet sich um das Wohl seiner Mitm
 Wenn ich sehe, dass es meinem Bruder schlecht geht dann frage ich ihn, wie ich ihm helfen kann anstatt sich darüber zu beschweren, dass er mir im Weg steht.
 Sieht man da draussen auf die Straße, könnte man meinen das Gegenteil wäre richtig, Hochnäsig laufen die etwas besser verdienenden an den Obdachlosen vorbei und beschweren sich darüber, dass diese einem im Wege sitzen würden. Stattdessen könnte man sich mit ihnen unterhalten und feststellen, dass diese vielleicht auch ein schwieriges Schicksal haben und möglicherweise genau die Expertise, die man selbst braucht. Schwupp die Wupp wäre ein tauschgeschäft geboren!
 
+## Erkenne dich in deinem Gegenüber
+Wir selbst neigen dazu stets das gute in uns, jedoch das schlechte in unserem Gegenüber zu sehen.
+Wie wäre es also wenn wir uns gezielt darauf zu konzentrieren uns selbst gegenüber Sachliche Kritik zu äußern und diese sachlich zu verwerten und umzusetzen, während wir an unseren Mitmenschen gezielt das beste hervorheben?
+
+#### Jeder hat seine guten Seiten 
+Nicht nur das wir uns durch diese Herangehensweise ein positives Bild unserer Mitmenschen erhalten, kommt auch noch hinzu, dass es wesentlich unwahrscheinlicher ist seine Zeit mit einem Streit zu verbringen, wenn man bevor man kritik äußert seinem Gegenüber freundlich mitteilt dass obwohl das eine kleine Detail übersehen wurde man selbst ohne diese Hilfe wesentlich mehr Arbeit gehabt hätte bei vermutlich schlechterem Ergebnis.
+
+Man stelle sich mal folgende Situation vor:
+Jemand kippt ihnen eine Tasse Kaffee über.
+Sie haben nun die Möglichkeit sich aufzuregen und lauthals zu zetern was das soll oder aber sie nehmen sich einen Moment Zeit, atmen gegebenenfalls tief durch und fragen ob Ihr gegenüber denn in seiner Eile und seinem Stress einen neuen Kaffe haben will.
+Mit hoher wahrscheinlichkeit kommt hier ein für beide Seiten fruchtbarer Austausch zu stande.
+
 ### Dankbarkeit
 Die verlorene Kunst ist die Dankbarkeit. Wir sagen Danke weil wir gelernt haben Danke zu sagen, aber für wen ist dieses großartige Wort noch mehr als eine Phrase? Was wäre wenn wir als Menschheit wieder mehr wert auf Dankbarkeit legen würden? 
 #### Beispiele:
