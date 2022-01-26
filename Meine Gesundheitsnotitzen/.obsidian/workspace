@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wissenschaft.md",
+            "file": "Roadmap.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wissenschaft.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wissenschaft.md"
+                "file": "Roadmap.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "aba2525e21e0a33c",
   "lastOpenFiles": [
+    "Roadmap.md",
     "Wissenschaft.md",
     "Wichtige Nährstoffquellen/Wasser.md",
     "Wichtige Persönlichkeiten/Paracelsus.md",
@@ -108,7 +109,6 @@
     "Sonochemie/Sonochemie.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md"
   ]
 }
