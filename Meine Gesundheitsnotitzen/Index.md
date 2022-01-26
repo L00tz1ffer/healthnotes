@@ -1,3 +1,5 @@
+
+
 [Roadmap](Roadmap.md)
 
 # Heilmittel der Natur
@@ -5,7 +7,7 @@
 ## Zitate
 **"Entlernen du musst, was früher du gelernt"**<div style="text-align:right">Meister Yoda</div>
 
-<div class="flex-container" style="align:center">
+<div class="flex-container" style="display: flex; flex-direction: column; flex-wrap: nowrap; align:center">
 <div style="width:70%; float: left">**"Entlernen du musst, was früher du gelernt"**</div>
 <div style="width:30%;  float: left">Meister Yoda</div>
 </div>
