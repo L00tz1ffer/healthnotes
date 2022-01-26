@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
-            "mode": "preview",
-            "source": true
+            "file": "Vitamine/Vitamin E.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Vitamine/Vitamin E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Vitamine/Vitamin E.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "b89dd605696c8f47",
   "lastOpenFiles": [
+    "Vitamine/Vitamin E.md",
     "Index.md",
     "Wichtige Persönlichkeiten/Andreas Noack.md",
     "Interessante Links.md",
@@ -108,7 +109,6 @@
     "Gesprächskultur/Gesprächskultur.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Mittelwertige Lebensmittel.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Minderwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md"
   ]
 }
