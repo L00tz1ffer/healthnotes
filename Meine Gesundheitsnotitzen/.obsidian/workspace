@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "d9e69f017188978c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wichtige Nährstoffquellen/Salz.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Rezepte.md",
+                "file": "Wichtige Nährstoffquellen/Salz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte/Rezepte.md"
+                "file": "Wichtige Nährstoffquellen/Salz.md"
               }
             }
           }
@@ -98,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aba2525e21e0a33c",
+  "active": "d9e69f017188978c",
   "lastOpenFiles": [
-    "Rezepte/Rezepte.md",
-    "Rezepte/Ormus.md",
+    "Wichtige Nährstoffquellen/Salz.md",
     "Wichtige Nährstoffquellen/Nährstoffe.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+    "Rezepte/Rezepte.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
+    "Rezepte/Destilliertes Wasser.md",
+    "Rezepte/Ormus.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
     "Wichtige Persönlichkeiten/Karl Popper.md",
-    "Index.md",
-    "Roadmap.md",
-    "Wissenschaft.md",
-    "Wichtige Nährstoffquellen/Wasser.md",
-    "Wichtige Persönlichkeiten/Paracelsus.md"
+    "Index.md"
   ]
 }
