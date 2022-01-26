@@ -1,57 +1,27 @@
-
-<style>
-.two-col-layout {
-	
-	
-}
-.quote-quote {
-	width: 70%; 
-	font-weight: bold;
-	float: left;
-	
-}
-.two-col-layout .quote-author {
-	width: 30%; 
-	float: left;
-}
-
-.test {
-font-size: 50px;
-}
-
-
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-</style>
-
-<div class="test">test</div>
-
-
 [Roadmap](Roadmap.md)
 
 # Heilmittel der Natur
 
 ## Zitate
 
-<div class="two-col-layout">
-	test
-	<div class="quote-quote">"Entlernen du musst, was früher du gelernt"</div>
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold;">"Entlernen du musst, was früher du gelernt"</div>
 	<div class="quote-author">Meister Yoda</div>
 </div>
 
+</br>
+</br>
 
-
-<div class="two-col-layout">
-	<div class="quote-quote">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
 	<div class="quote-author">Emelia Clarke</div>
 </div>
+</br>
+</br>
 
 
-<div class="two-col-layout">
-	<div class="quote-quote">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; text-align: center;">
+	<div style="font-weight: bold;">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
 Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
 	<div class="quote-author">Veit Lindau</div>
