@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "73d68d2f0b933fc1",
+        "id": "aba2525e21e0a33c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73d68d2f0b933fc1",
+  "active": "aba2525e21e0a33c",
   "lastOpenFiles": [
     "Index.md",
-    "Wichtige Nährstoffquellen/Wasser.md",
+    "Wichtige Nährstoffquellen/Nährstoffe.md",
+    "Glossar/Kolloid.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
     "Interessante Links.md",
+    "Wichtige Nährstoffquellen/Wasser.md",
     "Roadmap.md",
     "Rezepte/Ormus.md",
     "Rezepte/Nutella.md",
-    "Glossar/Razemisch.md",
-    "Wichtige Nährstoffquellen/Frische Mineralien.md",
-    "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
-    "Tipps für den Alltag/Allgemeine Tipps/Lesen von Studien.md"
+    "Glossar/Razemisch.md"
   ]
 }
