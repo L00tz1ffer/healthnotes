@@ -22,6 +22,13 @@
 .test {
 font-size: 50px;
 }
+
+
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
 </style>
 
 <div class="test">test</div>
