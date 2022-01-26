@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
 	<div style="font-weight: bold; width: 100%;">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
-	<div style="width: 90%; text-align: right; margin-top: 2em;">Emelia Clarke</div>
+	<div style="width: 100%; text-align: center; margin-top: 2em;">Emelia Clarke</div>
 </div>
 </br>
 </br>
