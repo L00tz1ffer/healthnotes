@@ -6,11 +6,11 @@
 	flex-wrap: nowrap; 
 	text-align: center;
 }
-.two-col-layout .quote {
+ .quote {
 	width: 70%; 
 	font-weight: bold;
 }
-.two-col-layout .quote-author {
+.quote-author {
 	width: 30%; 
 }
 </style>
@@ -26,16 +26,14 @@
 	<div class="quote">"Entlernen du musst, was früher du gelernt"</div>
 	<div class="quote-author">Meister Yoda</div>
 </div>
-</br>
-</br>
+
 
 
 <div class="two-col-layout">
 	<div class="quote">"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"</div>
 	<div class="quote-author">Emelia Clarke</div>
 </div>
-</br>
-</br>
+
 
 <div class="two-col-layout">
 	<div class="quote">"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
@@ -43,8 +41,7 @@ Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
 Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität."</div>
 	<div class="quote-author">Veit Lindau</div>
 </div>
-</br>
-</br>
+
 
 
 
