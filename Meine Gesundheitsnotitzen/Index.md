@@ -2,7 +2,18 @@
 
 # Heilmittel der Natur
 
-**Entlernen du musst, was früher du gelernt - Meister Yoda**
+## Zitate
+**"Entlernen du musst, was früher du gelernt"**<div style="text-align:right">Meister Yoda</div>
+
+
+**"Diskutiere nie mit jemandem dessen Fernseher größer ist als sein Bücherregal"** -
+Emelia Clarke
+
+**"Deine zwei wichtigsten Investitionen für das was in den kommenden 2 bis 10 Jahren auf uns zu kommt sind: 
+Ein gut trainierter Geist, der unter allen umständen klar und Ruhig bleibt
+Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität".** 
+Veit Lindau
+
 
 
 # [Sonochemie](Sonochemie/Sonochemie.md)
