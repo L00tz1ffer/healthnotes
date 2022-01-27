@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Index.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -110,14 +110,14 @@
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
     "Index.md",
+    "Heilsteine/Heilsteine.md",
+    "Rezepte/Rezepte.md",
+    "Heilsteine/Vorlage.md",
     "Interessante Links.md",
     "Roadmap.md",
     "Rezepte/Aschedünger.md",
     "Heilsteine/Rosenquarz.md",
-    "Heilsteine/Vorlage.md",
-    "Heilsteine/Heilsteine.md",
     "Heilsteine/Rubin.md",
-    "Heilsteine/Bergkristall.md",
-    "Unbenannt.md"
+    "Heilsteine/Bergkristall.md"
   ]
 }
