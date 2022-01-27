@@ -7,5 +7,5 @@
 [Nutella](Nutella.md)
 [Ursuppe](Ursuppe.md)
 [Natürlicher Unkrautvernichter](Natürlicher%20Unkrautvernichter.md)
-
+[Natürliches Antibiotikum](Natürliches%20Antibiotikum.md)
 ## [Küchentipps](../Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Küchentipps.md)
