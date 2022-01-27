@@ -139,7 +139,9 @@ Hier findest du einige wichtige Informationen zum Thema [Wasser](Wichtige%20Näh
 [Elemente des Periodensystems](Elemente%20des%20Periodensystems.md)
 
 				
-# [Vitamine](Wichtige%20Nährstoffquellen/Vitamine/Vitamine.md)
+# [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige%20Nährstoffquellen/Nährstoffe.md)
+
+# [Heilsteine](Heilsteine/Heilsteine.md)
 		
 # [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 		
