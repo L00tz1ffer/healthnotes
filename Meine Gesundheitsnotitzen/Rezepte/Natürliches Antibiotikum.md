@@ -23,4 +23,34 @@
 
 Das Einmachglas wird jetzt für 2 Wochen an einen kühlen Platz gestellt und im Idealfall täglich mindestens einmal geschüttelt.
 
-Nach den 2 Wochen täglichen schüttelns und kühlen Lagerns wird nun die Flüssigkeit, welche nun mit den Inhaltsstoffen der anderen Zutaten angereichert wurde in eine Flasche abgegossen
+Nach den 2 Wochen täglichen schüttelns und kühlen Lagerns wird nun die Flüssigkeit, welche nun mit den Inhaltsstoffen der anderen Zutaten angereichert wurde in eine Flasche abgegossen.
+
+Um die Ausbeute zu Maximieren sollte anschließend die Mischung anschließend Möglichst wirksam ausgepresst werden, Verwenden Sie dazu ruhig ein Baumwolltuch oder eine Presse, es bietet sich auch ein sehr feines Sieb an.
+
+## Verwertung des Rückstandes
+Der Rückstand, der sogenannte Trester kann weiterverwendet werden. Es empfiehlt sich dazu sehr kleine Mengen des Tresters zu verwenden.
+
+Alternativ kann das Gemisch getrocknet werden, etwa mit einem Dörrgerät oder bei niedriger Temperatur im Backofen. 
+Anschließend kann der Trester in einer Gewürzdose verwahrt werden.
+
+## Haltbarkeit
+Eine Haltbarkeit kann nicht angegeben werden.
+Es wird jedoch gesagt, dass die Aufbewahrung des Antibiotikum im Kühlschrank sehr Lange Nutzbarkeit verspricht.
+
+Man spricht hier von ungefähr 3 Monaten.
+
+Sollten sich Geschmackliche Veränderungen ergeben, so ist es wahrscheinlich, dass die Haltbarkeit des Substrates dem Ende naht, die genießbarkeit geht somit verloren.
+
+## Anwendung
+**Warnung: Das Antibiotikum ist SEHR SCHARF, daher mit Vorsicht zu genießen**
+
+- Verdünnen Sie das Substrat mit viel Wasser - 1Tl Substrat auf mind. 150ml Wasser
+- Es empfiehlt sich mit einem solchen Glas zu anzusetzen
+- Die Dosis kann täglich ein wenig erhöht werden, bis etwa ein Likörglas auf 150ml Wasser kommen, es kann auch mehr Wasser hierzu verwendet werden
+- Das ganze kann bis zu 6x 1el am Tag gesteigert werden
+- Auf leeren Magen wirkt die Mischung stärker
+- Man kann das Gemisch auch als Kur von 14 Tagen anwenden, 14 Tage Pause machen und den Prozess wiederholen
+- Stillende Mütter sollten bedenken, dass das Aroma in die Muttermilch übergehen könnte und dem Kind nicht so gut schmeckt
+- Eine Scheibe Zitrone oder Orange mildert den scharfen Geschmack
+- Das Substrat kann zum Gurgeln verwendet werden
+
