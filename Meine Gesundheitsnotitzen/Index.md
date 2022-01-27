@@ -52,13 +52,8 @@ Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument
 Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
 Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
-
-
-## [Wasser](Wichtige%20Nährstoffquellen/Wasser.md)
-Was trinkst du den ganzen Tag?
-Hier findest du einige wichtige Informationen zum Thema [Wasser](Wichtige%20Nährstoffquellen/Wasser.md)		
 	
-## [Nährstoffe](Wichtige%20Nährstoffquellen/Nährstoffe.md)
+	
 
 ## [Wissenschaft](Wissenschaft.md)
 					
