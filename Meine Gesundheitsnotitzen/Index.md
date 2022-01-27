@@ -2,7 +2,7 @@
 
 > Das Gesamte Werk entsteht in meiner Freizeit. Du kannst mich gerne dabei unterstützen indem du den [Spendenlink](https://www.paypal.com/paypalme/jensmysl) anklickst!
 
-> Aus gegebenem Anlass **Wichtiges zur Impfung**: [Hier klicken](https://youtu.be/DW61NC9F2vE?t=1578)
+> # <center> Aus gegebenem Anlass Wichtiges zur Impfung: </br><center> [Hier klicken](https://youtu.be/DW61NC9F2vE?t=1578)</center>
 
 
 
