@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "795479f91ebad8c2",
+        "id": "fa6476fe452b5715",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -107,9 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "795479f91ebad8c2",
+  "active": "fa6476fe452b5715",
   "lastOpenFiles": [
     "Index.md",
+    "Elemente des Periodensystems.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamin B3.md",
     "Wichtige Nährstoffquellen/Nährstoffe.md",
@@ -117,7 +118,6 @@
     "Rezepte/Rezepte.md",
     "Heilsteine/Vorlage.md",
     "Interessante Links.md",
-    "Roadmap.md",
-    "Rezepte/Aschedünger.md"
+    "Roadmap.md"
   ]
 }
