@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Wichtige Nährstoffquellen/Vitamine/Vitamin B4.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Wichtige Nährstoffquellen/Vitamine/Vitamin B4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Wichtige Nährstoffquellen/Vitamine/Vitamin B4.md"
               }
             }
           },
@@ -109,6 +109,7 @@
   },
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
+    "Wichtige Nährstoffquellen/Vitamine/Vitamin B4.md",
     "Index.md",
     "Wichtige Nährstoffquellen/Nährstoffe.md",
     "Heilsteine/Heilsteine.md",
@@ -117,7 +118,6 @@
     "Interessante Links.md",
     "Roadmap.md",
     "Rezepte/Aschedünger.md",
-    "Heilsteine/Rosenquarz.md",
-    "Heilsteine/Rubin.md"
+    "Heilsteine/Rosenquarz.md"
   ]
 }
