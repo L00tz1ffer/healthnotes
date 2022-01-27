@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Küchenzutaten/Kurkuma.md",
+            "file": "Rezepte/Destilliertes Wasser.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Küchenzutaten/Kurkuma.md",
+                "file": "Rezepte/Destilliertes Wasser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Küchenzutaten/Kurkuma.md"
+                "file": "Rezepte/Destilliertes Wasser.md"
               }
             }
           },
@@ -109,15 +109,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Küchenzutaten/Kurkuma.md",
-    "Rezepte/Natürliches Antibiotikum.md",
-    "Rezepte/Lugolsche Lösung.md",
-    "Rezepte/Nutella.md",
+    "Rezepte/Destilliertes Wasser.md",
+    "Rezepte/Hummus.md",
     "Rezepte/__Attatchments/nutella.png",
-    "Rezepte/Rezepte.md",
-    "Index.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md",
-    "Elemente des Periodensystems.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md"
+    "Rezepte/Aschedünger.md",
+    "Küchenzutaten/Zwiebeln.md",
+    "Küchenzutaten/Unbenannt.md",
+    "Küchenzutaten/Schwarzer Pfeffer.md",
+    "Küchenzutaten/Meerettich.md",
+    "Küchenzutaten/Kapuzinerkresse.md",
+    "Rezepte/Natürliches Antibiotikum.md"
   ]
 }

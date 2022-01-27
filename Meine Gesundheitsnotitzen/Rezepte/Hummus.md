@@ -1,17 +1,17 @@
 # Hummus
 ## Zutaten
 • Kichererbsen 400g
-• Wasser
+• [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md)
 • Sesamöl 75ml
 • Sesampaste 30ml
 • Olivenöl 150ml
-• Chillypulver 4tl
-• Kurkuma 6tl
-• Petersilie 10tl
+• [Chilly](../Küchenzutaten/Chilly.md) 4tl
+• [Kurkuma](../Küchenzutaten/Kurkuma.md) 6tl
+• [Petersilie](../Küchenzutaten/Petersilie.md) 10tl
 • Gemüsebrühe 2el
-• Pfeffer 2tl
+• [Schwarzer Pfeffer](../Küchenzutaten/Schwarzer%20Pfeffer.md) 2tl
 • Krezukümmel 4tl
-• 3 Zehen knoblauch
+• 3 Zehen [Knoblauch](../Küchenzutaten/Knoblauch.md)
 
 ## Zubereitung
 1. Kichererbsen am vortag einlegen

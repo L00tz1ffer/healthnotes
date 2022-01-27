@@ -1,14 +1,14 @@
 # Natürliches Antibiotikum
 ## Zutaten
-- 700ml Apfelessig
-- 25g Knoblauch
-- 70 Zwiebeln
-- 17g der schärfsten Chillys die man finden kann
-- 25g Ingwer
-- 15g Meerettich
-- 27g Kurkuma Wurzeln
-- 1/4 Tl schwarzer Pfeffer aus der Mühle
-- 2el Blütenhonig
+- 700ml [Apfelessig](../Küchenzutaten/Apfelessig.md)
+- 25g [Knoblauch](../Küchenzutaten/Knoblauch.md)
+- 70 [Zwiebeln](../Küchenzutaten/Zwiebeln.md)
+- 17g der schärfsten [Chillys](../Küchenzutaten/Chilly.md) die man finden kann
+- 25g [Ingwer](../Küchenzutaten/Ingwer.md)
+- 15g [Meerettich](../Küchenzutaten/Meerettich.md)
+- 27g [Kurkuma](../Küchenzutaten/Kurkuma.md) Wurzeln
+- 1/4 Tl [Schwarzer Pfeffer](../Küchenzutaten/Schwarzer%20Pfeffer.md) aus der Mühle
+- 2el [Honig](../Küchenzutaten/Honig.md)
 
 ## Zubereitung
 1. Als erstes ist der Knoblauch zu schälen und anschließend möglichst fein zu reiben.
