@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interessante Links.md",
-            "mode": "source",
+            "file": "Index.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interessante Links.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interessante Links.md"
+                "file": "Index.md"
               }
             }
           },
@@ -109,9 +109,9 @@
   },
   "active": "795479f91ebad8c2",
   "lastOpenFiles": [
+    "Index.md",
     "Interessante Links.md",
     "Roadmap.md",
-    "Index.md",
     "Rezepte/Aschedünger.md",
     "Heilsteine/Rosenquarz.md",
     "Heilsteine/Vorlage.md",
