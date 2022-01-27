@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Natürliches Antibiotikum.md",
+            "file": "Küchenzutaten/Kurkuma.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Natürliches Antibiotikum.md",
+                "file": "Küchenzutaten/Kurkuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte/Natürliches Antibiotikum.md"
+                "file": "Küchenzutaten/Kurkuma.md"
               }
             }
           },
@@ -109,6 +109,7 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Küchenzutaten/Kurkuma.md",
     "Rezepte/Natürliches Antibiotikum.md",
     "Rezepte/Lugolsche Lösung.md",
     "Rezepte/Nutella.md",
@@ -117,7 +118,6 @@
     "Index.md",
     "Wichtige Nährstoffquellen/Nährstoffe.md",
     "Elemente des Periodensystems.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamin B3.md"
+    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md"
   ]
 }
