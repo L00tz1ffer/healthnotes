@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Index_of_Meine Gesundheitsnotitzen.md",
+            "file": "Meine Gesundheitsnotitzen.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_Meine Gesundheitsnotitzen.md",
+                "file": "Meine Gesundheitsnotitzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Meine Gesundheitsnotitzen.md"
+                "file": "Meine Gesundheitsnotitzen.md"
               }
             }
           },
@@ -121,15 +121,15 @@
   },
   "active": "00fa13a02cf0c55b",
   "lastOpenFiles": [
+    "Meine Gesundheitsnotitzen.md",
+    "Index.md",
+    "Elemente des Periodensystems/Elemente des Periodensystems.md",
+    "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
+    "Glossar/Glossar.md",
+    "Rohstoffdatenbank/Rohstoffdatenbank.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
+    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
     "_Index_of_Meine Gesundheitsnotitzen.md",
-    "Wichtige Nährstoffquellen/_Index_of_Wichtige Nährstoffquellen.md",
-    "Rohstoffdatenbank/Wasser.md",
-    "Rohstoffdatenbank/Salz.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md",
-    "Wichtige Nährstoffquellen/Frische Mineralien.md",
-    "Rohstoffdatenbank/Zitrone.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamin C.md",
-    "Rohstoffdatenbank/Petersilie.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md"
+    "Wichtige Nährstoffquellen/Nährstoffe.md"
   ]
 }
