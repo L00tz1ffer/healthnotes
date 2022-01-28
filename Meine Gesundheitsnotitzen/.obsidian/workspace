@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffdatenbank/Rohstoffdatenbank.md",
+            "file": "Rohstoffdatenbank/Chilly.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffdatenbank/Rohstoffdatenbank.md",
+                "file": "Rohstoffdatenbank/Chilly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rohstoffdatenbank/Rohstoffdatenbank.md"
+                "file": "Rohstoffdatenbank/Chilly.md"
               }
             }
           },
@@ -109,15 +109,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Rohstoffdatenbank/Rohstoffdatenbank.md",
-    "Rohstoffdatenbank/Kapuzinerkresse.md",
+    "Rohstoffdatenbank/Chilly.md",
+    "Rezepte/Hühnersuppe.md",
+    "Rezepte/Hummus.md",
+    "Rohstoffdatenbank/Olivenöl.md",
+    "Rohstoffdatenbank/Unbenannt.md",
+    "Rohstoffdatenbank/Hühnerfleisch.md",
+    "Rohstoffdatenbank/Karrotte.md",
     "Rezepte/Rezepte.md",
-    "Roadmap.md",
-    "Index.md",
-    "Rohstoffdatenbank/Salz.md",
-    "Rohstoffdatenbank/Schwarzer Pfeffer.md",
-    "Rohstoffdatenbank/Wasser.md",
-    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md"
+    "Rohstoffdatenbank/Rohstoffdatenbank.md",
+    "Rohstoffdatenbank/Kapuzinerkresse.md"
   ]
 }

@@ -3,6 +3,7 @@
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)
 - [Hummus](Hummus.md)
 - [Hydrogene Peroxide](Hydrogene%20Peroxide.md)
+- [Hühnersuppe](Hühnersuppe.md)
 - [Lugolsche Lösung](Lugolsche%20Lösung.md)
 - [Nutella](Nutella.md)
 - [Ursuppe](Ursuppe.md)
