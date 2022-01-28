@@ -54,5 +54,5 @@ Wichtig ist in jedem fall, dass du alle wörter Intentionell und in Liebe ausspr
 - Heil (Waldmanns**heil**)
 
 
-## [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md)
-In diesem Zusammenhang möge sich der Leser das Kapitel [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md) zu Gemüte führen, insbesondere hier wird das Ergebnis der Sonochemie eindrucksvoll zutage gefördert.
+## [Wasser](../Rohstoffdatenbank/Wasser.md)
+In diesem Zusammenhang möge sich der Leser das Kapitel [Wasser](../Rohstoffdatenbank/Wasser.md) zu Gemüte führen, insbesondere hier wird das Ergebnis der Sonochemie eindrucksvoll zutage gefördert.

@@ -1,7 +1,7 @@
 # Hummus
 ## Zutaten
 • Kichererbsen 400g
-• [Wasser](../Wichtige%20Nährstoffquellen/Wasser.md)
+• [Wasser](../Rohstoffdatenbank/Wasser.md)
 • Sesamöl 75ml
 • Sesampaste 30ml
 • Olivenöl 150ml
