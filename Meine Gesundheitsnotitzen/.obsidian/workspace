@@ -7,8 +7,12 @@
         "id": "fa6476fe452b5715",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rezepte/Hühnersuppe.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rezepte/Hühnersuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rezepte/Hühnersuppe.md"
+              }
             }
           },
           {
@@ -100,15 +107,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Rezepte/Hühnersuppe.md",
     "Rohstoffdatenbank/Rohstoffdatenbank.md",
+    "Rohstoffdatenbank/Kurkuma.md",
+    "Rohstoffdatenbank/Karrotte.md",
+    "Rohstoffdatenbank/Hühnerfleisch.md",
     "Rohstoffdatenbank/Sauerkraut.md",
     "Rohstoffdatenbank/Zitrone.md",
     "Rohstoffdatenbank/Wasser.md",
     "Rohstoffdatenbank/Chilly.md",
-    "Rezepte/Hühnersuppe.md",
-    "Rezepte/Hummus.md",
-    "Rohstoffdatenbank/Olivenöl.md",
-    "Rohstoffdatenbank/Unbenannt.md",
-    "Rohstoffdatenbank/Hühnerfleisch.md"
+    "Rezepte/Hummus.md"
   ]
 }
