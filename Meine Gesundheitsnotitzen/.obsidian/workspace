@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffdatenbank/Salz.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "00fa13a02cf0c55b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Meine Gesundheitsnotitzen.md",
+            "file": "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meine Gesundheitsnotitzen.md",
+                "file": "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meine Gesundheitsnotitzen.md"
+                "file": "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md"
               }
             }
           },
@@ -119,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00fa13a02cf0c55b",
+  "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Meine Gesundheitsnotitzen.md",
-    "Index.md",
-    "Elemente des Periodensystems/Elemente des Periodensystems.md",
-    "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
-    "Glossar/Glossar.md",
-    "Rohstoffdatenbank/Rohstoffdatenbank.md",
+    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
+    "Tipps für den Alltag/Kontrolldramen/Kontrolldramen.md",
+    "Tipps für den Alltag/Tipps für den Alltag.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
-    "_Index_of_Meine Gesundheitsnotitzen.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md"
+    "Wichtige Nährstoffquellen/Wichtige Nährstoffquellen.md",
+    "Wichtige Persönlichkeiten/Wichtige Persönlichkeiten.md",
+    "Meine Gesundheitsnotitzen.md",
+    "Interessante Links.md",
+    "Rohstoffdatenbank/Salz.md"
   ]
 }
