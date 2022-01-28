@@ -1,6 +1,6 @@
 # Salz
 - Gute Salze:
-	- [Himalaya Salz](Lebensmittelkategorisierung%20nach%20Wertigkeit/Hochwertige%20Lebensmittel.md#Himalaya%20Salz)
+	- [Himalaya Salz](../Wichtige%20Nährstoffquellen/Lebensmittelkategorisierung%20nach%20Wertigkeit/Hochwertige%20Lebensmittel.md#Himalaya%20Salz)
 - warum Salz?
 	- enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form
 	- Salz ist das Reinigungsmittel des Körpers - sein Waschwasser!!!
