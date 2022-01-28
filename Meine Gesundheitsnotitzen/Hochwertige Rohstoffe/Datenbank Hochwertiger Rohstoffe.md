@@ -7,6 +7,7 @@
 - [Kapuzinerkresse](Kapuzinerkresse.md)
 - [Karrotte](Karrotte.md)
 - [Knoblauch](Knoblauch.md)
+- [Kolloidales Silber](Kolloidales%20Silber.md)
 - [Kurkuma](Kurkuma.md)
 - [Meerettich](Meerettich.md)
 - [MSM Schwefel](MSM%20Schwefel.md)
