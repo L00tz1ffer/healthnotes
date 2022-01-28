@@ -12,12 +12,14 @@ Dieses Werk hat keinen Anspruch auf Vollständigkeit und ist KEIN Gesundheitsrat
 Der Autor des Inhaltes hier wendet die Angegebenen Informationen bei sich selbst an und setzt sie für sich als Erkenntnissgrundlagen voraus. Er übernimmt jedoch weder die Haftung für eventuelle Nebenwirkungen oder Schäden die durch die Anwendung dessen bem Leser entstehen mögen, noch rät der Autor davon ab ohne Rücksprache mit einem Arzt zu handeln.
 </br>
 </br>
+
 Jedwede Nutzung erfolgt auf eigene Gefahr
 --------------------
 </br>
 </br>
 </br>
 </br>
+
 ## Einige wundervolle Zitate
 
 <div style="display: flex; flex-direction: column; flex-wrap: nowrap; text-align: center;">
