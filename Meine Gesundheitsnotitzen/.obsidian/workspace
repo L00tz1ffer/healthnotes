@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "223fd4124d22a891",
+        "id": "7281d98c5b505813",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rezepte und Anleitungen/Hühnersuppe.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Hühnersuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rezepte und Anleitungen/Hühnersuppe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "223fd4124d22a891",
+  "active": "7281d98c5b505813",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Hühnersuppe.md",
-    "Hochwertige Rohstoffe/Karrotte.md",
     "Elemente des Periodensystems/Elemente.md",
-    "Elemente des Periodensystems/Fluorid.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
     "Hochwertige Rohstoffe/Salz.md",
-    "Hochwertige Rohstoffe/Meerettich.md",
-    "Hochwertige Rohstoffe/Olivenöl.md",
-    "Rezepte und Anleitungen/Lavendelöl.md",
-    "Rezepte und Anleitungen/Nutella.md",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md"
+    "Tipps für den Alltag/Allgemeine Tipps/Leichteres Lernen.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
+    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
+    "Tipps für den Alltag/Kontrolldramen/Kontrolldramen.md",
+    "Tipps für den Alltag/Gesprächskultur.md",
+    "Rezepte und Anleitungen/Ormus.md",
+    "Rezepte und Anleitungen/Aschedünger.md"
   ]
 }
