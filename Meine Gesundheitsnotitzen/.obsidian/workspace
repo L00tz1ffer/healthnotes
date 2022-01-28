@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
-            "mode": "preview",
+            "file": "Roadmap.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Roadmap.md"
               }
             }
           },
@@ -109,8 +109,8 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Index.md",
     "Roadmap.md",
+    "Index.md",
     "Rohstoffdatenbank/Salz.md",
     "Rohstoffdatenbank/Schwarzer Pfeffer.md",
     "Rohstoffdatenbank/Wasser.md",

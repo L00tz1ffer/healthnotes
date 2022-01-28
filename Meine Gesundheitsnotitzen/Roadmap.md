@@ -1,7 +1,3 @@
----
-type: Checklist
----
-
 # Todo
 
 - [ ] Mehr über die einzelnen Elemente herausfinden
