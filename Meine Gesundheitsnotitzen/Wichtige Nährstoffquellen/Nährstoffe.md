@@ -20,7 +20,7 @@
 				- ist das gewollt?
 			- Bäume holen die mineralien aus dem Boden und reichern diese durch verdunstung in den Blättern an welche dann zu Humus werden
 
-[Wasser](../Rohstoffdatenbank/Wasser.md)
+[Wasser](Wasser.md)
 [Vitamine](Vitamine/Vitamine.md)
 [Frische Mineralien](Frische%20Mineralien.md)
-[Salz](../Rohstoffdatenbank/Salz.md)
+[Salz](Salz.md)

@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffdatenbank/Salz.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "00fa13a02cf0c55b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Index_of_Meine Gesundheitsnotitzen.md",
+            "file": "Rohstoffdatenbank/Zitrone.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_Meine Gesundheitsnotitzen.md",
+                "file": "Rohstoffdatenbank/Zitrone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Meine Gesundheitsnotitzen.md"
+                "file": "Rohstoffdatenbank/Zitrone.md"
               }
             }
           },
@@ -119,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00fa13a02cf0c55b",
+  "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "_Index_of_Meine Gesundheitsnotitzen.md",
-    "Wichtige Nährstoffquellen/_Index_of_Wichtige Nährstoffquellen.md",
-    "Rohstoffdatenbank/Wasser.md",
-    "Rohstoffdatenbank/Salz.md",
-    "Wichtige Nährstoffquellen/Nährstoffe.md",
-    "Wichtige Nährstoffquellen/Frische Mineralien.md",
     "Rohstoffdatenbank/Zitrone.md",
     "Wichtige Nährstoffquellen/Vitamine/Vitamin C.md",
     "Rohstoffdatenbank/Petersilie.md",
-    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md"
+    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
+    "Tipps für den Alltag/Gesprächskultur.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
+    "Rezepte/Hummus.md",
+    "Rezepte/Aschedünger.md",
+    "Rezepte/Destilliertes Wasser.md",
+    "Rezepte/__Attatchments/nutella.png"
   ]
 }
