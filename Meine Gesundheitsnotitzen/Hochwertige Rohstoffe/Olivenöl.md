@@ -9,6 +9,7 @@
 - senkt das Hungergefühl
 - reinigt die Leber
 - Mindert Blutzuckermenge
+- Verbessert die Sauerstoffverteilung
 
 
 ## Anwendung
