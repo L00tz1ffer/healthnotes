@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hochwertige Rohstoffe/Olivenöl.md",
+            "file": "Rezepte und Anleitungen/Lavendelöl.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochwertige Rohstoffe/Olivenöl.md",
+                "file": "Rezepte und Anleitungen/Lavendelöl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochwertige Rohstoffe/Olivenöl.md"
+                "file": "Rezepte und Anleitungen/Lavendelöl.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "223fd4124d22a891",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Lavendelöl.md",
+    "Rezepte und Anleitungen/Nutella.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Rezepte und Anleitungen/Ursuppe.md",
     "Hochwertige Rohstoffe/Olivenöl.md",
     "Hochwertige Rohstoffe/Meerettich.md",
     "Rezepte und Anleitungen/Ormus.md",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
     "Hochwertige Rohstoffe/Schwarzer Pfeffer.md",
-    "Rezepte und Anleitungen/Lavendelöl.md",
     "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Hochwertige Rohstoffe/Ingwer.md",
-    "Hochwertige Rohstoffe/Butter.md",
-    "Rezepte und Anleitungen/Nutella.md"
+    "Hochwertige Rohstoffe/Ingwer.md"
   ]
 }

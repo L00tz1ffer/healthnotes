@@ -1,4 +1,4 @@
-# Rezepte
+# Rezepte und Anleitungen
 - [Aschedünger](Aschedünger.md)
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)
 - [Hühnersuppe](Hühnersuppe.md)
