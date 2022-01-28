@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffdatenbank/Chilly.md",
+            "file": "Rohstoffdatenbank/Sauerkraut.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffdatenbank/Chilly.md",
+                "file": "Rohstoffdatenbank/Sauerkraut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rohstoffdatenbank/Chilly.md"
+                "file": "Rohstoffdatenbank/Sauerkraut.md"
               }
             }
           },
@@ -99,25 +99,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Rohstoffdatenbank/Sauerkraut.md",
+    "Rohstoffdatenbank/Zitrone.md",
+    "Rohstoffdatenbank/Wasser.md",
     "Rohstoffdatenbank/Chilly.md",
     "Rezepte/Hühnersuppe.md",
     "Rezepte/Hummus.md",
     "Rohstoffdatenbank/Olivenöl.md",
     "Rohstoffdatenbank/Unbenannt.md",
     "Rohstoffdatenbank/Hühnerfleisch.md",
-    "Rohstoffdatenbank/Karrotte.md",
-    "Rezepte/Rezepte.md",
-    "Rohstoffdatenbank/Rohstoffdatenbank.md",
-    "Rohstoffdatenbank/Kapuzinerkresse.md"
+    "Rohstoffdatenbank/Karrotte.md"
   ]
 }
