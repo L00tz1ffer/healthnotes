@@ -20,7 +20,7 @@ Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darm
 1. Eine Messerspitze Trockenmasse in ein Glas
 2. Zitronensaft hinzufügen
 3. Mischung schäumt auf durch Säure-Basen Reaktion
-4. Glas mit [Wasser](../Rohstoffdatenbank/Wasser.md) auffüllen / Substrat verdünnen
+4. Glas mit [Wasser](../Hochwertige%20Rohstoffe/Wasser.md) auffüllen / Substrat verdünnen
 5. Trinken
 	
 ### Trivia

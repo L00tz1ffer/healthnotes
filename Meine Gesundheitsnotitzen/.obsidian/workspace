@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte/Lavendelöl.md",
+            "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
             "mode": "source",
             "source": false
           }
@@ -70,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Lavendelöl.md",
+                "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte/Lavendelöl.md"
+                "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Rezepte/Lavendelöl.md",
-    "Glossar/Selativum.md",
-    "Rezepte/Hühnersuppe.md",
-    "Rohstoffdatenbank/Rohstoffdatenbank.md",
-    "Rohstoffdatenbank/Kurkuma.md",
-    "Rohstoffdatenbank/Karrotte.md",
-    "Rohstoffdatenbank/Hühnerfleisch.md",
-    "Rohstoffdatenbank/Sauerkraut.md",
-    "Rohstoffdatenbank/Zitrone.md",
-    "Rohstoffdatenbank/Wasser.md"
+    "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
+    "Hochwertige Rohstoffe/Ingwer.md",
+    "Hochwertige Rohstoffe/Butter.md",
+    "Hochwertige Rohstoffe/Olivenöl.md",
+    "Rezepte/Nutella.md",
+    "Rezepte/Natürliches Antibiotikum.md",
+    "Rezepte/Natürlicher Unkrautvernichter.md",
+    "Rezepte/Lugolsche Lösung.md",
+    "Rezepte/Rezepte.md",
+    "Rezepte/Lavendelöl.md"
   ]
 }

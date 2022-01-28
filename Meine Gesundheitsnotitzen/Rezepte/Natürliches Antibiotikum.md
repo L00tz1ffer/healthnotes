@@ -1,14 +1,14 @@
 # Natürliches Antibiotikum
 ## Zutaten
-- 700ml [Apfelessig](../Rohstoffdatenbank/Apfelessig.md)
-- 25g [Knoblauch](../Rohstoffdatenbank/Knoblauch.md)
-- 70 [Zwiebel](../Rohstoffdatenbank/Zwiebel.md)
-- 17g der schärfsten [Chillys](../Rohstoffdatenbank/Chilly.md) die man finden kann
-- 25g [Ingwer](../Rohstoffdatenbank/Ingwer.md)
-- 15g [Meerettich](../Rohstoffdatenbank/Meerettich.md)
-- 27g [Kurkuma](../Rohstoffdatenbank/Kurkuma.md) Wurzeln
-- 1/4 Tl [Schwarzer Pfeffer](../Rohstoffdatenbank/Schwarzer%20Pfeffer.md) aus der Mühle
-- 2el [Honig](../Rohstoffdatenbank/Honig.md)
+- 700ml [Apfelessig](../Hochwertige%20Rohstoffe/Apfelessig.md)
+- 25g [Knoblauch](../Hochwertige%20Rohstoffe/Knoblauch.md)
+- 70 [Zwiebel](../Hochwertige%20Rohstoffe/Zwiebel.md)
+- 17g der schärfsten [Chillys](../Hochwertige%20Rohstoffe/Chilly.md) die man finden kann
+- 25g [Ingwer](../Hochwertige%20Rohstoffe/Ingwer.md)
+- 15g [Meerettich](../Hochwertige%20Rohstoffe/Meerettich.md)
+- 27g [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md) Wurzeln
+- 1/4 Tl [Schwarzer Pfeffer](../Hochwertige%20Rohstoffe/Schwarzer%20Pfeffer.md) aus der Mühle
+- 2el [Honig](../Hochwertige%20Rohstoffe/Honig.md)
 
 ## Zubereitung
 1. Als erstes ist der Knoblauch zu schälen und anschließend möglichst fein zu reiben.

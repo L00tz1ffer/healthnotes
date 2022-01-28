@@ -1,7 +1,7 @@
 # Lavendelöl
 ## Zutaten
 - Lavendel
-- Kokosfett / [Olivenöl](../Rohstoffdatenbank/Olivenöl.md) / anderes **Hochwertiges** Öl
+- Kokosfett / [Olivenöl](../Hochwertige%20Rohstoffe/Olivenöl.md) / anderes **Hochwertiges** Öl
 	- je nach Anwendung empfiehlt sich Kokosöl aufgrund der Geschmacksneutralität
 
 ## Herstellung
