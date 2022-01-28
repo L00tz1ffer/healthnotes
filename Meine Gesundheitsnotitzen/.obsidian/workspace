@@ -7,8 +7,12 @@
         "id": "7281d98c5b505813",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hochwertige Rohstoffe/MSM Schwefel.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hochwertige Rohstoffe/MSM Schwefel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hochwertige Rohstoffe/MSM Schwefel.md"
+              }
             }
           },
           {
@@ -96,10 +103,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7281d98c5b505813",
   "lastOpenFiles": [
+    "Hochwertige Rohstoffe/MSM Schwefel.md",
+    "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
     "Elemente des Periodensystems/Elemente.md",
     "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
     "Hochwertige Rohstoffe/Salz.md",
@@ -107,8 +117,6 @@
     "Tipps für den Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
     "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
     "Tipps für den Alltag/Kontrolldramen/Kontrolldramen.md",
-    "Tipps für den Alltag/Gesprächskultur.md",
-    "Rezepte und Anleitungen/Ormus.md",
-    "Rezepte und Anleitungen/Aschedünger.md"
+    "Tipps für den Alltag/Gesprächskultur.md"
   ]
 }

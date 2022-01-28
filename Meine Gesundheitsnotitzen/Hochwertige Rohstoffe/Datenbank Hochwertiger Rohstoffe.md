@@ -9,6 +9,7 @@
 - [Knoblauch](Knoblauch.md)
 - [Kurkuma](Kurkuma.md)
 - [Meerettich](Meerettich.md)
+- [MSM Schwefel](MSM%20Schwefel.md)
 - [Olivenöl](Olivenöl.md)
 - [Petersilie](Petersilie.md)
 - [Salz](Salz.md)
