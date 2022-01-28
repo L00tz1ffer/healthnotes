@@ -7,8 +7,12 @@
         "id": "fa6476fe452b5715",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rohstoffdatenbank/Zitrone.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rohstoffdatenbank/Zitrone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rohstoffdatenbank/Zitrone.md"
+              }
             }
           },
           {
@@ -102,15 +109,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Rohstoffdatenbank/Zitrone.md",
+    "Wichtige Nährstoffquellen/Vitamine/Vitamin C.md",
+    "Rohstoffdatenbank/Petersilie.md",
+    "Wichtige Nährstoffquellen/Vitamine/Vitamine.md",
     "Tipps für den Alltag/Gesprächskultur.md",
     "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
     "Rezepte/Hummus.md",
     "Rezepte/Aschedünger.md",
     "Rezepte/Destilliertes Wasser.md",
-    "Rezepte/__Attatchments/nutella.png",
-    "Rohstoffdatenbank/Zwiebeln.md",
-    "Küchenzutaten/Unbenannt.md",
-    "Rohstoffdatenbank/Schwarzer Pfeffer.md",
-    "Rohstoffdatenbank/Meerettich.md"
+    "Rezepte/__Attatchments/nutella.png"
   ]
 }
