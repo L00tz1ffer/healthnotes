@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-            "mode": "source",
+            "file": "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
+                "file": "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md"
+                "file": "Rezepte und Anleitungen/Rezepte und Anleitungen.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Hochwertige Rohstoffe/Schwarzer Pfeffer.md",
+    "Rezepte und Anleitungen/Lavendelöl.md",
     "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
     "Hochwertige Rohstoffe/Ingwer.md",
     "Hochwertige Rohstoffe/Butter.md",
     "Hochwertige Rohstoffe/Olivenöl.md",
-    "Rezepte/Nutella.md",
-    "Rezepte/Natürliches Antibiotikum.md",
-    "Rezepte/Natürlicher Unkrautvernichter.md",
-    "Rezepte/Lugolsche Lösung.md",
-    "Rezepte/Rezepte.md",
-    "Rezepte/Lavendelöl.md"
+    "Rezepte und Anleitungen/Nutella.md",
+    "Rezepte und Anleitungen/Natürliches Antibiotikum.md",
+    "Rezepte und Anleitungen/Natürlicher Unkrautvernichter.md"
   ]
 }

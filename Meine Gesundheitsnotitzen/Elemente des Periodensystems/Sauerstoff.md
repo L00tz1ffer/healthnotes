@@ -1,2 +1,2 @@
 ## Bioverfügbare Mittel:
-- H2O2 / [Wasserstoffperoxid](../Rezepte/Wasserstoffperoxid.md)
+- H2O2 / [Wasserstoffperoxid](../Rezepte%20und%20Anleitungen/Wasserstoffperoxid.md)

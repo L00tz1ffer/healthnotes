@@ -2,4 +2,4 @@
 - Enzymaktivator schlechthin
 
 ## Bioverfügbare Mittel:
- - [Lugolsche Lösung](../Rezepte/Lugolsche%20Lösung.md)
+ - [Lugolsche Lösung](../Rezepte%20und%20Anleitungen/Lugolsche%20Lösung.md)

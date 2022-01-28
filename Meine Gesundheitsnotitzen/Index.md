@@ -109,8 +109,8 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	- gibt es keine Mineralien im Boden
 - Was kann man da tun?
 	- Anbau von Essen auf Humusboden
-	- Die asche Essen ([Ursuppe](Rezepte/Ursuppe.md))
-	- [Aschedünger](Rezepte/Aschedünger.md)
+	- Die asche Essen ([Ursuppe](Rezepte%20und%20Anleitungen/Ursuppe.md))
+	- [Aschedünger](Rezepte%20und%20Anleitungen/Aschedünger.md)
 	
 ## Molekulare Verbindungen
 ### was nicht in den Körper gehört:
@@ -154,6 +154,6 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 
 ### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 
-### [Rezepte](Rezepte/Rezepte.md)
+### [Rezepte und Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
