@@ -1,11 +1,14 @@
 # Rezepte
-[Aschedünger](Aschedünger.md)
-[Destilliertes Wasser](Destilliertes%20Wasser.md)
-[Hummus](Hummus.md)
-[Hydrogene Peroxide](Hydrogene%20Peroxide.md)
-[Lugolsche Lösung](Lugolsche%20Lösung.md)
-[Nutella](Nutella.md)
-[Ursuppe](Ursuppe.md)
-[Natürlicher Unkrautvernichter](Natürlicher%20Unkrautvernichter.md)
-[Natürliches Antibiotikum](Natürliches%20Antibiotikum.md)
+- [Aschedünger](Aschedünger.md)
+- [Destilliertes Wasser](Destilliertes%20Wasser.md)
+- [Hummus](Hummus.md)
+- [Hydrogene Peroxide](Hydrogene%20Peroxide.md)
+- [Lugolsche Lösung](Lugolsche%20Lösung.md)
+- [Nutella](Nutella.md)
+- [Ursuppe](Ursuppe.md)
+- [Natürlicher Unkrautvernichter](Natürlicher%20Unkrautvernichter.md)
+- [Natürliches Antibiotikum](Natürliches%20Antibiotikum.md)
+
+
+
 ## [Küchentipps](../Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Küchentipps.md)
