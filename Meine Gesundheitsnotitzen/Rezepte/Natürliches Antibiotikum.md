@@ -2,7 +2,7 @@
 ## Zutaten
 - 700ml [Apfelessig](../Rohstoffdatenbank/Apfelessig.md)
 - 25g [Knoblauch](../Rohstoffdatenbank/Knoblauch.md)
-- 70 [Zwiebeln](../Rohstoffdatenbank/Zwiebeln.md)
+- 70 [Zwiebel](../Rohstoffdatenbank/Zwiebel.md)
 - 17g der schärfsten [Chillys](../Rohstoffdatenbank/Chilly.md) die man finden kann
 - 25g [Ingwer](../Rohstoffdatenbank/Ingwer.md)
 - 15g [Meerettich](../Rohstoffdatenbank/Meerettich.md)

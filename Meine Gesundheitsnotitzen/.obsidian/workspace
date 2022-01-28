@@ -7,12 +7,8 @@
         "id": "fa6476fe452b5715",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rohstoffdatenbank/Sauerkraut.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffdatenbank/Sauerkraut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rohstoffdatenbank/Sauerkraut.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,6 +100,7 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
+    "Rohstoffdatenbank/Rohstoffdatenbank.md",
     "Rohstoffdatenbank/Sauerkraut.md",
     "Rohstoffdatenbank/Zitrone.md",
     "Rohstoffdatenbank/Wasser.md",
@@ -115,7 +109,6 @@
     "Rezepte/Hummus.md",
     "Rohstoffdatenbank/Olivenöl.md",
     "Rohstoffdatenbank/Unbenannt.md",
-    "Rohstoffdatenbank/Hühnerfleisch.md",
-    "Rohstoffdatenbank/Karrotte.md"
+    "Rohstoffdatenbank/Hühnerfleisch.md"
   ]
 }

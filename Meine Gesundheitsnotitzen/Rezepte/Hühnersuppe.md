@@ -3,7 +3,7 @@
 - [Hühnerfleisch](../Rohstoffdatenbank/Hühnerfleisch.md)
 	- geeignet is alles wo viel Fett dran ist -> Unterkeulen, Oberkeulen, Flügel
 - 2 Zehen [Knoblauch](../Rohstoffdatenbank/Knoblauch.md)
-- 2 [Zwiebeln](../Rohstoffdatenbank/Zwiebeln.md)
+- 2 [Zwiebel](../Rohstoffdatenbank/Zwiebel.md)
 - 1/2 [Kurkuma](../Rohstoffdatenbank/Kurkuma.md)
 - 1 [Karrotte](../Rohstoffdatenbank/Karrotte.md)
 - 7-9cm Porree
