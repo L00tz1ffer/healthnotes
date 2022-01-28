@@ -7,12 +7,8 @@
         "id": "fa6476fe452b5715",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rezepte/Destilliertes Wasser.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte/Destilliertes Wasser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rezepte/Destilliertes Wasser.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,15 +102,15 @@
   },
   "active": "fa6476fe452b5715",
   "lastOpenFiles": [
-    "Rezepte/Destilliertes Wasser.md",
+    "Tipps für den Alltag/Gesprächskultur.md",
+    "Tipps für den Alltag/Allgemeine Tipps/Küchentipps.md",
     "Rezepte/Hummus.md",
-    "Rezepte/__Attatchments/nutella.png",
     "Rezepte/Aschedünger.md",
-    "Küchenzutaten/Zwiebeln.md",
+    "Rezepte/Destilliertes Wasser.md",
+    "Rezepte/__Attatchments/nutella.png",
+    "Rohstoffdatenbank/Zwiebeln.md",
     "Küchenzutaten/Unbenannt.md",
-    "Küchenzutaten/Schwarzer Pfeffer.md",
-    "Küchenzutaten/Meerettich.md",
-    "Küchenzutaten/Kapuzinerkresse.md",
-    "Rezepte/Natürliches Antibiotikum.md"
+    "Rohstoffdatenbank/Schwarzer Pfeffer.md",
+    "Rohstoffdatenbank/Meerettich.md"
   ]
 }

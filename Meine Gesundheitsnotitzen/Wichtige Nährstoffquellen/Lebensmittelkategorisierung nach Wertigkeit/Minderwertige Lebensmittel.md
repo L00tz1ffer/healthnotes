@@ -6,7 +6,7 @@
 - aufgrund seiner sehr hohen festigkeit für unseren Körper nicht zerlegbar
 
 ## Süßes Obst
-- weil es viel [Fructose](Minderwertige%20Lebensmittel.md#Fruchtzucker) enthält
+- weil es viel [Fructose](#Fruchtzucker) enthält
 
 ## Brot / Backwaren
 - reich an Phosphaten
