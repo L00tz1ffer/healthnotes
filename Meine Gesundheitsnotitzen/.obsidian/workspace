@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hochwertige Rohstoffe/Lithiumchlorid.md",
+            "file": "Rezepte und Anleitungen/Ursuppe.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochwertige Rohstoffe/Lithiumchlorid.md",
+                "file": "Rezepte und Anleitungen/Ursuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochwertige Rohstoffe/Lithiumchlorid.md"
+                "file": "Rezepte und Anleitungen/Ursuppe.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "7281d98c5b505813",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Ursuppe.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Hochwertige Rohstoffe/MSM Schwefel.md",
     "Hochwertige Rohstoffe/Lithiumchlorid.md",
     "Elemente des Periodensystems/Lithium.md",
     "Hochwertige Rohstoffe/Kolloidales Gold.md",
     "Hochwertige Rohstoffe/Kolloidales Silber.md",
     "Elemente des Periodensystems/Gold.md",
     "Elemente des Periodensystems/Silber.md",
-    "Elemente des Periodensystems/Schwefel.md",
-    "Hochwertige Rohstoffe/__Attatchments/Infografik-kolloidales-Silber-1024x787.png",
-    "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Hochwertige Rohstoffe/MSM Schwefel.md"
+    "Elemente des Periodensystems/Schwefel.md"
   ]
 }

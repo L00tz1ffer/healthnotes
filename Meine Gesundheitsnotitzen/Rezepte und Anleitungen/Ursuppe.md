@@ -15,7 +15,12 @@ Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darm
 3. Mischung durch Baumwolltuch abfiltern
 	- Bei Wiederholung größerer Yield möglich
 4. Filtrat durch kochen vollständig eintrocken
-5. Trockenmasse in Glas füllen und dunkel lagern
+5. Trockenmasse in Glas füllen und dunkel lagern!
+
+![Alchemistensuppe | 600](../photo_2022-01-29_20-18-41%202.jpg)
+Das Endprodukt
+
+
 ### Konsum des Rohproduktes
 1. Eine Messerspitze Trockenmasse in ein Glas
 2. Zitronensaft hinzufügen
