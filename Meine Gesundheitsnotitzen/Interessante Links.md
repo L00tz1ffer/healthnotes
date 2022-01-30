@@ -40,3 +40,9 @@
 | Author | Name | Link |
 |-|-|-|
 |[Phioo wills wissen](https://t.me/PhiooWW)|Flugscheiben Entwicklung Die Wissensbringer der Vedischen texte|[Geheime Luftfahrgeschicte Teil 1](https://www.youtube.com/watch?v=r4jxqznKM7Y) </br>[Geheime Luftfahrtgeschichte Teil 2](https://youtu.be/Nsoso50_9tQ)|
+
+
+## Shops
+| Shop | Link |
+| - | - |
+| Bonavita Ost | <<https://www.bonavita-ost.at/shop/>> |
