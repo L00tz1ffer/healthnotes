@@ -7,8 +7,12 @@
         "id": "808ab137005a9b96",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rezepte und Anleitungen/Ursuppe.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rezepte und Anleitungen/Ursuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rezepte und Anleitungen/Ursuppe.md"
+              }
             }
           },
           {
@@ -102,14 +109,14 @@
   "active": "808ab137005a9b96",
   "lastOpenFiles": [
     "Rezepte und Anleitungen/Ursuppe.md",
+    "Rezepte und Anleitungen/Ormus.md",
+    "Rezepte und Anleitungen/Lavendelöl.md",
+    "Rezepte und Anleitungen/Hydrogene Peroxide.md",
+    "Rezepte und Anleitungen/Hummus.md",
+    "Elemente des Periodensystems/Elemente.md",
     "Rezepte und Anleitungen/Destilliertes Wasser.md",
     "Rezepte und Anleitungen/__Attatchments/Ursuppe.jpg",
     "Interessante Links.md",
-    "Index.md",
-    "Roadmap.md",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
-    "Hochwertige Rohstoffe/MSM Schwefel.md",
-    "Hochwertige Rohstoffe/Lithiumchlorid.md",
-    "Elemente des Periodensystems/Lithium.md"
+    "Index.md"
   ]
 }
