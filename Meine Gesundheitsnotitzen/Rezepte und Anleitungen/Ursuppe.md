@@ -17,7 +17,7 @@ Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darm
 4. Filtrat durch kochen vollständig eintrocken
 5. Trockenmasse in Glas füllen und dunkel lagern!
 
-![Alchemistensuppe | 600](../photo_2022-01-29_20-18-41%202.jpg)
+![Alchemistensuppe | 600](__Attatchments/Ursuppe.jpg)
 Das Endprodukt
 
 
