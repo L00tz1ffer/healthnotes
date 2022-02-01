@@ -5,7 +5,7 @@
 - 2 Zehen [Knoblauch](../Hochwertige%20Rohstoffe/Knoblauch.md)
 - 2 [Zwiebel](../Hochwertige%20Rohstoffe/Zwiebel.md)
 - 1/2 [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md)
-- 1 [Karrotte](../Hochwertige%20Rohstoffe/Karrotte.md)
+- 2 [Karrotten](../Hochwertige%20Rohstoffe/Karrotte.md)
 - 7-9cm Porree
 - 1/4 Sellerie
 - 200g Bohnen
