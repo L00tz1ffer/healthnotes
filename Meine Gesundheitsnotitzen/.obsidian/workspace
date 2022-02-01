@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Ursuppe.md",
-            "mode": "preview",
-            "source": true
+            "file": "Elemente des Periodensystems/Schwefel.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Ursuppe.md",
+                "file": "Elemente des Periodensystems/Schwefel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Ursuppe.md"
+                "file": "Elemente des Periodensystems/Schwefel.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "808ab137005a9b96",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Ursuppe.md",
-    "Rezepte und Anleitungen/Ormus.md",
-    "Rezepte und Anleitungen/Lavendelöl.md",
-    "Rezepte und Anleitungen/Hydrogene Peroxide.md",
-    "Rezepte und Anleitungen/Hummus.md",
-    "Elemente des Periodensystems/Elemente.md",
+    "Elemente des Periodensystems/Schwefel.md",
+    "Rezepte und Anleitungen/DMSO.md",
+    "Rezepte und Anleitungen/Aschedünger.md",
     "Rezepte und Anleitungen/Destilliertes Wasser.md",
-    "Rezepte und Anleitungen/__Attatchments/Ursuppe.jpg",
-    "Interessante Links.md",
-    "Index.md"
+    "Hochwertige Rohstoffe/MSM Schwefel.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
+    "Hochwertige Rohstoffe/__Attatchments/Pasted image 20220128130038.png",
+    "Hochwertige Rohstoffe/Carnitin.md",
+    "Rezepte und Anleitungen/Natürliches Antibiotikum.md"
   ]
 }

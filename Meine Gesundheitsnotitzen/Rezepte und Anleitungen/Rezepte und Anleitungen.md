@@ -1,6 +1,7 @@
 # Rezepte und Anleitungen
 - [Aschedünger](Aschedünger.md)
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)
+- [DMSO](DMSO.md)
 - [Hühnersuppe](Hühnersuppe.md)
 - [Hummus](Hummus.md)
 - [Lavendelöl](Lavendelöl.md)

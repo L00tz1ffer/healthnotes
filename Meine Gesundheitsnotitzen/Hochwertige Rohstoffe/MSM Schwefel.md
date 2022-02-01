@@ -3,6 +3,8 @@
 Chemischer Name: Methylsulfonylmethan
 Summenformel: C2H6O2S
 
+Die Bioverfügbare schnell wirkende Form von Schwefel ist [DMSO](../Rezepte%20und%20Anleitungen/DMSO.md)
+
 ## Wirkung
 siehe [Schwefel](../Elemente%20des%20Periodensystems/Schwefel.md)
 ## Anwendung

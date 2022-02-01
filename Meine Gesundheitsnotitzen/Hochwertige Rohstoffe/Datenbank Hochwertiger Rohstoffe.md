@@ -1,5 +1,6 @@
 - [Apfelessig](Apfelessig.md)
 - [Butter](Butter.md)
+- [Carnitin](Carnitin.md)
 - [Chilly](Chilly.md)
 - [Honig](Honig.md)
 - [Hühnerfleisch](Hühnerfleisch.md)
