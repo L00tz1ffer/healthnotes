@@ -54,6 +54,32 @@ Ein starkes soziales Netzwerk, geprägt durch Solidarität, Werte und Agilität.
 <h1 style="text-align: center; font-size: 5rem;">Heilmittel der Natur</h1>
 
 -----------------------------
+# Vorwort
+Gesundheit gehört in die Hände des Individuums.
+
+Die Rolle des Arztes darf es bestenfalls sein dem Gesunden Tipps zu geben wie er diese möglichst lange erhalten kann
+
+Der eine lernt es früher, der andere lernt es später, möglicherweise lernt es einer garnicht. 
+
+Wenn jeder an sich selbst denkt, ist an alle gedacht!
+Zu viele Köche verderben den Brei!
+
+Wir haben die Möglichkeit unsere Verantwortung zu delegieren, aber dann dürfen wir uns nicht beschweren, wenn gepfuscht wird oder das Ergebnis unbefriedigend wird.
+Und so hatte ich immer wieder gesundheitliche Herausforderungen zu meistern, deren Bewältigung ich an Personal des Gesundheitswesens delegierte, mit nicht allzu großem Erfolg.... 
+Bei genauerer Betrachtung ergab sich folgendes Bild: Ärzte sind auch nur Menschen, Menschen die ihr Geld mit nach Hause bringen müssen und Menschen, die von einer der Mächtigsten Organisationen weltweit bevormundet werden: 
+Dem Gesundheitssystem bestehend aus Chemiekonzernen und den Kostenträgern.
+
+Nimmt man sich die Zeit ein wenig zu recherchieren und fragt sich wo denn die Hausmittel früherer Zeiten hin verschwunden sind, so gelangt man unweigerlich zu der Erkenntnis, dass vieles heutzutage nicht mehr ohne weiteres zu erwerben ist. 
+In einem undurchdringlichen Nebel aus Nahrungsmittelverordnungen, Vorschriften für den Umgang mit Heilpräperaten und absurd erscheinenden Schadstoffdeklarationen ist es für viele Menschen schwer geworden sich zurecht zu finden und ganz besonders Ärzte die dem Hippokratischen Eid gerecht werden wollen können dies garnicht mehr ohne ihre Approbation oder erhebliche wirtschaftliche Nachteile zu riskieren.
+
+Dieses Werk hat keinen Anspruch in irgendeiner Form ein Medizinischer Ratgeber zu sein, eine solche Absicht wäre meiner Meinung nach vermessen und steht mir auch garnicht zu. 
+
+Nichtsdesto trotz erlaube ich mir meine eigenen Erfahrungen zu beschreiben und für persönliche private Zwecke eine kleine Sammlung an mir dienlichen Informationen aufzubauen und diese kostenfrei dem dienste der Selbsterkenntnis ins Internet zu stellen.
+
+Es bleibt nur noch hinzuzufügen, dass alles was hier aufgeführt wird auf eigene Verantwortung nachzuvollziehen ist und es jedem selbst überlassen ist was er wie mit seinem Körper macht!
+
+------
+
 # [Sonochemie](Sonochemie/Sonochemie.md)
 Bevor wir uns mit irgendwie gearteten Heilmitteln aus Materiellen Gütern befassen sollten wir für einen Augenblick inne halten und uns mal kurz auf uns konzentrieren!
 
