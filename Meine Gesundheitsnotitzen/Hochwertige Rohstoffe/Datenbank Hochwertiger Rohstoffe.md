@@ -1,8 +1,11 @@
+# Datenbank Hochwertiger Rohstoffe
+# Allgemeine Liste
 - [Apfelessig](Apfelessig.md)
 - [Bärlappkraut](Bärlappkraut.md)
 - [Butter](Butter.md)
 - [Carnitin](Carnitin.md)
 - [Chilly](Chilly.md)
+- [DMSO](DMSO.md)
 - [Honig](Honig.md)
 - [Hühnerfleisch](Hühnerfleisch.md)
 - [Ingwer](Ingwer.md)
@@ -17,9 +20,14 @@
 - [MSM Schwefel](MSM%20Schwefel.md)
 - [Olivenöl](Olivenöl.md)
 - [Petersilie](Petersilie.md)
+- [Petroläther](Petroläther.md)
 - [Salz](Salz.md)
 - [Sauerkraut](Sauerkraut.md)
 - [Schwarzer Pfeffer](Schwarzer%20Pfeffer.md)
 - [Wasser](Wasser.md)
 - [Zitrone](Zitrone.md)
 - [Zwiebel](Zwiebel.md)
+
+## Lösungsmittel für Heißauszüge
+- [DMSO](DMSO.md)
+- [Petroläther](Petroläther.md)

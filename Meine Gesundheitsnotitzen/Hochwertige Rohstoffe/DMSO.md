@@ -8,3 +8,5 @@
 ## Anwendung
 - Orale Einnahme bei inneren Beschwerden möglich
 - Auf die Wunde auftragen - nicht einreiben besser einsprühen
+- Lösungsmittel
+	- für Auszüge Hitzeunempfindlicher Stoffe (Siedetemperatur ~186°C)
