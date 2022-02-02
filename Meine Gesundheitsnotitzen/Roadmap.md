@@ -12,7 +12,7 @@
 	- [ ] [Selen](Elemente%20des%20Periodensystems/Selen.md)
 		- [ ] https://www.youtube.com/watch?v=hHOeLqdsYhE
 		- [ ] https://www.youtube.com/watch?v=4FZJIW7DZGw
-		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg&t=2165s
+		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg
 	- [ ] [Bärlappkraut](Hochwertige%20Rohstoffe/Bärlappkraut.md)
 	- [ ] [Löwenzahn](Hochwertige%20Rohstoffe/Löwenzahn.md)
 	- [ ] [Schachtelhalm](Hochwertige%20Rohstoffe/Schachtelhalm.md)
