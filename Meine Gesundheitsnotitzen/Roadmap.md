@@ -1,8 +1,30 @@
 # Todo
 
+- [ ] Restrukturierung des [Index](Index.md)
 - [ ] Mehr über die einzelnen Elemente herausfinden
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
+- [ ] Mein [Nutella](Rezepte%20und%20Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
+- [ ] Artikel Ausarbeiten
+	- [ ] [Selen](Elemente%20des%20Periodensystems/Selen.md)
+	- [ ] [Bärlappkraut](Hochwertige%20Rohstoffe/Bärlappkraut.md)
+	- [ ] [Löwenzahn](Hochwertige%20Rohstoffe/Löwenzahn.md)
+	- [ ] [Schachtelhalm](Hochwertige%20Rohstoffe/Schachtelhalm.md)
+	- [ ] [Brennessel](Hochwertige%20Rohstoffe/Brennessel.md)
+	- [ ] [Goldrute](Hochwertige%20Rohstoffe/Goldrute.md)
+	- [ ] [Carnitin](Hochwertige%20Rohstoffe/Carnitin.md)
+	- [ ] [Ursuppe](Rezepte%20und%20Anleitungen/Ursuppe.md)
+	- [ ] [Granatapfel](Hochwertige%20Rohstoffe/Granatapfel.md)
+	- [ ] [Karrotte](Hochwertige%20Rohstoffe/Karrotte.md)
+	- [ ] [Hühnerfleisch](Hochwertige%20Rohstoffe/Hühnerfleisch.md)
+	- [ ] [Kapuzinerkresse](Hochwertige%20Rohstoffe/Kapuzinerkresse.md)
+	- [ ] [Knoblauch](Hochwertige%20Rohstoffe/Knoblauch.md)
+	- [ ] [Kurkuma](Hochwertige%20Rohstoffe/Kurkuma.md)
+	- [ ] [Lithiumchlorid](Hochwertige%20Rohstoffe/Lithiumchlorid.md)
+	- [ ] [Salz](Hochwertige%20Rohstoffe/Salz.md)
+	- [ ] [Sauerkraut](Hochwertige%20Rohstoffe/Sauerkraut.md)
+	- [ ] [Zitrone](Hochwertige%20Rohstoffe/Zitrone.md)
+	- [ ] [Oxydanzkathalysator](Glossar/Oxydanzkathalysator.md)

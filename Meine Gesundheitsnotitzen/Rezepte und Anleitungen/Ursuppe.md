@@ -18,7 +18,7 @@ Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darm
 5. Trockenmasse in Glas füllen und dunkel lagern!
 
 ![Alchemistensuppe | 600](__Attatchments/Ursuppe.jpg)
-Das Endprodukt
+Die Vorstufe
 
 
 ### Konsum des Rohproduktes
@@ -27,6 +27,9 @@ Das Endprodukt
 3. Mischung schäumt auf durch Säure-Basen Reaktion
 4. Glas mit [Wasser](../Hochwertige%20Rohstoffe/Wasser.md) auffüllen / Substrat verdünnen
 5. Trinken
+
+
+**Wichtig: Die Vorstufe kann je nach Holz auch Anteile der Metalle enthalten mit geringer [Kathalytischen Aktivität](../Glossar/Kathalytisch%20aktives%20Metall.md) Beispielssweise Quecksilber oder Cadmium, daher immer gutes Holz wählen**
 	
 ### Trivia
 - Substrat enthält vollständiges Mineralstoffspektrum
