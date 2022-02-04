@@ -1,5 +1,6 @@
 # Datenbank Hochwertiger Rohstoffe
 # Allgemeine Liste
+- [Aloe Vera](Aloe%20Vera.md)
 - [Apfelessig](Apfelessig.md)
 - [Bärlappkraut](Bärlappkraut.md)
 - [Butter](Butter.md)
@@ -12,6 +13,8 @@
 - [Kapuzinerkresse](Kapuzinerkresse.md)
 - [Karrotte](Karrotte.md)
 - [Knoblauch](Knoblauch.md)
+- [Kokosfett](Kokosfett.md)
+- [Kolloidales Gold](Kolloidales%20Gold.md)
 - [Kolloidales Silber](Kolloidales%20Silber.md)
 - [Kurkuma](Kurkuma.md)
 - [Lithiumchlorid](Lithiumchlorid.md)

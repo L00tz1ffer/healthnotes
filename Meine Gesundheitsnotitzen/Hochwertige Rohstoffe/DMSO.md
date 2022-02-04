@@ -10,3 +10,6 @@
 - Auf die Wunde auftragen - nicht einreiben besser einsprühen
 - Lösungsmittel
 	- für Auszüge Hitzeunempfindlicher Stoffe (Siedetemperatur ~186°C)
+
+## Wichtiges
+DMSO wechselt den Aggregatzustand bei 18,5°C von Flüssig nach Fest

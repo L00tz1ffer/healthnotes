@@ -31,3 +31,6 @@
 	- [ ] [Sauerkraut](Hochwertige%20Rohstoffe/Sauerkraut.md)
 	- [ ] [Zitrone](Hochwertige%20Rohstoffe/Zitrone.md)
 	- [ ] [Oxydanzkathalysator](Glossar/Oxydanzkathalysator.md)
+	- [ ] [Kokosfett](Hochwertige%20Rohstoffe/Kokosfett.md)
+	- [ ] [Aloe Vera](Hochwertige%20Rohstoffe/Aloe%20Vera.md)
+	- [ ] [Petroläther](Hochwertige%20Rohstoffe/Petroläther.md)
