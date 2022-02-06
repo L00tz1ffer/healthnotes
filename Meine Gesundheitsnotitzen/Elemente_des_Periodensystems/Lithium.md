@@ -5,6 +5,5 @@
 	- Ergebnis der Studie war, dass in den Texanischen Countys in denen der Lithium gehalt im Trinkwasser leicht höher war, die Kriminalitätsrate im Schnitt halb so hoch war!!!
 
 ## Studien
-
-![Lithium in Drinking Water](__Attatchments/1990-schrauzer.pdf)
-
+1. ![Lithium in Drinking Water](__Attatchments/1990-schrauzer.pdf)
+2. ![Potential Role for Lithium in Preventing Alzheimer Desease](__Attatchments/onlineholistichealth.com-Cure%20for%20Alzheimers.pdf) Quelle: [onlineholistichealth.com](https://www.onlineholistichealth.com/alzheimers/)
