@@ -7,8 +7,10 @@
         "id": "75fb5e110fbe98fb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf"
+              }
             }
           },
           {
@@ -101,15 +106,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
+    "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
+    "Wichtige Persönlichkeiten/Andreas Noack.md",
+    "Wichtige Persönlichkeiten/Etienne Szekely.md",
+    "Wichtige Persönlichkeiten/Karl Popper.md",
     "Menschlicher_Körper/Leber.md",
     "Menschlicher_Körper/Verdauungssystem/Unbenannt.md",
     "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md",
     "Menschlicher_Körper/Blutkreislauf/Blutgefäßsystem.md",
     "Roadmap/Roadmap.md",
-    "Index.md",
-    "Menschlicher_Körper/Sexualität.md",
-    "Menschlicher_Körper/Menschlicher Körper.md",
-    "Menschlicher_Körper/Gehirn.md",
-    "Menschlicher_Körper/Blutkreislauf/Herz.md"
+    "Index.md"
   ]
 }
