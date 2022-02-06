@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
+            "file": "Hochwertige_Rohstoffe/Ei.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
+                "file": "Hochwertige_Rohstoffe/Ei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md"
+                "file": "Hochwertige_Rohstoffe/Ei.md"
               }
             }
           },
@@ -108,6 +108,7 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Hochwertige_Rohstoffe/Ei.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
     "Hochwertige_Rohstoffe/Brennessel.md",
@@ -116,7 +117,6 @@
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin A.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md",
     "Rezepte_und_Anleitungen/Chiabananea.md",
-    "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Hochwertige_Rohstoffe/Chia.md"
+    "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md"
   ]
 }
