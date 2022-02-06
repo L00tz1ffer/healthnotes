@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Blutzuckersenker.md",
+            "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Blutzuckersenker.md",
+                "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Blutzuckersenker.md"
+                "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md"
               }
             }
           },
@@ -109,15 +109,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Blutzuckersenker.md",
     "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
     "Rezepte und Anleitungen/Hühnersuppe.md",
+    "Rezepte und Anleitungen/Blutzuckersenker.md",
+    "Hochwertige Rohstoffe/Chilly.md",
     "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
     "Hochwertige Rohstoffe/Speisesalz.md",
     "Rezepte und Anleitungen/Lugolsche Lösung.md",
     "Rezepte und Anleitungen/Hummus.md",
     "Leiden/Diabetes Typ I.md",
-    "Leiden/Diebetes Typ II.md",
-    "Hochwertige Rohstoffe/Apfelessig.md"
+    "Leiden/Diebetes Typ II.md"
   ]
 }

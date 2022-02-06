@@ -1,10 +1,11 @@
 # Blutzuckersenker
 ## Zutaten
 [Olivenöl](../Hochwertige%20Rohstoffe/Olivenöl.md)
-2 Daumen großes Stück [Ingwer](../Hochwertige%20Rohstoffe/Ingwer.md)
-4 Daumen großes Stück [Zwiebel](../Hochwertige%20Rohstoffe/Zwiebel.md)
-2 Längen des kleinen Fingers an [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md)
-Die schärfsten [Chilly](../Hochwertige%20Rohstoffe/Chilly.md) die du kriegen kannst
+- 2 Daumen großes Stück [Ingwer](../Hochwertige%20Rohstoffe/Ingwer.md)
+- 4 Daumen großes Stück [Zwiebel](../Hochwertige%20Rohstoffe/Zwiebel.md)
+- 2 Längen des kleinen Fingers an [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md)
+- 3 Zehen [Knoblauch](../Hochwertige%20Rohstoffe/Knoblauch.md)
+- Die schärfsten [Chilly](../Hochwertige%20Rohstoffe/Chilly.md) die du kriegen kannst
 
 ## Zubereitung
 1. Die Zutaten alle so klein hacken wie möglich
