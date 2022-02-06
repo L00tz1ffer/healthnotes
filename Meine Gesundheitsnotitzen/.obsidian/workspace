@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "75fb5e110fbe98fb",
+        "id": "9e96474785b3febc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte_und_Anleitungen/Aschedünger.md",
-            "mode": "preview",
+            "file": "Elemente_des_Periodensystems/Lithium.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lithium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Aschedünger.md",
+                "file": "Elemente_des_Periodensystems/Lithium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Aschedünger.md"
+                "file": "Elemente_des_Periodensystems/Lithium.md"
               }
             }
           },
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75fb5e110fbe98fb",
+  "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Elemente_des_Periodensystems/Lithium.md",
+    "Elemente_des_Periodensystems/Elemente.md",
+    "Leiden/Diabetes Typ I.md",
+    "Index.md",
     "Rezepte_und_Anleitungen/Aschedünger.md",
     "Rezepte_und_Anleitungen/Blutzuckersenker.md",
     "Interessante Links.md",
-    "Index.md",
     "Wichtige Persönlichkeiten/Andreas Noack.md",
     "Wichtige Persönlichkeiten/Arnold Ehret.md",
-    "Wichtige Persönlichkeiten/Etienne Szekely.md",
-    "Wichtige Persönlichkeiten/Karl Popper.md",
-    "Leiden/Diabetes.md",
-    "Hochwertige_Rohstoffe/Haferflocken.md"
+    "Wichtige Persönlichkeiten/Etienne Szekely.md"
   ]
 }
