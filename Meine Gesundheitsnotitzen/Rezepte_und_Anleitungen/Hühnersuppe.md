@@ -25,3 +25,9 @@
 	- Alle weiteren Zutaten
 6. Die Suppe sollte jetzt etwa 2-3 Stunden auf mittlerer bis niedriger Hitze vor sich hin köcheln, kann hier auch gerne mit weiterem Gemüse bestückt werden. Es eignet sich beispielsweise Brokkolli, Paprika hingegen weniger
 7. Nun wird die Suppe mit frisch gehackter Petersilie serviert
+
+
+
+
+## Veredelungsformen
+- [Gurkensuppe](Gurkensuppe.md)

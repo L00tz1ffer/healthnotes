@@ -7,9 +7,11 @@
         "id": "75fb5e110fbe98fb",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf"
+            "file": "Rezepte_und_Anleitungen/Hühnersuppe.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
+                "file": "Rezepte_und_Anleitungen/Hühnersuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf"
+                "file": "Rezepte_und_Anleitungen/Hühnersuppe.md"
               }
             }
           },
@@ -106,15 +108,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
-    "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
-    "Wichtige Persönlichkeiten/Andreas Noack.md",
+    "Rezepte_und_Anleitungen/Hühnersuppe.md",
+    "Rezepte_und_Anleitungen/Rezepte und Anleitungen.md",
+    "Rezepte_und_Anleitungen/Gurkensuppe.md",
     "Wichtige Persönlichkeiten/Etienne Szekely.md",
+    "Wichtige Persönlichkeiten/Andreas Noack.md",
+    "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
     "Wichtige Persönlichkeiten/Karl Popper.md",
     "Menschlicher_Körper/Leber.md",
     "Menschlicher_Körper/Verdauungssystem/Unbenannt.md",
-    "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md",
-    "Menschlicher_Körper/Blutkreislauf/Blutgefäßsystem.md",
-    "Roadmap/Roadmap.md",
-    "Index.md"
+    "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md"
   ]
 }
