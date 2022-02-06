@@ -7,12 +7,8 @@
         "id": "75fb5e110fbe98fb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,15 +101,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
+    "Menschlicher_Körper/Leber.md",
+    "Menschlicher_Körper/Verdauungssystem/Unbenannt.md",
+    "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md",
+    "Menschlicher_Körper/Blutkreislauf/Blutgefäßsystem.md",
+    "Roadmap/Roadmap.md",
     "Index.md",
     "Menschlicher_Körper/Sexualität.md",
     "Menschlicher_Körper/Menschlicher Körper.md",
     "Menschlicher_Körper/Gehirn.md",
-    "Menschlicher_Körper/Blutkreislauf/Herz.md",
-    "Menschlicher_Körper/Blutkreislauf/Blutgefäßsystem.md",
-    "Menschlicher_Körper/Blutkreislauf/Blutkreislauf.md",
-    "Wichtige_Nährstoffquellen/Vitamine/Vitamin B3.md",
-    "Leiden/Diabetes.md",
-    "Leiden/Haarausfall.md"
+    "Menschlicher_Körper/Blutkreislauf/Herz.md"
   ]
 }

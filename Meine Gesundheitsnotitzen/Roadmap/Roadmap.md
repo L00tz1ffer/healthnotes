@@ -44,3 +44,5 @@
 	- [ ] [Diabetes Typ I](../Leiden/Diabetes%20Typ%20I.md)
 	- [ ] [Diabetes Typ II](../Leiden/Diabetes%20Typ%20II.md)]
 	- [ ] ![Chrom, Kupfer, Selen & Zink bei Diabetes Typ 1 & 2](__Attatchments/10.1515_jlm.2006.031.pdf)
+- [ ] [Etienne Szekely](../Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
+	- [ ] http://www.hyperinfo.ca/LivingAtom/HomePage.html
