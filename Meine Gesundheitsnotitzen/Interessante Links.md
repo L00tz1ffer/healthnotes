@@ -15,6 +15,9 @@
 | Unbekannt | Wichtiges zur Impfung | [Teil 1](https://www.youtube.com/watch?v=DW61NC9F2vE) [Teil 2](https://www.youtube.com/watch?v=XJ-CnyYkUVk) |
 | **Dr. Gottfried Lange** | **Codex Alimentarius** | https://www.youtube.com/watch?v=aYjLdXiP8-c |
 | | Gesundheit by Ryan | https://t.me/GesundheitAO_byRyan |
+
+
+
 ### Elektromagnetismus
 | Author | Name | Link |
 |-|-|-|
@@ -22,6 +25,8 @@
 |unbekannt|Wachstumssteigerung von Pflanzen|<http://pflanzencode.xara.hosting>|
 | WDR | Das Ciba Geigy Experiment| <https://www.youtube.com/watch?v=xHW6oUtOKyQ> |
 | [Tor Segelohrenbob](https://www.youtube.com/channel/UC9BCVegXvV1ZhB_Trk7vQlA) | Nachbau des Ciba Geigy Experiments als Langzeittest | https://www.youtube.com/watch?v=q8wX0Sn1JbU |
+| Dr. Andreas Noack | Wie Funktioniert die Erde? | <https://www.youtube.com/watch?v=4bGGj_2wKXc> | 
+
 
 ### Hörbücher
 | Author | Name | Link |
