@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hochwertige_Rohstoffe/Haferflocken.md",
+            "file": "Leiden/Diabetes.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochwertige_Rohstoffe/Haferflocken.md",
+                "file": "Leiden/Diabetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochwertige_Rohstoffe/Haferflocken.md"
+                "file": "Leiden/Diabetes.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
+    "Leiden/Diabetes.md",
     "Hochwertige_Rohstoffe/Haferflocken.md",
+    "Hochwertige_Rohstoffe/Zitrone.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin B3.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin C.md",
     "Nahrungs_Inhaltsstoffe/Ballaststoffe/Betaglucan.md",
     "Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
     "Nahrungs_Inhaltsstoffe/Ballaststoffe/Ballaststoffe.md",
     "Index.md",
-    "Rezepte_und_Anleitungen/Hühnersuppe.md",
-    "Rezepte_und_Anleitungen/Rezepte und Anleitungen.md",
-    "Rezepte_und_Anleitungen/Gurkensuppe.md",
-    "Wichtige Persönlichkeiten/Etienne Szekely.md",
-    "Wichtige Persönlichkeiten/Andreas Noack.md"
+    "Rezepte_und_Anleitungen/Hühnersuppe.md"
   ]
 }
