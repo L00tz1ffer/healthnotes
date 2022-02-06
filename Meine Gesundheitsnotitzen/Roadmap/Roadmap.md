@@ -5,6 +5,7 @@
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
 - [ ] Mein [Nutella](../Rezepte%20und%20Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
+	- [ ] [B-Vitamine](../Wichtige%20Nährstoffquellen/Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
@@ -27,7 +28,7 @@
 	- [ ] [Knoblauch](../Hochwertige%20Rohstoffe/Knoblauch.md)
 	- [ ] [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md)
 	- [ ] [Lithiumchlorid](../Hochwertige%20Rohstoffe/Lithiumchlorid.md)
-	- [ ] [Salz](../Hochwertige%20Rohstoffe/Salz.md)
+	- [ ] [Speisesalz](../Hochwertige%20Rohstoffe/Speisesalz.md)
 	- [ ] [Sauerkraut](../Hochwertige%20Rohstoffe/Sauerkraut.md)
 	- [ ] [Zitrone](../Hochwertige%20Rohstoffe/Zitrone.md)
 	- [ ] [Oxydanzkathalysator](../Glossar/Oxydanzkathalysator.md)
@@ -40,4 +41,6 @@
 - [ ] Diabetes
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/
+	- [ ] [Diabetes Typ I](../Leiden/Diabetes%20Typ%20I.md)
+	- [ ] [Diebetes Typ II](../Leiden/Diebetes%20Typ%20II.md)]
 	- [ ] ![Chrom, Kupfer, Selen & Zink bei Diabetes Typ 1 & 2](__Attatchments/10.1515_jlm.2006.031.pdf)

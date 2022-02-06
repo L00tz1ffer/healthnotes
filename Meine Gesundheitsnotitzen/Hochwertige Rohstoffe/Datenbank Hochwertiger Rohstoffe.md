@@ -30,7 +30,7 @@
 - [Olivenöl](Olivenöl.md)
 - [Petersilie](Petersilie.md)
 - [Petroläther](Petroläther.md)
-- [Salz](Salz.md)
+- [Speisesalz](Speisesalz.md)
 - [Sauerkraut](Sauerkraut.md)
 - [Schwarzer Pfeffer](Schwarzer%20Pfeffer.md)
 - [Wasser](Wasser.md)
