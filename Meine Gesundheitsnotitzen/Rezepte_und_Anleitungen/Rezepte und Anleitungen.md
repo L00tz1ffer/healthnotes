@@ -1,6 +1,8 @@
 # Rezepte und Anleitungen
 - [Aschedünger](Aschedünger.md)
 - [Blutzuckersenker](Blutzuckersenker.md)
+- [Chana Masala](Chana%20Masala.md)
+- [Chiabananea](Chiabananea.md)
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)
 - [Geröstete Cashew Kerne](Geröstete%20Cashew%20Kerne.md)
 - [Gurkensuppe](Gurkensuppe.md)
