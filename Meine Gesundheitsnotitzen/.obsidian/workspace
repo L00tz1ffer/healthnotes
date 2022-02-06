@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hochwertige_Rohstoffe/Brennessel.md",
+            "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochwertige_Rohstoffe/Brennessel.md",
+                "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochwertige_Rohstoffe/Brennessel.md"
+                "file": "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
     "Hochwertige_Rohstoffe/Brennessel.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin A.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md",
     "Rezepte_und_Anleitungen/Chiabananea.md",
     "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Hochwertige_Rohstoffe/Chia.md",
-    "Rezepte_und_Anleitungen/Chana Masala.md"
+    "Hochwertige_Rohstoffe/Chia.md"
   ]
 }
