@@ -3,10 +3,15 @@
 - [Aloe Vera](Aloe%20Vera.md)
 - [Apfelessig](Apfelessig.md)
 - [Bärlappkraut](Bärlappkraut.md)
+- [Brennessel](Brennessel.md)
 - [Butter](Butter.md)
 - [Carnitin](Carnitin.md)
 - [Chilly](Chilly.md)
+- [Cashew](Cashew.md)
 - [DMSO](DMSO.md)
+- [Goldrute](Goldrute.md)
+- [Granatapfel](Granatapfel.md)
+- [Haferflocken](Haferflocken.md)
 - [Honig](Honig.md)
 - [Hühnerfleisch](Hühnerfleisch.md)
 - [Ingwer](Ingwer.md)
@@ -17,6 +22,7 @@
 - [Kolloidales Gold](Kolloidales%20Gold.md)
 - [Kolloidales Silber](Kolloidales%20Silber.md)
 - [Kurkuma](Kurkuma.md)
+- [Linsen](Linsen.md)
 - [Lithiumchlorid](Lithiumchlorid.md)
 - [Löwenzahn](Löwenzahn.md)
 - [Meerettich](Meerettich.md)
@@ -31,6 +37,5 @@
 - [Zitrone](Zitrone.md)
 - [Zwiebel](Zwiebel.md)
 
-## Lösungsmittel für Heißauszüge
-- [DMSO](DMSO.md)
-- [Petroläther](Petroläther.md)
+
+## [Datenbank Lösungsmittel](Datenbank%20Lösungsmittel.md)

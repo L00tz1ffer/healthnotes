@@ -34,6 +34,9 @@
 	- [ ] [Kokosfett](../Hochwertige%20Rohstoffe/Kokosfett.md)
 	- [ ] [Aloe Vera](../Hochwertige%20Rohstoffe/Aloe%20Vera.md)
 	- [ ] [Petroläther](../Hochwertige%20Rohstoffe/Petroläther.md)
+	- [ ] [Haferflocken](../Hochwertige%20Rohstoffe/Haferflocken.md)
+	- [ ] [Cashew](../Hochwertige%20Rohstoffe/Cashew.md)
+	- [ ] [Linsen](../Hochwertige%20Rohstoffe/Linsen.md)
 - [ ] Diabetes
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/

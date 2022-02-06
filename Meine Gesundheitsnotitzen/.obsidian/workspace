@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Roadmap/Roadmap.md",
-            "mode": "preview",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e8fe2db37767b804",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hochwertige Rohstoffe/Haferflocken.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap/Roadmap.md",
+                "file": "Hochwertige Rohstoffe/Haferflocken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap/Roadmap.md"
+                "file": "Hochwertige Rohstoffe/Haferflocken.md"
               }
             }
           },
@@ -106,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75fb5e110fbe98fb",
+  "active": "e8fe2db37767b804",
   "lastOpenFiles": [
+    "Hochwertige Rohstoffe/Haferflocken.md",
     "Roadmap/Roadmap.md",
-    "Hochwertige Rohstoffe/DMSO.md",
-    "Hochwertige Rohstoffe/Kolloidales Silber.md",
-    "Hochwertige Rohstoffe/Kokosfett.md",
-    "Hochwertige Rohstoffe/Aloe Vera.md",
-    "Hochwertige Rohstoffe/Kolloidales Gold.md",
+    "Index.md",
+    "Wissenschaft.md",
+    "Interessante Links.md",
     "Hochwertige Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Glossar/Nützliche Gerätschaften/Nützliche Gerätschaften.md",
-    "Hochwertige Rohstoffe/Petroläther.md",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md"
+    "Hochwertige Rohstoffe/Linsen.md",
+    "Hochwertige Rohstoffe/Cashew.md",
+    "Hochwertige Rohstoffe/Datenbank Lösungsmittel.md",
+    "Hochwertige Rohstoffe/DMSO.md"
   ]
 }
