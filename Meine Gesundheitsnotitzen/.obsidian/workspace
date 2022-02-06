@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elemente_des_Periodensystems/Lithium.md",
+            "file": "Elemente_des_Periodensystems/Elemente.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elemente_des_Periodensystems/Lithium.md",
+                "file": "Elemente_des_Periodensystems/Elemente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elemente_des_Periodensystems/Lithium.md"
+                "file": "Elemente_des_Periodensystems/Elemente.md"
               }
             }
           },
@@ -108,10 +108,10 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Elemente_des_Periodensystems/Elemente.md",
     "Elemente_des_Periodensystems/Lithium.md",
     "Elemente_des_Periodensystems/Magnesium.md",
     "Elemente_des_Periodensystems/Selen.md",
-    "Elemente_des_Periodensystems/Elemente.md",
     "Leiden/Diabetes Typ I.md",
     "Index.md",
     "Rezepte_und_Anleitungen/Aschedünger.md",

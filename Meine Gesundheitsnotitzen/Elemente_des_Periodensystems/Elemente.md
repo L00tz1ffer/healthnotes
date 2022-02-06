@@ -19,6 +19,7 @@
 - [Rhodium](Rhodium.md)
 - [Sauerstoff](Sauerstoff.md)
 - [Schwefel](Schwefel.md)
+- [Selen](Selen.md)
 - [Silber](Silber.md)
 - [Silizium](Silizium.md)
 - [Strontium](Strontium.md)
