@@ -7,8 +7,12 @@
         "id": "9e96474785b3febc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md"
+              }
             }
           },
           {
@@ -101,6 +108,8 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md",
+    "Hochwertige_Rohstoffe/Brennessel.md",
     "Rezepte_und_Anleitungen/Chiabananea.md",
     "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
     "Hochwertige_Rohstoffe/Chia.md",
@@ -108,8 +117,6 @@
     "Rezepte_und_Anleitungen/Kartoffelpuffer.md",
     "Hochwertige_Rohstoffe/Ei.md",
     "Hochwertige_Rohstoffe/Kartoffel.md",
-    "Rezepte_und_Anleitungen/Geröstete Cashew Kerne.md",
-    "Rezepte_und_Anleitungen/Blutzuckersenker.md",
-    "Rezepte_und_Anleitungen/Hydrogene Peroxide.md"
+    "Rezepte_und_Anleitungen/Geröstete Cashew Kerne.md"
   ]
 }
