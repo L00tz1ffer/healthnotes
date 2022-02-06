@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
+            "file": "Index.md",
             "mode": "source",
-            "backlinks": true,
             "source": false
           }
         }
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Geröstete Cashew Kerne.md"
+                "file": "Index.md"
               }
             }
           },
@@ -109,15 +108,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Geröstete Cashew Kerne.md",
-    "Rezepte und Anleitungen/Hühnersuppe.md",
-    "Rezepte und Anleitungen/Blutzuckersenker.md",
-    "Hochwertige Rohstoffe/Chilly.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung nach Wertigkeit/Hochwertige Lebensmittel.md",
-    "Hochwertige Rohstoffe/Speisesalz.md",
-    "Rezepte und Anleitungen/Lugolsche Lösung.md",
-    "Rezepte und Anleitungen/Hummus.md",
-    "Leiden/Diabetes Typ I.md",
-    "Leiden/Diebetes Typ II.md"
+    "Index.md",
+    "Menschlicher_Körper/Sexualität.md",
+    "Menschlicher_Körper/Menschlicher Körper.md",
+    "Menschlicher_Körper/Gehirn.md",
+    "Menschlicher_Körper/Blutkreislauf/Herz.md",
+    "Menschlicher_Körper/Blutkreislauf/Blutgefäßsystem.md",
+    "Menschlicher_Körper/Blutkreislauf/Blutkreislauf.md",
+    "Wichtige_Nährstoffquellen/Vitamine/Vitamin B3.md",
+    "Leiden/Diabetes.md",
+    "Leiden/Haarausfall.md"
   ]
 }

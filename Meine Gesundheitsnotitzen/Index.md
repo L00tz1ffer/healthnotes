@@ -87,43 +87,17 @@ Halt Stop! ich meine es wirklich ernst!
 Wie seht tragen wir selbst zu unserem Wohlergehen oder unserem Unglück bei?
 Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument [Sonochemie](Sonochemie/Sonochemie.md) hinein, sie werden erstaunt sein, was dort auf Sie wartet
 
-# [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
+# [Gesprächskultur](Tipps_für_den_Alltag/Gesprächskultur.md)
 Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
-Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
+Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps_für_den_Alltag/Gesprächskultur.md)
 	
 	
 
 ## [Wissenschaft](Wissenschaft.md)
 					
 					
-## Der Organismus
-### Hirn
-- Hochleistungs Biocomputer
-- Gesteuert von Bewusstsein
-- vom Herzen über Induktion mit Energie versorgt
-### Der Blutkreislauf zerlegt
-#### Das Herz
-- **keine Pumpe**
-	- ergibt keinen Sinn
-	- wäre das Herz eine Pumpe, müsste es nach dem **Hagen + Sollsche Gesetz** - dem **Gesetz für Laminare Strömungen** soviel Leistung aufbrigen können, dass man damit **LKW Reifen aufpumpen können müsste**
-	- etwa 14bar Druck!!!
-	- stark fehleranfällig
-	- Langendorfsches Herz
-	- Kupfer Wand Experiment
-	- ist es möglich, dass viele Herzkrankeiten durch Siliziumoxidmangel in der Nahrung verursacht werden?
-	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/silizium_im_Wasser.png)
-		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
-					
-#### Das Blutgefäßsystem
-- ist kein Gefäßsystem
-	- ist ein Schlauchpumpensystem
-	- extrem fehlerresistent
-		- jede Zelle des Körpers ist beweglich		
-	- Ein Elektromagneitscher Feldgenerator
-	- reichert Quarz / Siliziumoxid an mit der Intention auf piezoelektrischer Bewegung beruhend einen elektromagnetischen Puls räumlich zu etablieren
 
-#### [Sexualität](Wichtige%20Nährstoffquellen/Sexualität.md)
 				
 					
 ## Die Nahrungsmittelproduktion
@@ -135,8 +109,8 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	- gibt es keine Mineralien im Boden
 - Was kann man da tun?
 	- Anbau von Essen auf Humusboden
-	- Die asche Essen ([Ursuppe](Rezepte%20und%20Anleitungen/Ursuppe.md))
-	- [Aschedünger](Rezepte%20und%20Anleitungen/Aschedünger.md)
+	- Die asche Essen ([Ursuppe](Rezepte_und_Anleitungen/Ursuppe.md))
+	- [Aschedünger](Rezepte_und_Anleitungen/Aschedünger.md)
 	
 ## Molekulare Verbindungen
 ### was nicht in den Körper gehört:
@@ -172,14 +146,14 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 
 
 
-### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Elemente%20des%20Periodensystems/Elemente.md)
+### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Elemente_des_Periodensystems/Elemente.md)
 
-### [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige%20Nährstoffquellen/Nährstoffe.md)
+### [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige_Nährstoffquellen/Nährstoffe.md)
 
 ### [Heilsteine](Heilsteine/Heilsteine.md)
 
-### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
+### [Allgemeine Tipps](Tipps_für_den_Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 
-### [Rezepte und Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
+### [Rezepte und Anleitungen](Rezepte_und_Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 

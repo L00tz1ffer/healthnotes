@@ -1,0 +1,3 @@
+[Hochwertige_Lebensmittel](Hochwertige_Lebensmittel.md)
+[Mittelwertige_Lebensmittel](Mittelwertige_Lebensmittel.md)
+[Minderwertige_Lebensmittel](Minderwertige_Lebensmittel.md)

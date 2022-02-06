@@ -5,4 +5,4 @@
 [Kolloid](Kolloid.md)
 
 
-[Nützliche Gerätschaften](Nützliche%20Gerätschaften/Nützliche%20Gerätschaften.md)
+[Nützliche Gerätschaften](Nützliche_Gerätschaften/Nützliche%20Gerätschaften.md)

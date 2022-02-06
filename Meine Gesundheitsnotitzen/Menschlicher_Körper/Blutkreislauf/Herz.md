@@ -1,0 +1,13 @@
+# Das Herz
+- **keine Pumpe**
+	- ergibt keinen Sinn
+	- wäre das Herz eine Pumpe, müsste es nach dem **Hagen + Sollsche Gesetz** - dem **Gesetz für Laminare Strömungen** soviel Leistung aufbrigen können, dass man damit **LKW Reifen aufpumpen können müsste**
+	- etwa 14bar Druck!!!
+	- stark fehleranfällig
+	- Langendorfsches Herz
+	- Kupfer Wand Experiment
+	- ist es möglich, dass viele Herzkrankeiten durch Siliziumoxidmangel in der Nahrung verursacht werden?
+	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/silizium_im_Wasser.png)
+		- Quelle: Nährstofflabyrinth - Dr. Andreas Noack
+	- Ein Elektromagneitscher Feldgenerator
+	- reichert Quarz / Siliziumoxid an mit der Intention auf piezoelektrischer Bewegung beruhend einen elektromagnetischen Puls räumlich zu etablieren

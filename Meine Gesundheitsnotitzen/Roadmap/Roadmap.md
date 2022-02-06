@@ -3,44 +3,44 @@
 - [ ] Restrukturierung des [Index](../Index.md)
 - [ ] Mehr über die einzelnen Elemente herausfinden
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
-- [ ] Mein [Nutella](../Rezepte%20und%20Anleitungen/Nutella.md) Rezept einarbeiten
+- [ ] Mein [Nutella](../Rezepte_und_Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
-	- [ ] [B-Vitamine](../Wichtige%20Nährstoffquellen/Vitamine/B-Vitamine.md)
+	- [ ] [B-Vitamine](../Wichtige_Nährstoffquellen/Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
 - [ ] Artikel Ausarbeiten
-	- [ ] [Selen](../Elemente%20des%20Periodensystems/Selen.md)
+	- [ ] [Selen](../Elemente_des_Periodensystems/Selen.md)
 		- [ ] https://www.youtube.com/watch?v=hHOeLqdsYhE
 		- [ ] https://www.youtube.com/watch?v=4FZJIW7DZGw
 		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg
-	- [ ] [Bärlappkraut](../Hochwertige%20Rohstoffe/Bärlappkraut.md)
-	- [ ] [Löwenzahn](../Hochwertige%20Rohstoffe/Löwenzahn.md)
-	- [ ] [Schachtelhalm](../Hochwertige%20Rohstoffe/Schachtelhalm.md)
-	- [ ] [Brennessel](../Hochwertige%20Rohstoffe/Brennessel.md)
-	- [ ] [Goldrute](../Hochwertige%20Rohstoffe/Goldrute.md)
-	- [ ] [Carnitin](../Hochwertige%20Rohstoffe/Carnitin.md)
-	- [ ] [Ursuppe](../Rezepte%20und%20Anleitungen/Ursuppe.md)
-	- [ ] [Granatapfel](../Hochwertige%20Rohstoffe/Granatapfel.md)
-	- [ ] [Karrotte](../Hochwertige%20Rohstoffe/Karrotte.md)
-	- [ ] [Hühnerfleisch](../Hochwertige%20Rohstoffe/Hühnerfleisch.md)
-	- [ ] [Kapuzinerkresse](../Hochwertige%20Rohstoffe/Kapuzinerkresse.md)
-	- [ ] [Knoblauch](../Hochwertige%20Rohstoffe/Knoblauch.md)
-	- [ ] [Kurkuma](../Hochwertige%20Rohstoffe/Kurkuma.md)
-	- [ ] [Lithiumchlorid](../Hochwertige%20Rohstoffe/Lithiumchlorid.md)
-	- [ ] [Speisesalz](../Hochwertige%20Rohstoffe/Speisesalz.md)
-	- [ ] [Sauerkraut](../Hochwertige%20Rohstoffe/Sauerkraut.md)
-	- [ ] [Zitrone](../Hochwertige%20Rohstoffe/Zitrone.md)
+	- [ ] [Bärlappkraut](../Hochwertige_Rohstoffe/Bärlappkraut.md)
+	- [ ] [Löwenzahn](../Hochwertige_Rohstoffe/Löwenzahn.md)
+	- [ ] [Schachtelhalm](../Hochwertige_Rohstoffe/Schachtelhalm.md)
+	- [ ] [Brennessel](../Hochwertige_Rohstoffe/Brennessel.md)
+	- [ ] [Goldrute](../Hochwertige_Rohstoffe/Goldrute.md)
+	- [ ] [Carnitin](../Hochwertige_Rohstoffe/Carnitin.md)
+	- [ ] [Ursuppe](../Rezepte_und_Anleitungen/Ursuppe.md)
+	- [ ] [Granatapfel](../Hochwertige_Rohstoffe/Granatapfel.md)
+	- [ ] [Karrotte](../Hochwertige_Rohstoffe/Karrotte.md)
+	- [ ] [Hühnerfleisch](../Hochwertige_Rohstoffe/Hühnerfleisch.md)
+	- [ ] [Kapuzinerkresse](../Hochwertige_Rohstoffe/Kapuzinerkresse.md)
+	- [ ] [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
+	- [ ] [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md)
+	- [ ] [Lithiumchlorid](../Hochwertige_Rohstoffe/Lithiumchlorid.md)
+	- [ ] [Speisesalz](../Hochwertige_Rohstoffe/Speisesalz.md)
+	- [ ] [Sauerkraut](../Hochwertige_Rohstoffe/Sauerkraut.md)
+	- [ ] [Zitrone](../Hochwertige_Rohstoffe/Zitrone.md)
 	- [ ] [Oxydanzkathalysator](../Glossar/Oxydanzkathalysator.md)
-	- [ ] [Kokosfett](../Hochwertige%20Rohstoffe/Kokosfett.md)
-	- [ ] [Aloe Vera](../Hochwertige%20Rohstoffe/Aloe%20Vera.md)
-	- [ ] [Petroläther](../Hochwertige%20Rohstoffe/Petroläther.md)
-	- [ ] [Haferflocken](../Hochwertige%20Rohstoffe/Haferflocken.md)
-	- [ ] [Cashew](../Hochwertige%20Rohstoffe/Cashew.md)
-	- [ ] [Linsen](../Hochwertige%20Rohstoffe/Linsen.md)
+	- [ ] [Kokosfett](../Hochwertige_Rohstoffe/Kokosfett.md)
+	- [ ] [Aloe Vera](../Hochwertige_Rohstoffe/Aloe%20Vera.md)
+	- [ ] [Petroläther](../Hochwertige_Rohstoffe/Petroläther.md)
+	- [ ] [Haferflocken](../Hochwertige_Rohstoffe/Haferflocken.md)
+	- [ ] [Cashew](../Hochwertige_Rohstoffe/Cashew.md)
+	- [ ] [Linsen](../Hochwertige_Rohstoffe/Linsen.md)
 - [ ] Diabetes
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/
 	- [ ] [Diabetes Typ I](../Leiden/Diabetes%20Typ%20I.md)
-	- [ ] [Diebetes Typ II](../Leiden/Diebetes%20Typ%20II.md)]
+	- [ ] [Diabetes Typ II](../Leiden/Diabetes%20Typ%20II.md)]
 	- [ ] ![Chrom, Kupfer, Selen & Zink bei Diabetes Typ 1 & 2](__Attatchments/10.1515_jlm.2006.031.pdf)

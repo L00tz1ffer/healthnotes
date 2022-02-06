@@ -8,5 +8,5 @@
 	- Kolloide haben aufgrund ihrer großen Oberfläche und der vielen freien Elektronen die idealen voraussetzungen einander abzustoßen
 	- treiben die roten Blutkörperchen ausseinander
 - ppm Zahl
-	- 1ppm entspricht 1mg auf 1l [Wasser](../Hochwertige%20Rohstoffe/Wasser.md)
+	- 1ppm entspricht 1mg auf 1l [Wasser](../Hochwertige_Rohstoffe/Wasser.md)
 	- höhere ppm Zahl bedeutet nicht, dass es sich um eine höhere Qualität handelt 

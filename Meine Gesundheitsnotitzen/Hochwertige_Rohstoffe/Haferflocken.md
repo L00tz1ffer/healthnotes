@@ -1,0 +1,10 @@
+# Haferflocken
+- Werden aufgrund extrem langer Kohlenhydratketten nur sehr langsam verstoffwechselt, eignen sich daher insbesondere für [Diabetes Typ I](../Leiden/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../Leiden/Diabetes%20Typ%20II.md) Patienten
+- Senkt insulinbedarf
+- Guter Vitalstofflieferant
+	- B Vitamine
+	- [Magnesium](../Elemente_des_Periodensystems/Magnesium.md)
+	- [Zink](../Elemente_des_Periodensystems/Zink.md)
+	- [Eisen](../Elemente_des_Periodensystems/Eisen.md)
+	- 100g = 11g Ballaststoffe
+	- 
