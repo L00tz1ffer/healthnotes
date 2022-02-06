@@ -6,5 +6,7 @@
 	- [Magnesium](../Elemente_des_Periodensystems/Magnesium.md)
 	- [Zink](../Elemente_des_Periodensystems/Zink.md)
 	- [Eisen](../Elemente_des_Periodensystems/Eisen.md)
+		- Immer mit [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md) konsumieren
 	- 100g = 11g Ballaststoffe
-	- 
+		- [Betaglucan](../Nahrungs_Inhaltsstoffe/Ballaststoffe/Betaglucan.md)
+	- 100g = 13g Protein

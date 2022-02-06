@@ -5,7 +5,7 @@
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
 - [ ] Mein [Nutella](../Rezepte_und_Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
-	- [ ] [B-Vitamine](../Wichtige_Nährstoffquellen/Vitamine/B-Vitamine.md)
+	- [ ] [B-Vitamine](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30

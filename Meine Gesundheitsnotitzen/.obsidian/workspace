@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte_und_Anleitungen/Hühnersuppe.md",
+            "file": "Hochwertige_Rohstoffe/Haferflocken.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Hühnersuppe.md",
+                "file": "Hochwertige_Rohstoffe/Haferflocken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Hühnersuppe.md"
+                "file": "Hochwertige_Rohstoffe/Haferflocken.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "75fb5e110fbe98fb",
   "lastOpenFiles": [
+    "Hochwertige_Rohstoffe/Haferflocken.md",
+    "Nahrungs_Inhaltsstoffe/Ballaststoffe/Betaglucan.md",
+    "Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+    "Nahrungs_Inhaltsstoffe/Ballaststoffe/Ballaststoffe.md",
+    "Index.md",
     "Rezepte_und_Anleitungen/Hühnersuppe.md",
     "Rezepte_und_Anleitungen/Rezepte und Anleitungen.md",
     "Rezepte_und_Anleitungen/Gurkensuppe.md",
     "Wichtige Persönlichkeiten/Etienne Szekely.md",
-    "Wichtige Persönlichkeiten/Andreas Noack.md",
-    "Wichtige Persönlichkeiten/__Attatchments/Etienne Scekeley - The Living Atom Theory.pdf",
-    "Wichtige Persönlichkeiten/Karl Popper.md",
-    "Menschlicher_Körper/Leber.md",
-    "Menschlicher_Körper/Verdauungssystem/Unbenannt.md",
-    "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md"
+    "Wichtige Persönlichkeiten/Andreas Noack.md"
   ]
 }
