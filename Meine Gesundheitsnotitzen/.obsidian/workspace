@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interessante Links.md",
-            "mode": "preview",
+            "file": "Leiden/Diabetes Typ I.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interessante Links.md",
+                "file": "Leiden/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interessante Links.md"
+                "file": "Leiden/Diabetes Typ I.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Leiden/Diabetes Typ I.md",
+    "Hochwertige_Rohstoffe/Lithiumchlorid.md",
+    "Menschlicher_Körper/Verdauungssystem/Unbenannt.md",
+    "Menschlicher_Körper/Verdauungssystem/Verdauungssystem.md",
     "Interessante Links.md",
     "Elemente_des_Periodensystems/Iod.md",
     "Hochwertige_Rohstoffe/Ei.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
-    "Hochwertige_Rohstoffe/Brennessel.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin A.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B1.md"
+    "Hochwertige_Rohstoffe/Brennessel.md"
   ]
 }
