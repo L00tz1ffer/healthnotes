@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leiden/Diabetes Typ I.md",
+            "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leiden/Diabetes Typ I.md",
+                "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leiden/Diabetes Typ I.md"
+                "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
-    "Leiden/Diabetes Typ I.md",
-    "Elemente_des_Periodensystems/Selen.md",
-    "Hochwertige_Rohstoffe/Stevia.md",
-    "Hochwertige_Rohstoffe/Ei.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
-    "Rezepte_und_Anleitungen/Lugolsche Lösung.md",
-    "Rezepte_und_Anleitungen/Rezepte und Anleitungen.md",
-    "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
-    "Hochwertige_Rohstoffe/Granatapfel.md"
+    "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
+    "Tipps_für_den_Alltag/Gemeinschaft/_Index_of_Gemeinschaft.md",
+    "_Index_of_Meine Gesundheitsnotitzen.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/_Index_of_Allgemeine Tipps.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Leichteres Lernen.md",
+    "Roadmap/_Index_of_Roadmap.md",
+    "Tipps_für_den_Alltag/Gemeinschaft/Was ist Gemeinschaft.md",
+    "Tipps_für_den_Alltag/Gemeinschaft/Gemeinschaft.md",
+    "Tipps_für_den_Alltag/Gesprächskultur.md"
   ]
 }
