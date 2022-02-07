@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9e96474785b3febc",
+        "id": "1ae20270eb4c40f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
-            "mode": "preview",
+            "file": "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lithium",
+                "query": "_Index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
+                "file": "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md"
+                "file": "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md"
               }
             }
           },
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e96474785b3febc",
+  "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md",
-    "Tipps_für_den_Alltag/Gemeinschaft/_Index_of_Gemeinschaft.md",
-    "_Index_of_Meine Gesundheitsnotitzen.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/_Index_of_Allgemeine Tipps.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Wirke Intelligenter.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Rhetorik.md",
     "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Leichteres Lernen.md",
-    "Roadmap/_Index_of_Roadmap.md",
-    "Tipps_für_den_Alltag/Gemeinschaft/Was ist Gemeinschaft.md",
     "Tipps_für_den_Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Tipps_für_den_Alltag/Gesprächskultur.md"
+    "Tipps_für_den_Alltag/Gemeinschaft/Grundlegendes zu Gemeinschaft.md",
+    "Index.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/_Index_of_B-Vitamine.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/_Index_of_Allgemeine Tipps.md",
+    "Tipps_für_den_Alltag/_Index_of_Tipps_für_den_Alltag.md"
   ]
 }

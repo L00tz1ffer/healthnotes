@@ -7,3 +7,5 @@ Der Wichtigste Tipp von allen will gleich vorweg gegeben werden. Er ist [Sonoche
 - [Lesen von Studien](Lesen%20von%20Studien.md)
 - [Leichteres Lernen](Leichteres%20Lernen.md)
 - [Küchentipps](Küchentipps.md)
+- [Rhetorik](Rhetorik/Rhetorik.md)
+- 
