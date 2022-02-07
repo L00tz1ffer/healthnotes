@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte_und_Anleitungen/Lugolsche Lösung.md",
+            "file": "Hochwertige_Rohstoffe/Ei.md",
             "mode": "source",
-            "backlinks": true,
             "source": false
           }
         }
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Lugolsche Lösung.md",
+                "file": "Hochwertige_Rohstoffe/Ei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Lugolsche Lösung.md"
+                "file": "Hochwertige_Rohstoffe/Ei.md"
               }
             }
           },
@@ -109,15 +108,15 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Hochwertige_Rohstoffe/Ei.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
+    "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
     "Rezepte_und_Anleitungen/Lugolsche Lösung.md",
     "Rezepte_und_Anleitungen/Rezepte und Anleitungen.md",
     "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
-    "Hochwertige_Rohstoffe/Ei.md",
     "Hochwertige_Rohstoffe/Granatapfel.md",
     "Hochwertige_Rohstoffe/Goldrute.md",
     "Hochwertige_Rohstoffe/Stevia.md",
-    "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md",
-    "Hochwertige_Rohstoffe/Xilithol.md",
-    "Hochwertige_Rohstoffe/Mandelnkern.md"
+    "Hochwertige_Rohstoffe/Datenbank Hochwertiger Rohstoffe.md"
   ]
 }
