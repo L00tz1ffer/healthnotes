@@ -6,4 +6,4 @@ Zitronensäure ist neben Sauerkrautsäure die einzige Säure die unser Körper b
 - [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md)
 
 ## Interessantes
-- [Link: Zitronensaft senkt Blutzuckerspitzen nach Mahlzeiten](https://www.heilpraxisnet.de/naturheilpraxis/diabetes-zitronensaft-senkt-blutzuckerspitzen-nach-mahlzeiten-20211106550015/)
+- [Link: Zitronensaft senkt Blutzuckerspitzen nach Mahlzeiten](https://www.heilpraxisnet.de/naturheilpraxis/diabetes-zitronensaft-senkt-blutzuckerspitzen-nach-mahlzeiten-20211106550015/) -> [Diabetes Typ I](../Leiden/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../Leiden/Diabetes%20Typ%20II.md)

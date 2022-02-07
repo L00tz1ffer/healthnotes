@@ -11,6 +11,7 @@
 - [Gold](Gold.md)
 - [Iod](Iod.md)
 - [Iridium](Iridium.md)
+- [Kalzium](Kalzium.md)
 - [Kupfer](Kupfer.md)
 - [Lithium](Lithium.md)
 - [Magnesium](Magnesium.md)

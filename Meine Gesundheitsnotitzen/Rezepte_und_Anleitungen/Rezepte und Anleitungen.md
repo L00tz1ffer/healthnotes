@@ -18,4 +18,7 @@
 - [Wasserstoffperoxid](Wasserstoffperoxid.md)
 
 
+## [Weitere Rezepte im Internet](Weitere%20Rezepte%20im%20Internet.md)
+
+
 ## [Küchentipps](../Tipps_für_den_Alltag/Allgemeine%20Tipps/Küchentipps.md)
