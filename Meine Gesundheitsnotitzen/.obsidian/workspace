@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte_und_Anleitungen/Chana Masala.md",
+            "file": "Menschlicher_Körper/Gehirn.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Chana Masala.md",
+                "file": "Menschlicher_Körper/Gehirn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Chana Masala.md"
+                "file": "Menschlicher_Körper/Gehirn.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Rezepte_und_Anleitungen/Chana Masala.md",
+    "Menschlicher_Körper/Gehirn.md",
     "Menschlicher_Körper/Leiden/Diabetes Typ I.md",
+    "Rezepte_und_Anleitungen/Chana Masala.md",
     "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Rhetorik.md",
     "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md",
     "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Wirke Intelligenter.md",
     "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
     "Tipps_für_den_Alltag/Gemeinschaft/Gemeinschaft.md",
     "Tipps_für_den_Alltag/Gemeinschaft/Grundlegendes zu Gemeinschaft.md",
-    "Index.md",
-    "Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/_Index_of_B-Vitamine.md"
+    "Index.md"
   ]
 }
