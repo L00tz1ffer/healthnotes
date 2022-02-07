@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elemente_des_Periodensystems/Selen.md",
-            "mode": "source",
+            "file": "Leiden/Diabetes Typ I.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elemente_des_Periodensystems/Selen.md",
+                "file": "Leiden/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elemente_des_Periodensystems/Selen.md"
+                "file": "Leiden/Diabetes Typ I.md"
               }
             }
           },
@@ -108,9 +108,9 @@
   },
   "active": "9e96474785b3febc",
   "lastOpenFiles": [
+    "Leiden/Diabetes Typ I.md",
     "Elemente_des_Periodensystems/Selen.md",
     "Hochwertige_Rohstoffe/Stevia.md",
-    "Leiden/Diabetes Typ I.md",
     "Hochwertige_Rohstoffe/Ei.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K2.md",
     "Nahrungs_Inhaltsstoffe/Vitamine/Vitamin K1.md",
