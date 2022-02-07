@@ -6,10 +6,11 @@
 - 3 Tl Garam Masala
 - 3 Tl [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md)
 - 3 Daumen [Ingwer](../Hochwertige_Rohstoffe/Ingwer.md)
-- 12 Zehen [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
+- 5 Zehen [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
 - 4 [Chillyschoten](../Hochwertige_Rohstoffe/Chilly.md)
 - 3 Tl Kreuzkümmel
 - 3 Tl [Korriander](../Hochwertige_Rohstoffe/Korriander.md)
+- 3 Tl Cumin
 - 9 El [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md)
 - 4-5 Mittelgroße [Kartoffeln](../Hochwertige_Rohstoffe/Kartoffel.md)
 - [Speisesalz](../Hochwertige_Rohstoffe/Speisesalz.md) am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
