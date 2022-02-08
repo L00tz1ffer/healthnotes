@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elemente_des_Periodensystems/Schwefel.md",
+            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elemente_des_Periodensystems/Schwefel.md",
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elemente_des_Periodensystems/Schwefel.md"
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -109,8 +109,8 @@
   },
   "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Elemente_des_Periodensystems/Schwefel.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+    "Elemente_des_Periodensystems/Schwefel.md",
     "Glossar/Ketogen.md",
     "Glossar/Fett.md",
     "Glossar/Glossar.md",

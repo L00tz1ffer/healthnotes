@@ -26,3 +26,4 @@ Es empfiehlt sich daher im Monat von 30 Tagen etwa 90g Schwefel zu sich zu nehme
 - Lindert Schmerzen bei Athrose
 
 https://www.youtube.com/watch?v=KxwXnSe72XY
+

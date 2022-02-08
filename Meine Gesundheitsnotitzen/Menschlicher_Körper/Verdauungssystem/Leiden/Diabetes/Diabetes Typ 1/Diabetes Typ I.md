@@ -5,6 +5,13 @@
 ## Auswirkungen
 
 ## Links
+
+### [Ingmar Bieda zu Diabetes](https://youtu.be/C_rQWYzAaRk)
+
+### https://www.youtube.com/watch?v=6HZAp0-7LEo
+
+
+
 ### [Diabetes Typ 1 mit Ketogener Ernährung besiegen - Geht das?](https://www.youtube.com/watch?v=-vrfcTzKjw4)   
 -   Wenig [Kohlenhydrate](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)
 - Mascapone probieren
