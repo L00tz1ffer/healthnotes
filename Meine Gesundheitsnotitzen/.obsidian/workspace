@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md"
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -108,15 +109,15 @@
   },
   "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
-    "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
-    "Glossar/Insulin.md",
-    "Rohstoffe/Hochwertige_Rohstoffe/Mandelnkern.md",
-    "Elemente_des_Periodensystems/Schwefel.md",
-    "Glossar/Ketoacetose.md",
-    "Rohstoffe/Hochwertige_Rohstoffe/Haferflocken.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Glossar/Keton.md",
-    "Glossar/Ketose.md"
+    "Glossar/Ketogen.md",
+    "Glossar/Fett.md",
+    "Glossar/Glossar.md",
+    "Glossar/Kathalytisch aktives Metall.md",
+    "Glossar/Flüssig.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Fettsäuren/Fettsäuren.md",
+    "Glossar/Fest.md",
+    "Glossar/Öl.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md"
   ]
 }
