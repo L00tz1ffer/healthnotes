@@ -8,7 +8,7 @@
  - Da Apfelessig ausserdem sehr kaliumreich ist, verleiht er dem Haar wieder Glanz, Nägeln Festigkeit und hilft überdies bei der Entgiftung des Körpers. 
  - Apfelessig enthält Apfelsäure, die sehr gut gegen Pilze und bakterielle Infektionen wirkt. 
 	 - Auch Harnsäurekristalle sollen von der Apfelsäure rund um die Gelenke herum aufgelöst werden können, was zu einer Linderung von Gelenkschmerzen führen kann.
-- Wirkt Blutzuckerregulierend, daher möglicherweise auch bei [Diabetes Typ I](../Menschlicher_Körper/Leiden/Diabetes%20Typ%20I.md) und [Diabetes Typ II](../Menschlicher_Körper/Leiden/Diabetes%20Typ%20II.md) auszuprobieren
+- Wirkt Blutzuckerregulierend, daher möglicherweise auch bei [Diabetes Typ I](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) und [Diabetes Typ II](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%20II.md) auszuprobieren
 
 ## Trivia
 Apfelessig wurde zu Heilzwecken schon vom Vater der Medizin – Hippokrates – um 400 vor Christus verwendet. Man sagt, er habe im Krankheitsfall nur zwei Mittel eingesetzt: [Honig](Honig.md) und Apfelessig.

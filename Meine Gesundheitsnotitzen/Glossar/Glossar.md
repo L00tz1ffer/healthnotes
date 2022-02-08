@@ -1,8 +1,19 @@
 # Glossar
 [Antioxidanz](Antioxidanz.md)
+[Base](Base.md)
 [Destillation](Destillation.md)
 [Emotion](Emotion.md)
+[Enzym](Enzym.md)
+[Fasten](Fasten.md)
+[Kathalytisch aktives Metall](Kathalytisch%20aktives%20Metall.md)
+[Keton](Keton.md)
+[Ketose](Ketose.md)
 [Kolloid](Kolloid.md)
+[Low-Carb](Low-Carb.md)
+[Oxydanzkathalysator](Oxydanzkathalysator.md)
+[Razemisch](Razemisch.md)
+[Säure](Säure.md)
+[Selativum](Selativum.md)
 
 
 [Nützliche Gerätschaften](Nützliche_Gerätschaften/Nützliche%20Gerätschaften.md)

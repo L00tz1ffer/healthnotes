@@ -1,3 +1,3 @@
 # Vitamin D
 - Vitamin D wird vom Körper selbst erzugt, dazu ist jedoch eine gewisse Strahlungsintensität der Sonne erforderlich. um diese zu erreichen ist ein Einfallswinkel des Sonnenlichtes zur Erdatmosphäre von über 45° erforderlich da mit zunehmender Distanz zwischen Atmosphärengrenze und Hautkontakt die Strahlungsintensität in den benötigten Frequenzspektren verloren geht
-- In Zentraleuropa lediglich durch Supplemente oder [Höhensonne](../../Glossar/Nützliche_Gerätschaften/Höhensonne.md) zu gewinnen
+- In Zentraleuropa lediglich durch Supplemente oder [Höhensonne](../../../Glossar/Nützliche_Gerätschaften/Höhensonne.md) zu gewinnen

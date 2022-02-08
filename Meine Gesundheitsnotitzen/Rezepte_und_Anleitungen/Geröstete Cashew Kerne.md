@@ -1,9 +1,9 @@
 # Geröstete Cashew Kerne
 
 ## Zutaten
-- [Cashew kerne](../Hochwertige_Rohstoffe/Cashew.md)
-- [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md)
-- [Speisesalz](../Hochwertige_Rohstoffe/Speisesalz.md), am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- [Cashew kerne](../Rohstoffe/Hochwertige_Rohstoffe/Cashew.md)
+- [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
+- [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md), am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
 
 ## Zubereitung
 1. nimm eine beschichtete Pfanne mit möglichst kleiner Oberfläche

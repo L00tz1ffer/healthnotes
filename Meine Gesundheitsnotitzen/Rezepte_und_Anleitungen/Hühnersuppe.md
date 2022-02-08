@@ -1,17 +1,17 @@
 # Hühnersuppe
 ## Zutaten
-- [Hühnerfleisch](../Hochwertige_Rohstoffe/Hühnerfleisch.md)
+- [Hühnerfleisch](../Rohstoffe/Hochwertige_Rohstoffe/Hühnerfleisch.md)
 	- geeignet is alles wo viel Fett dran ist -> Unterkeulen, Oberkeulen, Flügel
-- 2 Zehen [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
-- 2 [Zwiebel](../Hochwertige_Rohstoffe/Zwiebel.md)
-- 1/2 [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md)
-- 2 [Karrotten](../Hochwertige_Rohstoffe/Karrotte.md)
+- 2 Zehen [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
+- 2 [Zwiebel](../Rohstoffe/Hochwertige_Rohstoffe/Zwiebel.md)
+- 1/2 [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md)
+- 2 [Karrotten](../Rohstoffe/Hochwertige_Rohstoffe/Karrotte.md)
 - 7-9cm Porree
 - 1/4 Sellerie
 - 200g Bohnen
-- [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md)
-- [Speisesalz](../Hochwertige_Rohstoffe/Speisesalz.md)
-- [Schwarzer Pfeffer](../Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md)
+- [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
+- [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md)
+- [Schwarzer Pfeffer](../Rohstoffe/Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md)
 
 
 

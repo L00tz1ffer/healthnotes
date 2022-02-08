@@ -19,7 +19,7 @@
 	- Wirkt gegen Haarausfall
 	- Kann bei Insektenstichen Appliziert werden
 	- Kann als gesunder, Verträglicher Ersatz für Antibiotika dienen
-	- Kann [Kathalytisch schwache Metalle](../Glossar/Kathalytisch%20aktives%20Metall.md) ausleiten
+	- Kann [Kathalytisch schwache Metalle](../../Glossar/Kathalytisch%20aktives%20Metall.md) ausleiten
 
 ### Wirkungsspektrum
 - Hautkrankheiten:
@@ -54,4 +54,4 @@
 
 ## Herstellung
 ### Zutaten:
-- [Silber](../Elemente_des_Periodensystems/Silber.md)
+- [Silber](../../Elemente_des_Periodensystems/Silber.md)

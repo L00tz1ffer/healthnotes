@@ -1,10 +1,10 @@
 # Kartoffelpuffer
 ## Zutaten
-- 1kg [Kartoffel](../Hochwertige_Rohstoffe/Kartoffel.md)
-- 1/2 [Zwiebeln](../Hochwertige_Rohstoffe/Zwiebel.md)
-- 1 Zehe [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
-- 2 [Eier](../Hochwertige_Rohstoffe/Ei.md)
-- [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md)
+- 1kg [Kartoffel](../Rohstoffe/Hochwertige_Rohstoffe/Kartoffel.md)
+- 1/2 [Zwiebeln](../Rohstoffe/Hochwertige_Rohstoffe/Zwiebel.md)
+- 1 Zehe [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
+- 2 [Eier](../Rohstoffe/Hochwertige_Rohstoffe/Ei.md)
+- [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
 
 ## Zubereitung
 1. Kartoffeln Schälen

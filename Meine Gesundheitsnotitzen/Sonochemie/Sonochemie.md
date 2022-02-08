@@ -54,5 +54,5 @@ Wichtig ist in jedem fall, dass du alle wörter Intentionell und in Liebe ausspr
 - Heil (Waldmanns**heil**)
 
 
-## [Wasser](../Hochwertige_Rohstoffe/Wasser.md)
-In diesem Zusammenhang möge sich der Leser das Kapitel [Wasser](../Hochwertige_Rohstoffe/Wasser.md) zu Gemüte führen, insbesondere hier wird das Ergebnis der Sonochemie eindrucksvoll zutage gefördert.
+## [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md)
+In diesem Zusammenhang möge sich der Leser das Kapitel [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md) zu Gemüte führen, insbesondere hier wird das Ergebnis der Sonochemie eindrucksvoll zutage gefördert.

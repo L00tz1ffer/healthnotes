@@ -3,4 +3,4 @@
 
 ## Bioverfügbare Mittel:
  - [Lugolsche Lösung](../Rezepte_und_Anleitungen/Lugolsche%20Lösung.md)
- - [Ei](../Hochwertige_Rohstoffe/Ei.md) ~ 10ng
+ - [Ei](../Rohstoffe/Hochwertige_Rohstoffe/Ei.md) ~ 10ng

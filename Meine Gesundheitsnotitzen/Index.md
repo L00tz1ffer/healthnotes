@@ -142,7 +142,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 ## Es handelt sich bei allen folgenden Elementen um ihre Bioverfügbare Form, das Kolloid oder seine "Monoatomare"		Struktur	
 - Monoatomare Strukturen sind nicht monoatomar, sie heißen nur so
 	- Metalle sind Lebendig ! 
-		- [Etienne Szekely](Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
+		- [Etienne Szekely](Wichtige_Persönlichkeiten/Etienne%20Szekely.md)
 
 
 

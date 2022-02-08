@@ -1,14 +1,14 @@
 # Natürliches Antibiotikum
 ## Zutaten
-- 700ml [Apfelessig](../Hochwertige_Rohstoffe/Apfelessig.md)
-- 25g [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
-- 70 [Zwiebel](../Hochwertige_Rohstoffe/Zwiebel.md)
-- 17g der schärfsten [Chillys](../Hochwertige_Rohstoffe/Chilly.md) die man finden kann
-- 25g [Ingwer](../Hochwertige_Rohstoffe/Ingwer.md)
-- 15g [Meerettich](../Hochwertige_Rohstoffe/Meerettich.md)
-- 27g [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md) Wurzeln
-- 1/4 Tl [Schwarzer Pfeffer](../Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md) aus der Mühle
-- 2el [Honig](../Hochwertige_Rohstoffe/Honig.md)
+- 700ml [Apfelessig](../Rohstoffe/Hochwertige_Rohstoffe/Apfelessig.md)
+- 25g [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
+- 70 [Zwiebel](../Rohstoffe/Hochwertige_Rohstoffe/Zwiebel.md)
+- 17g der schärfsten [Chillys](../Rohstoffe/Hochwertige_Rohstoffe/Chilly.md) die man finden kann
+- 25g [Ingwer](../Rohstoffe/Hochwertige_Rohstoffe/Ingwer.md)
+- 15g [Meerettich](../Rohstoffe/Hochwertige_Rohstoffe/Meerettich.md)
+- 27g [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md) Wurzeln
+- 1/4 Tl [Schwarzer Pfeffer](../Rohstoffe/Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md) aus der Mühle
+- 2el [Honig](../Rohstoffe/Hochwertige_Rohstoffe/Honig.md)
 
 ## Zubereitung
 1. Als erstes ist der Knoblauch zu schälen und anschließend möglichst fein zu reiben.

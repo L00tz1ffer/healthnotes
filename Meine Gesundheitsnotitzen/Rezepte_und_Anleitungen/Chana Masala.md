@@ -1,20 +1,20 @@
 # Chana Masala
 ## Zutaten
 - 3 große Dosen Kichererbsen
-- 3 große [Zwieben](../Hochwertige_Rohstoffe/Zwiebel.md)
+- 3 große [Zwieben](../Rohstoffe/Hochwertige_Rohstoffe/Zwiebel.md)
 - 12 Tomaten
 - 3 Tl Garam Masala
-- 3 Tl [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md)
-- 3 Daumen [Ingwer](../Hochwertige_Rohstoffe/Ingwer.md)
-- 5 Zehen [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
-- 4 [Chillyschoten](../Hochwertige_Rohstoffe/Chilly.md)
+- 3 Tl [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md)
+- 3 Daumen [Ingwer](../Rohstoffe/Hochwertige_Rohstoffe/Ingwer.md)
+- 5 Zehen [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
+- 4 [Chillyschoten](../Rohstoffe/Hochwertige_Rohstoffe/Chilly.md)
 - 3 Tl Kreuzkümmel
-- 3 Tl [Korriander](../Hochwertige_Rohstoffe/Korriander.md)
+- 3 Tl [Korriander](../Rohstoffe/Hochwertige_Rohstoffe/Korriander.md)
 - 3 Tl Cumin
-- 9 El [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md)
-- 4-5 Mittelgroße [Kartoffeln](../Hochwertige_Rohstoffe/Kartoffel.md)
-- [Speisesalz](../Hochwertige_Rohstoffe/Speisesalz.md) am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
-- 1,5 Tassen [Wasser](../Hochwertige_Rohstoffe/Wasser.md)
+- 9 El [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
+- 4-5 Mittelgroße [Kartoffeln](../Rohstoffe/Hochwertige_Rohstoffe/Kartoffel.md)
+- [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md) am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- 1,5 Tassen [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md)
 
 
 ## Zubereitung

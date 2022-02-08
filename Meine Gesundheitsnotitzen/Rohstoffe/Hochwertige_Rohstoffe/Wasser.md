@@ -22,7 +22,7 @@ Die Menschen aus dem Hunzertal am Rande des Himalaya sind für ihre hohe Lebense
 ### Warum Quellwasser
 Gutes Quellwasser enthält neben seiner besonderen "Kugelförmigen Struktur" alle 80 natürlichen Mineralien in Bioverfügbarer Form, in ihrer für unseren Organismus perfekten Menge.
 
-Gutes Mineralwasser enthält Partikel die kleiner sind als die Zelle in die sie müssen -> [Kolloide](../Glossar/Kolloid.md)
+Gutes Mineralwasser enthält Partikel die kleiner sind als die Zelle in die sie müssen -> [Kolloide](../../Glossar/Kolloid.md)
 
 **Quellwasser ist immer unverzüglich spätestens innerhalb weniger Stunden zu verbrauchen**, da sonst die im Wasser gelösten Mineralstoffe um ihre Oberfläche zu vergrößern aglomerieren. Auf diese Weise gehen die in Ihm für uns wichtigen Inhaltsstoffe dadurch verloren, dass sie so nun nicht mehr von unseren Zellen aufgenommen werden können
 
@@ -57,6 +57,6 @@ Sprach oder impregnierte man jedoch Angst, Hass, Furcht oder Missgunst dem Wasse
 Quelle: Emoto Masaru
 
 #### Fragen die sich daraus Ergeben:
-- Welchen Einfluss hat unsere [Gesprächskultur](../Tipps_für_den_Alltag/Gesprächskultur.md) auf unsere Gesundheit?
-- Welchen Einfluss hat unsere [Gesprächskultur](../Tipps_für_den_Alltag/Gesprächskultur.md) auf unser Allgemeinwohl?
+- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps_für_den_Alltag/Gesprächskultur.md) auf unsere Gesundheit?
+- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps_für_den_Alltag/Gesprächskultur.md) auf unser Allgemeinwohl?
 - Wären wir nicht alle deutlich näher dem Paradies wenn wir in unseren Mitmenschen die Schönheit hervorheben würden - an stelle ihrer aus unserer Sicht ungünstigen Eigenschaften?

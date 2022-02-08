@@ -1,6 +1,6 @@
 # Salz
 ## Gute Salze:
-- [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- [Himalaya Salz](../../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
 - Hunzer Salz
 - Steinsalz
 - Salz ohne Flourid- / Iodzusätze, da diese nicht Bioverfügbar sind

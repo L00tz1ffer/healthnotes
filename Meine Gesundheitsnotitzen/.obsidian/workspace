@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher_Körper/Gehirn.md",
+            "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
             "mode": "source",
             "source": false
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_Index",
+                "query": "kohle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Gehirn.md",
+                "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher_Körper/Gehirn.md"
+                "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Menschlicher_Körper/Gehirn.md",
-    "Menschlicher_Körper/Leiden/Diabetes Typ I.md",
-    "Rezepte_und_Anleitungen/Chana Masala.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Rhetorik.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Unterbrich dein Gegenüber.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Rhetorik/Wirke Intelligenter.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
-    "Tipps_für_den_Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Tipps_für_den_Alltag/Gemeinschaft/Grundlegendes zu Gemeinschaft.md",
-    "Index.md"
+    "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
+    "Glossar/Ketose.md",
+    "Glossar/Low-Carb.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+    "Glossar/Säure.md",
+    "Glossar/Base.md",
+    "Glossar/Glossar.md",
+    "Glossar/Kathalytisch aktives Metall.md",
+    "Glossar/Oxydanzkathalysator.md",
+    "Glossar/Keton.md"
   ]
 }

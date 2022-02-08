@@ -1,17 +1,17 @@
 # Hummus
 ## Zutaten
 • Kichererbsen 400g
-• [Wasser](../Hochwertige_Rohstoffe/Wasser.md)
+• [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md)
 • Sesamöl 75ml
 • Sesampaste 30ml
-• [Olivenöl](../Hochwertige_Rohstoffe/Olivenöl.md) 150ml
-• [Chilly](../Hochwertige_Rohstoffe/Chilly.md) 4tl
-• [Kurkuma](../Hochwertige_Rohstoffe/Kurkuma.md) 6tl
-• [Petersilie](../Hochwertige_Rohstoffe/Petersilie.md) 10tl
+• [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md) 150ml
+• [Chilly](../Rohstoffe/Hochwertige_Rohstoffe/Chilly.md) 4tl
+• [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md) 6tl
+• [Petersilie](../Rohstoffe/Hochwertige_Rohstoffe/Petersilie.md) 10tl
 • Gemüsebrühe 2el
-• [Schwarzer Pfeffer](../Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md) 2tl
+• [Schwarzer Pfeffer](../Rohstoffe/Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md) 2tl
 • Kreuzkümmel 4tl
-• 3 Zehen [Knoblauch](../Hochwertige_Rohstoffe/Knoblauch.md)
+• 3 Zehen [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
 
 ## Zubereitung
 1. Kichererbsen am vortag einlegen
