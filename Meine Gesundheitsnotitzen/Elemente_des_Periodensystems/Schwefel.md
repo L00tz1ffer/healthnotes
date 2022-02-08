@@ -24,3 +24,5 @@ Es empfiehlt sich daher im Monat von 30 Tagen etwa 90g Schwefel zu sich zu nehme
 		- Taurin
 - kann einen enormen Einfluss auf Allergien jeglicher Art haben
 - Lindert Schmerzen bei Athrose
+
+https://www.youtube.com/watch?v=KxwXnSe72XY
