@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
+            "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
             "mode": "source",
             "source": false
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kohle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
+                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md"
+                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "1ae20270eb4c40f1",
   "lastOpenFiles": [
-    "Glossar/Nützliche_Gerätschaften/Säure-Basen Gleichgewicht.md",
-    "Glossar/Ketose.md",
-    "Glossar/Low-Carb.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
+    "Glossar/Insulin.md",
+    "Rohstoffe/Hochwertige_Rohstoffe/Mandelnkern.md",
+    "Elemente_des_Periodensystems/Schwefel.md",
+    "Glossar/Ketoacetose.md",
+    "Rohstoffe/Hochwertige_Rohstoffe/Haferflocken.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Glossar/Säure.md",
-    "Glossar/Base.md",
-    "Glossar/Glossar.md",
-    "Glossar/Kathalytisch aktives Metall.md",
-    "Glossar/Oxydanzkathalysator.md",
-    "Glossar/Keton.md"
+    "Glossar/Keton.md",
+    "Glossar/Ketose.md"
   ]
 }

@@ -31,9 +31,9 @@
 		- 65 - 75 mg/dl
 			- bei normalgeichtigen Kindern
 2. Glukose ist giftig (toxic) für beta - Zellen
-	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern Insulin geben
+	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern [Insulin](../../../../../Glossar/Insulin.md) geben
 3. Blutzucker niedrig halten, dann sind folgeschäden durch Diabetes ausgeschlssen
-4. Kein Echtzeitinsulin in die Hüfte das wirkt schneller als das essen
+4. Kein Echtzeit[Insulin](../../../../../Glossar/Insulin.md) in die Hüfte das wirkt schneller als das essen
 5.  Gastroperese
 	- Langanhaltend erhöhter Blutzucker kann Gastroerese bedeuten, da das Essen lange Zeit nach dem Essen erst den Blutzucker erhöht
 	- Diagnose

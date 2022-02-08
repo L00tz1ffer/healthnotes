@@ -1,6 +1,6 @@
 # Haferflocken
 - Werden aufgrund extrem langer [Kohlenhydratketten](../Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) nur sehr langsam verstoffwechselt, eignen sich daher insbesondere für [Diabetes Typ I](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%20II.md) Patienten
-- Senkt insulinbedarf
+- Senkt [Insulin](../../Glossar/Insulin.md)bedarf
 - Guter Vitalstofflieferant
 	- B Vitamine
 	- [Magnesium](../../Elemente_des_Periodensystems/Magnesium.md)
