@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "file": "Glossar/Enzym.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+                "file": "Glossar/Enzym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+                "file": "Glossar/Enzym.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "7cc34238b8461079",
   "lastOpenFiles": [
+    "Glossar/Enzym.md",
+    "Index.md",
+    "Tipps_für_den_Alltag/Nützliche Dateien.md",
+    "Tipps_für_den_Alltag/Gesprächskultur.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
     "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
     "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md",
-    "Index.md",
     "Glossar/Blutzucker.md",
-    "Glossar/Glossar.md",
-    "Elemente_des_Periodensystems/Iridium.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Gastroperese.md",
-    "Elemente_des_Periodensystems/Vanadium.md"
+    "Glossar/Glossar.md"
   ]
 }

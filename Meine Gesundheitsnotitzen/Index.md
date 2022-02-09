@@ -157,3 +157,5 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 ### [Rezepte und Anleitungen](Rezepte_und_Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
+
+### [Nützliche Dateien](Tipps_für_den_Alltag/Nützliche%20Dateien.md)
