@@ -52,4 +52,4 @@
 7. Ketose ist nicht Ketoacetose
 	- [Robert Atkins](../../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
 	Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
-1. 
+8. Menschen brauchen Proteine
