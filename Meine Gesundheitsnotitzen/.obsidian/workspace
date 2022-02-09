@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "61e4a3c88ad7e74f",
+        "id": "7cc34238b8461079",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
-            "mode": "source",
+            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md"
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61e4a3c88ad7e74f",
+  "active": "7cc34238b8461079",
   "lastOpenFiles": [
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
     "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
     "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Index.md",
     "Glossar/Blutzucker.md",
     "Glossar/Glossar.md",
     "Elemente_des_Periodensystems/Iridium.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Gastroperese.md",
-    "Elemente_des_Periodensystems/Vanadium.md",
-    "Glossar/Base.md"
+    "Elemente_des_Periodensystems/Vanadium.md"
   ]
 }
