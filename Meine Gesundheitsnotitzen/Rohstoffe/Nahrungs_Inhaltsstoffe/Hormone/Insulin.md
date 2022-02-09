@@ -1,2 +1,2 @@
 # Insulin
-Insulin ist ein Bauchspeicheldrüsen
+Insulin ist ein Bauchspeicheldrüsenhormon, es ist maßgeblich an der Verstoffwechselung von [Blutzucker](../../../Glossar/Blutzucker.md) beteiligt, indem es als eine Art schlüssel der Glukose das passieren der Zellwand ermöglicht

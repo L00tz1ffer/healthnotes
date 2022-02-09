@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae20270eb4c40f1",
+        "id": "61e4a3c88ad7e74f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
             "mode": "source",
-            "backlinks": true,
             "source": false
           }
         }
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+                "file": "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md"
               }
             }
           },
@@ -107,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ae20270eb4c40f1",
+  "active": "61e4a3c88ad7e74f",
   "lastOpenFiles": [
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Hormone.md",
+    "Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Elemente_des_Periodensystems/Schwefel.md",
-    "Glossar/Ketogen.md",
-    "Glossar/Fett.md",
+    "Index.md",
+    "Glossar/Blutzucker.md",
     "Glossar/Glossar.md",
-    "Glossar/Kathalytisch aktives Metall.md",
-    "Glossar/Flüssig.md",
-    "Rohstoffe/Nahrungs_Inhaltsstoffe/Fettsäuren/Fettsäuren.md",
-    "Glossar/Fest.md",
-    "Glossar/Öl.md"
+    "Elemente_des_Periodensystems/Iridium.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Gastroperese.md",
+    "Elemente_des_Periodensystems/Vanadium.md",
+    "Glossar/Base.md"
   ]
 }

@@ -6,7 +6,15 @@
 
 ## Links
 
+### [Vanadium & Chrom bei Diabetes?](https://www.youtube.com/watch?v=UbDgoH-iyv8)
+- [Vanadium](../../../../../Elemente_des_Periodensystems/Vanadium.md), [Chrom](../../../../../Elemente_des_Periodensystems/Chrom.md)
+- [noch nicht getestete Vanadium Supplemente](https://de.luckyvitamin.com/p-629848-olympian-labs-vanadyl-sulfate-20-250-capsules)
+- 
+
 ### [Ingmar Bieda zu Diabetes](https://youtu.be/C_rQWYzAaRk)
+- Diabetes ist der gnm zu folge auf einen **"Männlichen Sträubekonflikt"** zurück zu führen
+	- Ein Männlicher sträubekonflikt hat sein epizentrum in der rechten Hirnhälfte
+	- ursächlich ist ein aufgezwungener äusserer umstand
 
 ### https://www.youtube.com/watch?v=sb0IR_T0e5U
 
@@ -33,28 +41,15 @@
 			- Mindestwert 70mg/dl
 			- Höchstwert 180mg/dl 
 		- 30% der Zeit kann der Blutzucker darüber liegen
-	- Fakt ist
-		- Normaler Blutzucker ist 
-		- ~ 84mg/dl
-			- bei gesunden nicht Diabetisch kranken Erwachsnene Individuen
-		- 65 - 75 mg/dl
-			- bei normalgeichtigen Kindern
+	- Normaler [Blutzucker](../../../../../Glossar/Blutzucker.md#Durchschnittswerte%20Bei%20Gesunden)
 2. Glukose ist giftig (toxic) für beta - Zellen
 	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern [Insulin](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) geben
 3. Blutzucker niedrig halten, dann sind folgeschäden durch Diabetes ausgeschlssen
 4. Kein Echtzeit[Insulin](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) in die Hüfte das wirkt schneller als das essen
-5.  Gastroperese
-	- Langanhaltend erhöhter Blutzucker kann Gastroerese bedeuten, da das Essen lange Zeit nach dem Essen erst den Blutzucker erhöht
-	- Diagnose
-		- Magenleerstudie
-			- Essen (idr. Eier) mit Radioaktiven sustraten
-			-  Gammastrahlenkontrolle
-			- muss nicht zwangsläufig sicher sein, da verdauung gegebenenfalls unzuverlässig funktionieren kann
-				- im schnitt 4 derartige Untersuchungen sind notwendig
-			- Alternative: Herzrate dazu messen und auf intervallbasis prüfen
+5.  [Gastroperese](../../Gastroperese.md) als mögliche Ursache
 6. [Kohlenhydrate](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) sind nicht die einzige Blutzuckerquelle
 	- GLP1 Horomone hat großen Einfluss auf den Blutzucker
 7. Ketose ist nicht Ketoacetose
-	- [Robert Atkins](../../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee MEnschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
-		Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
+	- [Robert Atkins](../../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
+	Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
 1. 
