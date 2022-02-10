@@ -72,20 +72,20 @@ Narren beherrscht«
 - Mittlerweile bezeichnet man die [Signaturenlehre](../Glossar/Signaturenlehre.md) als Aberglauben und macht sich über sie lustig.
 	- gilt in Wissenschaftskreisen als verpönt
 
->Durch den Verlust
-der intuitiven Fähigkeiten herrschte eine große LTn-
-sicherheit und Verwirrung, die sich auch in der Medizin unserer Zeit findet, indem der Zusammenhang des Menschen mit der Natur völlig abhanden gekommen ist. Man bekämpft den alten Aberglauben, aber man ahnt nicht, dass sich der Aberglaube nur gewandelt hat
->[Rudolf Steiner](Rudolf%20Steiner.md) 1906
+>»Durch den Verlust der intuitiven Fähigkeiten herrschte eine große Unsicherheit und Verwirrung, die sich auch in der Medizin unserer Zeit findet, indem der Zusammenhang des Menschen mit der Natur völlig abhanden gekommen ist. Man bekämpft den alten Aberglauben, aber man ahnt nicht, dass sich der Aberglaube nur gewandelt hat.«
+>([Rudolf Steiner](Rudolf%20Steiner.md) 1906)
 
 - Für Paracelsus wara die Natur kein Ding sondern *magna mater* die große Mutter, das Urweibliche, das Mysterium des Lebens
 - Die Natur war für Ihn heilig und die Verehrung ihrer war seiner Sicht nach der einzige Weg zu Gesundheit und Glück
 - Ist der Mensch Krank oder leidet er, so hat er sich von der Natur abgewendet und somit vom Göttlichen
 
->»Denn der  Himmel is t der  Mensch und der Mensch ist der  Himmel und alle  Menschen ein Himmel und der  Himmel nur  ein Mensch.« 
+>»Denn der  Himmel is tder  Mensch und der Mensch ist der Himmel und alle  Menschen ein Himmel und der  Himmel nur  ein Mensch.« 
 >(Paracelsus)
 
 - Eines von Paracelsus bevorzugten Heilmitteln war das [Tausendgüldenkraut](../Stoffe/Rohstoffe/Tausendgüldenkraut.md)
-- 
+
+>»Für Paracelsus, der die Arzneikunst nach alchimistischen Gesichtspunkten propagierte, war die Alchimie die Mutter aller Wissenschaften und die edelste und höchste Kunst, die der Mensch erlernen kann, da der .Alchimist das schöpferische Werk Gottes vollendet.« 
+>(Olaf Rippe -> Die Kräuterkunde des Paracelsus  S. 22)
 
 
 
