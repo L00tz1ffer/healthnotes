@@ -23,7 +23,7 @@
 
 
 ### [Diabetes Typ 1 mit Ketogener Ernährung besiegen - Geht das?](https://www.youtube.com/watch?v=-vrfcTzKjw4)   
--   Wenig [Kohlenhydrate](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)
+- Wenig [Kohlenhydrate](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)
 - Mascapone probieren
 - Avocado
 - [Kontakt zu und Website von Jeff Heusser](https://living-keto.at/)
@@ -41,15 +41,17 @@
 			- Mindestwert 70mg/dl
 			- Höchstwert 180mg/dl 
 		- 30% der Zeit kann der Blutzucker darüber liegen
-	- Normaler [Blutzucker](../../../../../Glossar/Blutzucker.md#Durchschnittswerte%20Bei%20Gesunden)
+	- ![Blutzucker](../../../../../Glossar/Blutzucker.md#Durchschnittswerte%20Bei%20Gesunden)
 2. Glukose ist giftig (toxic) für beta - Zellen
 	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern [Insulin](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) geben
 3. Blutzucker niedrig halten, dann sind folgeschäden durch Diabetes ausgeschlssen
 4. Kein Echtzeit[Insulin](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) in die Hüfte das wirkt schneller als das essen
-5.  [Gastroperese](../../Gastroperese.md) als mögliche Ursache
+5. als mögliche Ursache: ![Gastroperese](../../Gastroperese.md) 
 6. [Kohlenhydrate](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) sind nicht die einzige Blutzuckerquelle
 	- GLP1 Horomone hat großen Einfluss auf den Blutzucker
 7. Ketose ist nicht Ketoacetose
 	- [Robert Atkins](../../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
 	Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
 8. Menschen brauchen Proteine
+
+![Fasten bei Diabetes](../../../../../Glossar/Fasten.md#Fasten%20bei%20Diabetes)

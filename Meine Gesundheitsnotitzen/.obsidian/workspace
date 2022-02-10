@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Emotion.md",
+            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Emotion.md",
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Emotion.md"
+                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "0872a87fe28daa67",
   "lastOpenFiles": [
-    "Glossar/Emotion.md",
-    "Glossar/Destillation.md",
-    "Glossar/Nützliche_Gerätschaften/Destille.md",
-    "Glossar/Nützliche_Gerätschaften/Nützliche Gerätschaften.md",
-    "Glossar/Base.md",
-    "Glossar/Enzym.md",
-    "Index.md",
-    "Tipps_für_den_Alltag/Nützliche Dateien.md",
-    "Tipps_für_den_Alltag/Gesprächskultur.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Haarausfall.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Gastroperese.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ II.md",
+    "Glossar/Fasten.md",
+    "Glossar/Flüssig.md",
+    "Menschlicher_Körper/Augen.md",
+    "Menschlicher_Körper/__Attatchments/Augen.webp",
+    "Glossar/Emotion.md"
   ]
 }
