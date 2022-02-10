@@ -1,2 +1,2 @@
 # Küchentipps
-## [Salz ist Hitzeempfindlich](../../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md#Salz%20ist%20Hitzeempflindlich)
+## [Salz ist Hitzeempfindlich](../../Stoffe/Rohstoffe/Salze/Salz.md#Salz%20ist%20Hitzeempflindlich)

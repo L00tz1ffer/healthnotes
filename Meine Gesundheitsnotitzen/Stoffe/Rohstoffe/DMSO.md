@@ -2,7 +2,7 @@
 ## Gewinnung
 - Abfallprodukt bei der Papierherstellung
 ## Wirkung
-- siehe [Schwefel](../../Elemente_des_Periodensystems/Schwefel.md)
+- siehe [Schwefel](../Elemente_des_Periodensystems/Schwefel.md)
 - wirkt deutlich schneller und potenter
 	- während MSM innerhalb von etwa einer Woche wirkt, wirkt DMSO teilweise schon innerhalb von Stunden
 ## Anwendung

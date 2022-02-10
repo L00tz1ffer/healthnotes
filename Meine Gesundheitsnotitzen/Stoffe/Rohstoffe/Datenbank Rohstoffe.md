@@ -14,6 +14,7 @@
 - [Goldrute](Goldrute.md)
 - [Granatapfel](Granatapfel.md)
 - [Haferflocken](Haferflocken.md)
+- [Harnstoff](Harnstoff.md)
 - [Honig](Honig.md)
 - [Hühnerfleisch](Hühnerfleisch.md)
 - [Ingwer](Ingwer.md)

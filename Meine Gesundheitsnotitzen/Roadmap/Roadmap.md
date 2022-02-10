@@ -5,39 +5,39 @@
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
 - [ ] Mein [Nutella](../Rezepte_und_Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
-	- [ ] [B-Vitamine](../Rohstoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md)
+	- [ ] [B-Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
 - [ ] Artikel Ausarbeiten
-	- [ ] [Selen](../Elemente_des_Periodensystems/Selen.md)
+	- [ ] [Selen](../Stoffe/Elemente_des_Periodensystems/Selen.md)
 		- [ ] https://www.youtube.com/watch?v=hHOeLqdsYhE
 		- [ ] https://www.youtube.com/watch?v=4FZJIW7DZGw
 		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg
-	- [ ] [Bärlappkraut](../Rohstoffe/Hochwertige_Rohstoffe/Bärlappkraut.md)
-	- [ ] [Löwenzahn](../Rohstoffe/Hochwertige_Rohstoffe/Löwenzahn.md)
-	- [ ] [Schachtelhalm](../Rohstoffe/Hochwertige_Rohstoffe/Schachtelhalm.md)
-	- [ ] [Brennessel](../Rohstoffe/Hochwertige_Rohstoffe/Brennessel.md)
-	- [ ] [Goldrute](../Rohstoffe/Hochwertige_Rohstoffe/Goldrute.md)
-	- [ ] [Carnitin](../Rohstoffe/Hochwertige_Rohstoffe/Carnitin.md)
+	- [ ] [Bärlappkraut](../Stoffe/Rohstoffe/Bärlappkraut.md)
+	- [ ] [Löwenzahn](../Stoffe/Rohstoffe/Löwenzahn.md)
+	- [ ] [Schachtelhalm](../Stoffe/Rohstoffe/Schachtelhalm.md)
+	- [ ] [Brennessel](../Stoffe/Rohstoffe/Brennessel.md)
+	- [ ] [Goldrute](../Stoffe/Rohstoffe/Goldrute.md)
+	- [ ] [Carnitin](../Stoffe/Rohstoffe/Carnitin.md)
 	- [ ] [Ursuppe](../Rezepte_und_Anleitungen/Ursuppe.md)
-	- [ ] [Granatapfel](../Rohstoffe/Hochwertige_Rohstoffe/Granatapfel.md)
-	- [ ] [Karrotte](../Rohstoffe/Hochwertige_Rohstoffe/Karrotte.md)
-	- [ ] [Hühnerfleisch](../Rohstoffe/Hochwertige_Rohstoffe/Hühnerfleisch.md)
-	- [ ] [Kapuzinerkresse](../Rohstoffe/Hochwertige_Rohstoffe/Kapuzinerkresse.md)
-	- [ ] [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
-	- [ ] [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md)
-	- [ ] [Lithiumchlorid](../Rohstoffe/Hochwertige_Rohstoffe/Lithiumchlorid.md)
-	- [ ] [Salz](../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md)
-	- [ ] [Sauerkraut](../Rohstoffe/Hochwertige_Rohstoffe/Sauerkraut.md)
-	- [ ] [Zitrone](../Rohstoffe/Hochwertige_Rohstoffe/Zitrone.md)
+	- [ ] [Granatapfel](../Stoffe/Rohstoffe/Granatapfel.md)
+	- [ ] [Karrotte](../Stoffe/Rohstoffe/Karrotte.md)
+	- [ ] [Hühnerfleisch](../Stoffe/Rohstoffe/Hühnerfleisch.md)
+	- [ ] [Kapuzinerkresse](../Stoffe/Rohstoffe/Kapuzinerkresse.md)
+	- [ ] [Knoblauch](../Stoffe/Rohstoffe/Knoblauch.md)
+	- [ ] [Kurkuma](../Stoffe/Rohstoffe/Kurkuma.md)
+	- [ ] [Lithiumchlorid](../Stoffe/Rohstoffe/Lithiumchlorid.md)
+	- [ ] [Salz](../Stoffe/Rohstoffe/Salze/Salz.md)
+	- [ ] [Sauerkraut](../Stoffe/Rohstoffe/Sauerkraut.md)
+	- [ ] [Zitrone](../Stoffe/Rohstoffe/Zitrone.md)
 	- [ ] [Oxydanzkathalysator](../Glossar/Oxydanzkathalysator.md)
-	- [ ] [Kokosfett](../Rohstoffe/Hochwertige_Rohstoffe/Kokosfett.md)
-	- [ ] [Aloe Vera](../Rohstoffe/Hochwertige_Rohstoffe/Aloe%20Vera.md)
-	- [ ] [Petroläther](../Rohstoffe/Hochwertige_Rohstoffe/Petroläther.md)
-	- [ ] [Haferflocken](../Rohstoffe/Hochwertige_Rohstoffe/Haferflocken.md)
-	- [ ] [Cashew](../Rohstoffe/Hochwertige_Rohstoffe/Cashew.md)
-	- [ ] [Linsen](../Rohstoffe/Hochwertige_Rohstoffe/Linsen.md)
+	- [ ] [Kokosfett](../Stoffe/Rohstoffe/Kokosfett.md)
+	- [ ] [Aloe Vera](../Stoffe/Rohstoffe/Aloe%20Vera.md)
+	- [ ] [Petroläther](../Stoffe/Rohstoffe/Petroläther.md)
+	- [ ] [Haferflocken](../Stoffe/Rohstoffe/Haferflocken.md)
+	- [ ] [Cashew](../Stoffe/Rohstoffe/Cashew.md)
+	- [ ] [Linsen](../Stoffe/Rohstoffe/Linsen.md)
 - [ ] Diabetes
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/

@@ -1,5 +1,5 @@
 # Schwefel
-Der Menschliche Körper besteht aus 0,2 % Schwefel, [MSM](../Rohstoffe/Hochwertige_Rohstoffe/MSM%20Schwefel.md) kann den Schwefel leicht freigeben, [DMSO](../Rohstoffe/Hochwertige_Rohstoffe/DMSO.md) noch schneller
+Der Menschliche Körper besteht aus 0,2 % Schwefel, [MSM](../Rohstoffe/MSM%20Schwefel.md) kann den Schwefel leicht freigeben, [DMSO](../Rohstoffe/DMSO.md) noch schneller
 
 Schwefel ist im Menschlichen Körper für die Durchlässigkeit der Zellwände verantwortlich, es wirkt wie ein intelligentes Lösungsmittel, da wo es präsent ist kommen andere Stoffe durch.
 
@@ -10,11 +10,11 @@ Es empfiehlt sich daher im Monat von 30 Tagen etwa 90g Schwefel zu sich zu nehme
 - Im Menschlichen Körper ist Schwefel das viert- häufigste Mineral
 - Der Menschliche Körper enthält darüber hinaus 40x mehr Schwefel als [Eisen](Eisen.md)
 - Essenzieller Bestandteil vieler vom Körper selbst synthetisierter Stoffe
-	- [Enzyme](../Glossar/Enzym.md)
+	- [Enzyme](../../Glossar/Enzym.md)
 		- Schwefelbrücken legen die Räumliche Struktur sämtlicher Enzyme fest
 			- Diese Strukturen sind die Grundlage für jegliche Enzymatische Aktivität
 	- Hormone
-		- [Insulin](../Rohstoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)
+		- [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)
 		- Glutathion
 	- Aminosäuren
 		- Cystein

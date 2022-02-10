@@ -4,13 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "0872a87fe28daa67",
+        "id": "ac0bc1ccf9c12a78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
-            "mode": "preview",
+            "file": "Stoffe/Rohstoffe/Petersilie.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5e5af661eef8a245",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f939a86357b6296e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3b37c1d9ff788167",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossar/Harn.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -32,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "faste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
+                "file": "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md"
+                "file": "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md"
               }
             }
           },
@@ -106,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0872a87fe28daa67",
+  "active": "f939a86357b6296e",
   "lastOpenFiles": [
-    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
-    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md",
-    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md",
-    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Himalaya Salz.md",
-    "Rohstoffe/Hochwertige_Rohstoffe/Kartoffel.md",
-    "Rezepte_und_Anleitungen/Chana Masala.md",
-    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Minderwertige_Lebensmittel.md",
-    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Lebensmittelkategorisierung_nach_Wertigkeit.md",
-    "Index.md",
-    "Augen_Alphaoverlay.webp"
+    "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
+    "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+    "Glossar/Harn.md",
+    "Stoffe/Rohstoffe/Petersilie.md",
+    "Stoffe/Rohstoffe/Korriander.md",
+    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
+    "Stoffe/Rohstoffe/Harnstoff.md",
+    "Stoffe/Rohstoffe/Aloe Vera.md",
+    "Stoffe/Rohstoffe/Unbenannt.md",
+    "Menschlicher_Körper/Verdauungssystem/Leber.md"
   ]
 }

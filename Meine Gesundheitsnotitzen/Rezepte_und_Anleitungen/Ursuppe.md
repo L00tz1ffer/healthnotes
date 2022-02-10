@@ -25,7 +25,7 @@ Die Vorstufe
 1. Eine Messerspitze Trockenmasse in ein Glas
 2. Zitronensaft hinzufügen
 3. Mischung schäumt auf durch Säure-Basen Reaktion
-4. Glas mit [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md) auffüllen / Substrat verdünnen
+4. Glas mit [Wasser](../Stoffe/Rohstoffe/Wasser.md) auffüllen / Substrat verdünnen
 5. Trinken
 
 

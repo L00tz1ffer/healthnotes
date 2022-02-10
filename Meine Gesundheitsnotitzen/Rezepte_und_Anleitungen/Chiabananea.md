@@ -1,8 +1,8 @@
 # Chiabananea
 ## Zutaten
-- ca 40g [Chiasamen](../Rohstoffe/Hochwertige_Rohstoffe/Chia.md) oder [Leinsamen](../Rohstoffe/Hochwertige_Rohstoffe/Leinsamen.md)
+- ca 40g [Chiasamen](../Stoffe/Rohstoffe/Chia.md) oder [Leinsamen](../Stoffe/Rohstoffe/Leinsamen.md)
 - 2 Bananen
-- 1 [Zitrone](../Rohstoffe/Hochwertige_Rohstoffe/Zitrone.md)
+- 1 [Zitrone](../Stoffe/Rohstoffe/Zitrone.md)
 
 
 ## Zubereitung

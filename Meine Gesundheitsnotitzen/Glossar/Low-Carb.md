@@ -1,2 +1,2 @@
 # Low Carb
-== [Kohlenhydrat](../Rohstoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) arm
+== [Kohlenhydrat](../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) arm

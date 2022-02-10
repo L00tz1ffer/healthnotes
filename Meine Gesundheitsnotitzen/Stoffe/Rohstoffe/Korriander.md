@@ -1,0 +1,11 @@
+# Korriander
+- reich an Verdauungsfördernden [Ölen](../../Glossar/Öl.md)
+- wirkt Verdauungsfördernd
+- senkt Reizungen durch Lebensmittel
+- reich am [Vitaminen](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md)
+	- [Vitamin A](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20A.md)
+	- [Vitamin K1](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20K1.md)
+	- [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md)
+	- [Vitamin E](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20E.md)
+- reich an [Frische Mineralien](../../Wichtige_Nährstoffquellen/Frische%20Mineralien.md)
+- wirkt [Harn](../../Glossar/Harn.md)treibend

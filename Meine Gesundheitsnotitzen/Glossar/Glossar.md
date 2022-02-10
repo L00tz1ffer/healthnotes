@@ -23,6 +23,7 @@
 [Säure-Basen Gleichgewicht](Säure-Basen%20Gleichgewicht.md)
 [Säure](Säure.md)
 [Selativum](Selativum.md)
+[Stoffwechselentgiftung](Stoffwechselentgiftung.md)
 
 
 [Nützliche Gerätschaften](Nützliche_Gerätschaften/Nützliche%20Gerätschaften.md)

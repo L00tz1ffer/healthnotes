@@ -3,6 +3,9 @@
 
 
 ## Fasten bei Diabetes
+
+[Arnold Ehret](../Wichtige_Persönlichkeiten/Arnold%20Ehret.md)
+- angeblich der Geheimtipp zum Thema Trockenfasten
 ### [Fasten bei Diabetes Typ 1](https://www.youtube.com/watch?v=fr5OpfNK8lc)
 - [Fasten bei Diabetes -> Artikel von Zentrum-der-gesundheit ](https://www.zentrum-der-gesundheit.de/news/gesundheit/allgemein-gesundheit/fasten-bei-fasten-bei-diabetes)
 - https://dornsife.usc.edu/news/stories/2534/a-diet-that-mimics-fasting-may-reverse-type-1-and-type-2-diabete/
