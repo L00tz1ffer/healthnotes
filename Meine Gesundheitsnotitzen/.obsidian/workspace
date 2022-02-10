@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Rohstoffe/Petersilie.md",
+            "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
             "mode": "source",
             "source": false
           }
@@ -34,19 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3b37c1d9ff788167",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
+                "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md"
+                "file": "Wichtige_Persönlichkeiten/Paracelsus.md"
               }
             }
           },
@@ -142,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b37c1d9ff788167",
+  "active": "ac0bc1ccf9c12a78",
   "lastOpenFiles": [
+    "Wichtige_Persönlichkeiten/Paracelsus.md",
+    "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
+    "Stoffe/Rohstoffe/Petersilie.md",
+    "Wichtige_Persönlichkeiten/Unbenannt.md",
     "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
     "Menschlicher_Körper/Verdauungssystem/Leber.md",
     "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Glossar/Harn.md",
     "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
-    "Stoffe/Rohstoffe/Petersilie.md",
-    "Stoffe/Rohstoffe/Korriander.md",
-    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
-    "Stoffe/Rohstoffe/Harnstoff.md"
+    "Stoffe/Rohstoffe/Korriander.md"
   ]
 }
