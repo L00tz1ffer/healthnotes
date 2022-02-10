@@ -4,37 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0bc1ccf9c12a78",
+        "id": "1c59dbb96c7ad6cb",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossar/Heilkunst.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "16062567c432ce9f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wichtige_Persönlichkeiten/Hermes Trismegistos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2182ff978685c86c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossar/Alchemie.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "bf3a07a1433a2a85",
+        "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "5e5af661eef8a245",
+        "id": "0500072e7d771c35",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+            "file": "Glossar/Ankh.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f939a86357b6296e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 247
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
+                "file": "Wichtige_Persönlichkeiten/Hermes Trismegistos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige_Persönlichkeiten/Paracelsus.md"
+                "file": "Wichtige_Persönlichkeiten/Hermes Trismegistos.md"
               }
             }
           },
@@ -123,24 +151,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ac0bc1ccf9c12a78",
+  "active": "16062567c432ce9f",
   "lastOpenFiles": [
+    "Wichtige_Persönlichkeiten/Hermes Trismegistos.md",
+    "Glossar/Alchemie.md",
+    "Glossar/Ankh.md",
+    "Glossar/Heilkunst.md",
     "Wichtige_Persönlichkeiten/Paracelsus.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
-    "Stoffe/Rohstoffe/Petersilie.md",
-    "Wichtige_Persönlichkeiten/Unbenannt.md",
-    "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
-    "Menschlicher_Körper/Verdauungssystem/Leber.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Glossar/Harn.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
-    "Stoffe/Rohstoffe/Korriander.md"
+    "Glossar/Base.md",
+    "Glossar/Astrologie.md",
+    "Glossar/Beifuß.md",
+    "Glossar/Glossar.md",
+    "Wichtige_Persönlichkeiten/Andreas Noack.md"
   ]
 }

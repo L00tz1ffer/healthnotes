@@ -55,4 +55,37 @@ Narren beherrscht«
 		- unachtsamen Leuten
 	- mehr als auf der hochschule
 - Er Adaptierte die "Volksmedizin" in sein Denksystem
+- Er heilte mit
+	- alledem was man als schwarze Magie bezeichnen würde, Beschwörungen, Voodoo, Amulette und Ritualmagie sowie dergleichen mehr
+- Die Unterscheidung zwischen belebter und unbelebter Materie ist relativ neuzeitlich und völlig Absurd, für Paracelsus war alles ein träger göttlicher Energie
+- Für Paracelsus war das Auge kein Sinnesorgan mit rein physikalischer Funktion sondern eine Sonne, die in das Reich jenseits des sichtbaren leuchtet
+
+> "Wie könnten wir die Erde bebauen und sie zu beherrschen verstehen, wäre da nicht ein übermenschliches Licht da, dass uns lehrte (...)" - Paracelsus
+
+>Das Erkrankte und das Heilende müssen auf der geistigen Ebene eine Verwandtschaft zueinander haben, sie müssen einander ähnlich sein, sich sympathisch sein bzw. eine Affinität besitzen. 
+>Diese Ähnlichkeiten oder Sympathien kann man durch Signaturen 
+>(signum = Zeichen) 
+>wie Form, Farbe oder Geschmack erahnen. 
+>Wer die Gabe des »Sehens« besitzt, nimmt diese Verwandtschaft mehr oder weniger direkt mit seinem inneren Auge wahr. 
+>Dann gibt es keinen Zweifel mehr daran, woher die Engelwurz ihren Namen hat - man sieht plötzlich in ihr einen Schutzengel und nicht nur eine magen stärkende Aromapflanze unter den Doldenblütlern.
+
+- Mittlerweile bezeichnet man die [Signaturenlehre](../Glossar/Signaturenlehre.md) als Aberglauben und macht sich über sie lustig.
+	- gilt in Wissenschaftskreisen als verpönt
+
+>Durch den Verlust
+der intuitiven Fähigkeiten herrschte eine große LTn-
+sicherheit und Verwirrung, die sich auch in der Medizin unserer Zeit findet, indem der Zusammenhang des Menschen mit der Natur völlig abhanden gekommen ist. Man bekämpft den alten Aberglauben, aber man ahnt nicht, dass sich der Aberglaube nur gewandelt hat
+>[Rudolf Steiner](Rudolf%20Steiner.md) 1906
+
+- Für Paracelsus wara die Natur kein Ding sondern *magna mater* die große Mutter, das Urweibliche, das Mysterium des Lebens
+- Die Natur war für Ihn heilig und die Verehrung ihrer war seiner Sicht nach der einzige Weg zu Gesundheit und Glück
+- Ist der Mensch Krank oder leidet er, so hat er sich von der Natur abgewendet und somit vom Göttlichen
+
+>»Denn der  Himmel is t der  Mensch und der Mensch ist der  Himmel und alle  Menschen ein Himmel und der  Himmel nur  ein Mensch.« 
+>(Paracelsus)
+
+- Eines von Paracelsus bevorzugten Heilmitteln war das [Tausendgüldenkraut](../Stoffe/Rohstoffe/Tausendgüldenkraut.md)
 - 
+
+
+

@@ -39,6 +39,7 @@
 - [Petroläther](Petroläther.md)
 - [Salz](Salze/Salz.md)
 - [Stevia](Stevia.md)
+- [Tausendgüldenkraut](Tausendgüldenkraut.md)
 - [Sauerkraut](Sauerkraut.md)
 - [Schwarzer Pfeffer](Schwarzer%20Pfeffer.md)
 - [Wasser](Wasser.md)
