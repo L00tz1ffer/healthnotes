@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Harn.md",
+            "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
             "mode": "source",
             "source": false
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Harn.md",
+                "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Harn.md"
+                "file": "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "3b37c1d9ff788167",
   "lastOpenFiles": [
+    "Rezepte_und_Anleitungen/Weitere Rezepte im Internet.md",
+    "Menschlicher_Körper/Verdauungssystem/Leber.md",
+    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Glossar/Harn.md",
     "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
     "Stoffe/Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md",
     "Stoffe/Rohstoffe/Petersilie.md",
     "Stoffe/Rohstoffe/Korriander.md",
     "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
-    "Stoffe/Rohstoffe/Harnstoff.md",
-    "Stoffe/Rohstoffe/Aloe Vera.md",
-    "Stoffe/Rohstoffe/Unbenannt.md",
-    "Menschlicher_Körper/Verdauungssystem/Leber.md"
+    "Stoffe/Rohstoffe/Harnstoff.md"
   ]
 }
