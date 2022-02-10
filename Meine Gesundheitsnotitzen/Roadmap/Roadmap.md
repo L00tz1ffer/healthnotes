@@ -28,7 +28,7 @@
 	- [ ] [Knoblauch](../Rohstoffe/Hochwertige_Rohstoffe/Knoblauch.md)
 	- [ ] [Kurkuma](../Rohstoffe/Hochwertige_Rohstoffe/Kurkuma.md)
 	- [ ] [Lithiumchlorid](../Rohstoffe/Hochwertige_Rohstoffe/Lithiumchlorid.md)
-	- [ ] [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md)
+	- [ ] [Salz](../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md)
 	- [ ] [Sauerkraut](../Rohstoffe/Hochwertige_Rohstoffe/Sauerkraut.md)
 	- [ ] [Zitrone](../Rohstoffe/Hochwertige_Rohstoffe/Zitrone.md)
 	- [ ] [Oxydanzkathalysator](../Glossar/Oxydanzkathalysator.md)

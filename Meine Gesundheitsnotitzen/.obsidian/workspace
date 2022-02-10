@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+                "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+                "file": "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "0872a87fe28daa67",
   "lastOpenFiles": [
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Gastroperese.md",
-    "Menschlicher_Körper/__Attatchments/Augen.webp",
-    "Menschlicher_Körper/__Attatchments/Augen_Alphaoverlay.webp",
-    "Menschlicher_Körper/Augen.md",
-    "Menschlicher_Körper/__Attatchments/Augen_Alphaoverlay 1.webp",
-    "Glossar/Blutzucker.md",
-    "Glossar/Fasten.md",
-    "__Attatchments/Fasten.md",
-    "Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes Typ 1/__Attatchments/Gastroperese.md"
+    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Schüssler Salze.md",
+    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md",
+    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md",
+    "Rohstoffe/Hochwertige_Rohstoffe/Salze/Himalaya Salz.md",
+    "Rohstoffe/Hochwertige_Rohstoffe/Kartoffel.md",
+    "Rezepte_und_Anleitungen/Chana Masala.md",
+    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Minderwertige_Lebensmittel.md",
+    "Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Lebensmittelkategorisierung_nach_Wertigkeit.md",
+    "Index.md",
+    "Augen_Alphaoverlay.webp"
   ]
 }

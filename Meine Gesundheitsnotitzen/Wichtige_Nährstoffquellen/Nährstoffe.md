@@ -23,4 +23,4 @@
 [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md)
 [Vitamine](../Rohstoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md)
 [Frische Mineralien](Frische%20Mineralien.md)
-[Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md)
+[Salz](../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md)

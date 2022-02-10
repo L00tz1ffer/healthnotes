@@ -10,7 +10,7 @@
 - 1/4 Sellerie
 - 200g Bohnen
 - [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
-- [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md)
+- [Salz](../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md)
 - [Schwarzer Pfeffer](../Rohstoffe/Hochwertige_Rohstoffe/Schwarzer%20Pfeffer.md)
 
 

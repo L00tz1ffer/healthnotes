@@ -13,7 +13,7 @@
 - 3 Tl Cumin
 - 9 El [Olivenöl](../Rohstoffe/Hochwertige_Rohstoffe/Olivenöl.md)
 - 4-5 Mittelgroße [Kartoffeln](../Rohstoffe/Hochwertige_Rohstoffe/Kartoffel.md)
-- [Speisesalz](../Rohstoffe/Hochwertige_Rohstoffe/Speisesalz.md) am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- [Salz](../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md) am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
 - 1,5 Tassen [Wasser](../Rohstoffe/Hochwertige_Rohstoffe/Wasser.md)
 
 

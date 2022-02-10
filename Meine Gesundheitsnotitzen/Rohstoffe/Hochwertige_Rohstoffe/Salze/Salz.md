@@ -1,9 +1,13 @@
 # Salz
 ## Gute Salze:
-- [Himalaya Salz](../../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- [Himalaya Salz](Himalaya%20Salz.md)
 - Hunzer Salz
 - Steinsalz
-- Salz ohne Flourid- / Iodzusätze, da diese nicht Bioverfügbar sind
+- Salz ohne Natriumflourid- / Iodzusätze, da diese nicht Bioverfügbar sind
+	- Wenn dann Calciumflouorid
+- [Schüssler Salze](Schüssler%20Salze.md)
+
+
 
 ## Warum Salz?
 - enthält alle 80 natürlichen Mineralien in Bioverfügbarer Form

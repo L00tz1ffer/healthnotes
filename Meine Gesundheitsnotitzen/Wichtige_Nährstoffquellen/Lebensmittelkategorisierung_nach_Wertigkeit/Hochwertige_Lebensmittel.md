@@ -1,5 +1,5 @@
 # Hochwertige Lebensmittel
-## Himalaya Salz
+## [Salz](../../Rohstoffe/Hochwertige_Rohstoffe/Salze/Salz.md)
 ## Eidotter
 - Insbesondere der Eidotter enthält im gegensatz zum [Eiweiß](Mittelwertige_Lebensmittel.md#Eiweiß) sehr viele Mineralien, da hier alles notwendige in Bioverfügbarer Form drin ist um ein kleines Küken zu erschaffen
 ## [Ursuppe](../../Rezepte_und_Anleitungen/Ursuppe.md)

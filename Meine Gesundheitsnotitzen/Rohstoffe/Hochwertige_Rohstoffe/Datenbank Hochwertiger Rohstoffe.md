@@ -36,7 +36,7 @@
 - [Olivenöl](Olivenöl.md)
 - [Petersilie](Petersilie.md)
 - [Petroläther](Petroläther.md)
-- [Speisesalz](Speisesalz.md)
+- [Salz](Salze/Salz.md)
 - [Stevia](Stevia.md)
 - [Sauerkraut](Sauerkraut.md)
 - [Schwarzer Pfeffer](Schwarzer%20Pfeffer.md)
