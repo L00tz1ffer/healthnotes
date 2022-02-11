@@ -39,8 +39,8 @@
 	Insektenstiche und Zeckenbisse, Haarausfall und juckender Kopfhaut, Nagelpilz und Fußpilz,  Schuppenflechten, Diabetes
 
 ### Infografik
-![Infografik Kolloidales Silber | 600](__Attatchments/Infografik-kolloidales-Silber-1024x787.png)
-[Quelle](https://kolloidales-silber-ratgeber.info/wp-content/uploads/2018/08/Infografik-kolloidales-Silber-1024x787.png)
+>![Infografik Kolloidales Silber | 600](__Attatchments/Infografik-kolloidales-Silber-1024x787.png)
+>[Quelle](https://kolloidales-silber-ratgeber.info/wp-content/uploads/2018/08/Infografik-kolloidales-Silber-1024x787.png)
 
 ## Mögliche Nebenwirkungen
 - Beik Silberallergie können Allergische Schocks auftreten

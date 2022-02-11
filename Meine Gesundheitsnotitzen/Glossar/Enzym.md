@@ -1,7 +1,9 @@
 # Enzym
 - Aufgebaut aus Proteinen							
-	-  im Kern sitzt ein Edelmetall, welches die Enzymatischen Prozesse steuert
-- spalet bis zu 400 000 Moleküle pro sekunde!!!
+	- im Kern sitzt ein Edelmetall, welches die Enzymatischen Prozesse steuert
+- Edelmetallkern leistet die ganze Arbeit
+- Edelmetallkern arbeitet bis zu mehereren Monaten am stück mit Spitzenleistung
+	- spalet bis zu 300 000 Moleküle pro sekunde!!!
 - je geringer die [kathalytische aktivität](Kathalytisch%20aktives%20Metall.md), desto wertloser das Enzym in dem das Element sitzt
 	- Enzyme gehen kaputt dadurch
 - Je höher die [kathalysefähigkeiten](Kathalytisch%20aktives%20Metall.md) des [Elements](../Stoffe/Elemente_des_Periodensystems/Elemente.md) desto mehr davon sollte man im Körper haben

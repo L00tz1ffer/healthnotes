@@ -1,0 +1,13 @@
+# Rubidium
+- Reichert der Körper im Knochenmark an
+	- im Faktor 1/10 zum Blutserum
+- steigert Sinneswahrnehmung
+	- insbesondere Optische Sinneswahrnehmung
+	- bei Überdosis macht es die Sinneswahrnehmung überempfindlich
+- steigert
+	- Mut
+	- Selbstwahrnehmung
+	- Selbstbewusstsein
+- sehr gut löslich
+	- entsprechend schnell aus dem Boden ausgewaschen
+- 

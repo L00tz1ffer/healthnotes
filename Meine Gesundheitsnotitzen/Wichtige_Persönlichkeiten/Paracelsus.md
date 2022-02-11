@@ -34,13 +34,7 @@ Grund haben in Unkenntnis der Lehren des Altertums, in Beschränktheit und Stump
 
 - jegliche kritik wurde unterdrückt
 - Nach Paracelsus sicht war »noch nie ein Arzt von den Hohen Schulen hervorgegangen, auch nie einer, der imstande gewesen wäre, mit wahrem Wissen die Ursache der wenigsten Krankheiten darzulegen«
-> »Es gibt
-genug Lehrmeister, die den Arzt lehren, aber nicht 
-auf den Hochschulen. Dort sind auserwählte Narren und Büffel und niemand darf sie weise machen,
-denn sie haben Bullen und Statuten, dass sie bei
-ihrem Eid nicht witziger werden dürfen, und so
-werden die Hochschulen von solchen freiherrlichen
-Narren beherrscht«
+> »Es gibt genug Lehrmeister, die den Arzt lehren, aber nicht  auf den Hochschulen. Dort sind auserwählte Narren und Büffel und niemand darf sie weise machen, denn sie haben Bullen und Statuten, dass sie bei ihrem Eid nicht witziger werden dürfen, und so werden die Hochschulen von solchen freiherrlichen Narren beherrscht«
 - Paracelsus hatte keine hohe Meinung von den anerkannten "Ärzten" seiner Zeit
 ### Reise durch Europa
 - Nach dem Abschluss seines Studiums wanderte er durch Europa und wollte Erfahrung sammeln.
