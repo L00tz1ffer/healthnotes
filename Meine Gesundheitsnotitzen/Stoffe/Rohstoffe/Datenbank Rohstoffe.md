@@ -18,6 +18,7 @@
 - [Honig](Honig.md)
 - [Hühnerfleisch](Hühnerfleisch.md)
 - [Ingwer](Ingwer.md)
+- [Kalziumflourid](Kalziumflourid.md)
 - [Kapuzinerkresse](Kapuzinerkresse.md)
 - [Karrotte](Karrotte.md)
 - [Kartoffel](Kartoffel.md)
