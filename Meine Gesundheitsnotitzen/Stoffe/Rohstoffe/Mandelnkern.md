@@ -21,5 +21,5 @@
 - Unbekannte Quelle
 	- Studie durchgeführt von Purdue Universität in USA -> West Lafayette
 		- Mandeln sollen einen starken Anstieg des Blutzuckerpsiegels nach einer Mahlzeit verhindern indem sie nach einem [Kohlenhydrate](../Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)reichen essen die Glykämische wie auch die [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)antwort stark dämpfen
-			- Interessant für -> [Diabetes Typ I](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes%20Typ%20II.md)
+			- Interessant für -> [Diabetes Typ I](../../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)
 		- Weiterhin ergab die Studie, dass Mandeln das LDL-Chollesterin senken

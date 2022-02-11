@@ -7,7 +7,7 @@
     "margin": "0",
     "downscalePercent": 75
   },
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "vimMode": false,
@@ -15,6 +15,7 @@
   "newLinkFormat": "relative",
   "readableLineLength": false,
   "showLineNumber": true,
-  "foldIndent": false,
-  "foldHeading": true
+  "foldIndent": true,
+  "foldHeading": true,
+  "attachmentFolderPath": "./__Attachments"
 }

@@ -20,6 +20,9 @@
 	- Kann bei Insektenstichen Appliziert werden
 	- Kann als gesunder, Verträglicher Ersatz für Antibiotika dienen
 	- Kann [Kathalytisch schwache Metalle](../../Glossar/Kathalytisch%20aktives%20Metall.md) ausleiten
+- Silber ist ein Oxidationskathalysator
+	- Parasiten oder im Körper unerwümschte Bakterien mögen keinen Aktiven Sauerstoff
+	- 
 
 ### Wirkungsspektrum
 - Hautkrankheiten:

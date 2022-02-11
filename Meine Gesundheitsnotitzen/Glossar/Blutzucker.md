@@ -1,6 +1,6 @@
 # Blutzucker
 - Beschreibt die Menge an Glukose im Blut
-- ist relevant bei [Diabetes](../Menschlicher_Körper/Verdauungssystem/Leiden/Diabetes/Diabetes.md)]
+- ist relevant bei [Diabetes](../Menschlicher_Körper/Leiden/Diabetes/Diabetes.md)]
 
 ## Durchschnittswerte Bei Gesunden
 - ~ 84mg/dl

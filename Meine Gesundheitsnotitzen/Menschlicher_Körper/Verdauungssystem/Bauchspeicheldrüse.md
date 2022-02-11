@@ -1,4 +1,4 @@
 # Bauchspeichedrüse
 
 ## Die Lagerhansschen Inseln
-[Diabetes](Leiden/Diabetes/Diabetes.md)
+[Diabetes](../Leiden/Diabetes/Diabetes.md)

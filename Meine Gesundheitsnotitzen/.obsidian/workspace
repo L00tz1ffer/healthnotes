@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           },
           "pinned": true
@@ -23,24 +23,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Elemente_des_Periodensystems/Elemente.md",
-            "mode": "preview",
+            "file": "Stoffe/Rohstoffe/Kolloidales Silber.md",
+            "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "1c59dbb96c7ad6cb",
+        "id": "b24baed656f289df",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Heilkunst.md",
-            "mode": "preview",
+            "file": "Menschlicher_Körper/Leiden/Karies.md",
+            "mode": "source",
+            "backlinks": true,
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -60,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "faste",
+                "query": "nicke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Elemente_des_Periodensystems/Elemente.md",
+                "file": "Stoffe/Rohstoffe/Kolloidales Silber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Elemente_des_Periodensystems/Elemente.md"
+                "file": "Stoffe/Rohstoffe/Kolloidales Silber.md"
               }
             }
           },
@@ -138,15 +136,15 @@
   },
   "active": "494c08a9d62b23e9",
   "lastOpenFiles": [
+    "Stoffe/Rohstoffe/Kolloidales Silber.md",
+    "Stoffe/Elemente_des_Periodensystems/Silber.md",
     "Stoffe/Elemente_des_Periodensystems/Elemente.md",
-    "Periodensystem.pdf",
-    "Glossar/Nützliche_Gerätschaften/Nützliche Gerätschaften.md",
+    "Stoffe/Elemente_des_Periodensystems/Lithium.md",
+    "Menschlicher_Körper/Leiden/Milcharmut.md",
+    "Stoffe/Elemente_des_Periodensystems/Nickel.md",
+    "Menschlicher_Körper/Leiden/Diabetes/Diabetes.md",
     "Wichtige_Persönlichkeiten/Paracelsus.md",
-    "Glossar/Heilkunst.md",
-    "Stoffe/Elemente_des_Periodensystems/Rubidium.md",
-    "Stoffe/Elemente_des_Periodensystems/Rhodium.md",
-    "Glossar/Kathalytisch aktives Metall.md",
-    "Glossar/Enzym.md",
-    "Glossar/Immunzelle.md"
+    "Menschlicher_Körper/Leiden/Karies.md",
+    "Glossar/Heilkunst.md"
   ]
 }

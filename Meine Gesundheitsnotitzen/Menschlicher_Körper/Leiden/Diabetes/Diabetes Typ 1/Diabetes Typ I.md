@@ -7,7 +7,7 @@
 ## Links
 
 ### [Vanadium & Chrom bei Diabetes?](https://www.youtube.com/watch?v=UbDgoH-iyv8)
-- [Vanadium](../../../../../Stoffe/Elemente_des_Periodensystems/Vanadium.md), [Chrom](../../../../../Stoffe/Elemente_des_Periodensystems/Chrom.md)
+- [Vanadium](../../../../Stoffe/Elemente_des_Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Elemente_des_Periodensystems/Chrom.md)
 - [noch nicht getestete Vanadium Supplemente](https://de.luckyvitamin.com/p-629848-olympian-labs-vanadyl-sulfate-20-250-capsules)
 
 ### [Ingmar Bieda zu Diabetes](https://youtu.be/C_rQWYzAaRk)
@@ -21,7 +21,7 @@
 
 
 ### [Diabetes Typ 1 mit Ketogener Ernährung besiegen - Geht das?](https://www.youtube.com/watch?v=-vrfcTzKjw4)   
-- Wenig [Kohlenhydrate](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)
+- Wenig [Kohlenhydrate](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md)
 - Mascapone probieren
 - Avocado
 - [Kontakt zu und Website von Jeff Heusser](https://living-keto.at/)
@@ -39,19 +39,19 @@
 			- Mindestwert 70mg/dl
 			- Höchstwert 180mg/dl 
 		- 30% der Zeit kann der Blutzucker darüber liegen
-	- [Gesunde Blutzucker Werte](../../../../../Glossar/Blutzucker.md#Durchschnittswerte%20Bei%20Gesunden)
+	- [Gesunde Blutzucker Werte](../../../../Glossar/Blutzucker.md#Durchschnittswerte%20Bei%20Gesunden)
 2. Glukose ist giftig (toxic) für beta - Zellen
-	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern [Insulin](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) geben
+	1. Blutzucker niedrig halten und auch bei niedrigen Blutzuckern [Insulin](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) geben
 3. Blutzucker niedrig halten, dann sind folgeschäden durch Diabetes ausgeschlssen
-4. Kein Echtzeit[Insulin](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) in die Hüfte das wirkt schneller als das essen
+4. Kein Echtzeit[Insulin](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md) in die Hüfte das wirkt schneller als das essen
 5. als mögliche Ursache: [Gastroperese](../../Gastroperese.md)
-6. [Kohlenhydrate](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) sind nicht die einzige Blutzuckerquelle
+6. [Kohlenhydrate](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) sind nicht die einzige Blutzuckerquelle
 	- GLP1 Horomone hat großen Einfluss auf den Blutzucker
 7. Ketose ist nicht Ketoacetose
-	- [Robert Atkins](../../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
+	- [Robert Atkins](../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
 	Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
 8. Menschen brauchen Proteine
 
-[Fasten bei Diabetes](../../../../../Glossar/Fasten.md#Fasten%20bei%20Diabetes)
+[Fasten bei Diabetes](../../../../Glossar/Fasten.md#Fasten%20bei%20Diabetes)
 
-[Nützliche Dateien](../../../../../Tipps_für_den_Alltag/Nützliche%20Dateien.md#Blutzucker%20Datenbank)
+[Nützliche Dateien](../../../../Tipps_für_den_Alltag/Nützliche%20Dateien.md#Blutzucker%20Datenbank)
