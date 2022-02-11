@@ -3,9 +3,9 @@
 - Senkt [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)bedarf
 - Guter Vitalstofflieferant
 	- B Vitamine
-	- [Magnesium](../Elemente_des_Periodensystems/Magnesium.md)
-	- [Zink](../Elemente_des_Periodensystems/Zink.md)
-	- [Eisen](../Elemente_des_Periodensystems/Eisen.md)
+	- [Magnesium](../Datenbank_Elemente_Des_Periodensystems/Magnesium.md)
+	- [Zink](../Datenbank_Elemente_Des_Periodensystems/Zink.md)
+	- [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md)
 		- Immer mit [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md) konsumieren
 	- 100g = 11g Ballaststoffe
 		- [Betaglucan](../Nahrungs_Inhaltsstoffe/Ballaststoffe/Betaglucan.md)

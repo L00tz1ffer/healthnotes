@@ -1,7 +1,7 @@
 # Heilkunst
 
 ## Der [Neanderthaler](Neanderthaler.md)
-Es gibt Menschen die Vermuten die Ursprünge der Heilkunst vor der Zeit der Neanderthaler. Noch heute werdem Heilpflanzen wie [Beifuß](Beifuß.md) verwendet, die man einst als Grabbeigaben auswählte. Diese Tatsache liefert Grund zur Annahme, dass man die Pflanzen auch zu Medizinischer Anwendung zu verwenden gewusst hat. Es ist nicht unwahrscheinlich, dass der Neanderthaler den Menschen Lehrte, schließlich lebten beide tausende von Jahren paralell nebeneinander.
+Es gibt Menschen die Vermuten die Ursprünge der Heilkunst vor der Zeit der Neanderthaler. Noch heute werdem Heilpflanzen wie [Beifuß](../Stoffe/Rohstoffe/Beifuß.md) verwendet, die man einst als Grabbeigaben auswählte. Diese Tatsache liefert Grund zur Annahme, dass man die Pflanzen auch zu Medizinischer Anwendung zu verwenden gewusst hat. Es ist nicht unwahrscheinlich, dass der Neanderthaler den Menschen Lehrte, schließlich lebten beide tausende von Jahren paralell nebeneinander.
 
 ### Chiron der Kentaur
 Vielleicht ist der Kentaur Chiron, der sein Kräuterwissen an den  Heilgott Asklepios weitergab, eine Anspielung auf diese uralte Zeit. Der Sage nach war er ja noch halb Tier und halb Mensch, was die Schlussfolgerung zulässt, dass er noch der Natur nahe stand, ja sie vielleicht mit anderen Augen sah, mit Bewunderung. 

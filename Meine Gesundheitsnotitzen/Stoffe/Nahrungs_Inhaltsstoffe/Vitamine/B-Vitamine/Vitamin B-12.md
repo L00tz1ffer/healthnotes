@@ -1,3 +1,3 @@
 # Vitamin B-12
 # Trivia
-- Bioverfügbares [Kobalt](../../../Elemente_des_Periodensystems/Kobalt.md)
+- Bioverfügbares [Kobalt](../../../Datenbank_Elemente_Des_Periodensystems/Kobalt.md)

@@ -1,2 +1,2 @@
 # Karies
-- [Nickel](../../Stoffe/Elemente_des_Periodensystems/Nickel.md)mangel
+- [Nickel](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Nickel.md)mangel

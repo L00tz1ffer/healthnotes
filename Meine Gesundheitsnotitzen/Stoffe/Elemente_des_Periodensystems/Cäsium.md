@@ -1,4 +1,0 @@
-# Cäsium
-
-## Wirkung
-- macht Mutiger

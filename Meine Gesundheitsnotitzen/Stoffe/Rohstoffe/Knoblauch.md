@@ -7,3 +7,6 @@
 - soll die Zahl der nützlichen Darmbakterien erhöhen 
 	- kann zur Sanierung der Darmflora beitragen. 
 - In-vitro-Studien zeigten eine antivirale Wirkung
+
+
+- Reich an Germanium

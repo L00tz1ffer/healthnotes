@@ -1,6 +1,6 @@
 # Der Menschliche Körper
 [Augen](Augen.md)
-[Bauchspeicheldrüse](Verdauungssystem/Bauchspeicheldrüse.md)
+[Bauchspeicheldrüse](Verdauungssystem/Bauchspeicheldrüse/Bauchspeicheldrüse.md)
 
 [Blutgefäßsystem](Blutkreislauf/Blutgefäßsystem.md)
 

@@ -1,13 +1,11 @@
 # Diabetes Typ I
+zeichnet sich im wesentlichen nicht durch einen [Insulin](../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)mangel aus sondern durch eine wie auch immer geartete Reaktion der [Immunzellen](../../Glossar/Immunzelle.md) auf die in der [Bauchspeicheldrüse](../Verdauungssystem/Bauchspeicheldrüse/Bauchspeicheldrüse.md) befindlichen [Lagerhansschen Zellen](../Verdauungssystem/Bauchspeicheldrüse/Lagerhanssche%20Zellen.md), was zur Folge hat, dass die dort gelagerte [Insulin](../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)produktion mehr und mehr eingeschränkt wird.
 
-# Ursachen
-
-## Auswirkungen
 
 ## Links
 
 ### [Vanadium & Chrom bei Diabetes?](https://www.youtube.com/watch?v=UbDgoH-iyv8)
-- [Vanadium](../../../../Stoffe/Elemente_des_Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Elemente_des_Periodensystems/Chrom.md)
+- [Vanadium](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Chrom.md)
 - [noch nicht getestete Vanadium Supplemente](https://de.luckyvitamin.com/p-629848-olympian-labs-vanadyl-sulfate-20-250-capsules)
 
 ### [Ingmar Bieda zu Diabetes](https://youtu.be/C_rQWYzAaRk)

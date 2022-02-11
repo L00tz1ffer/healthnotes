@@ -6,7 +6,7 @@
 	- spalet bis zu 300 000 Moleküle pro sekunde!!!
 - je geringer die [kathalytische aktivität](Kathalytisch%20aktives%20Metall.md), desto wertloser das Enzym in dem das Element sitzt
 	- Enzyme gehen kaputt dadurch
-- Je höher die [kathalysefähigkeiten](Kathalytisch%20aktives%20Metall.md) des [Elements](../Stoffe/Elemente_des_Periodensystems/Elemente.md) desto mehr davon sollte man im Körper haben
-	- [Platin](../Stoffe/Elemente_des_Periodensystems/Platin.md), [Gold](../Stoffe/Elemente_des_Periodensystems/Gold.md), [Silber](../Stoffe/Elemente_des_Periodensystems/Silber.md),  [Iridium](../Stoffe/Elemente_des_Periodensystems/Iridium.md) & [Rhodium](../Stoffe/Elemente_des_Periodensystems/Rhodium.md)
+- Je höher die [kathalysefähigkeiten](Kathalytisch%20aktives%20Metall.md) des [Elements](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Datenbank%20Elemente%20des%20Periodensystems.md) desto mehr davon sollte man im Körper haben
+	- [Platin](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Platin.md), [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md), [Silber](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Silber.md),  [Iridium](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Iridium.md) & [Rhodium](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Rhodium.md)
 - Pflanzen auf Humusboden versorgen uns mit [Kolloidalen](Kolloid.md) Metallkomplexen
 - [Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md) sind sog. Ko- Enzyme, Sie docken nach dem Schlüssel- Schloss Prinzip an diese an und helfen Ihnen bei der Ausführung ihrer Arbeit

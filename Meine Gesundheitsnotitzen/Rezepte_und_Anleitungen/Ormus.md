@@ -4,7 +4,7 @@ oder auch Kolloidales Gold, Ormus oder Roter Löwe, Manna
 Aber auch grundlegend die Anleitung um aus Edelmetallen Bioverfügbare Kolloide zu gewinnen
 
 ### Zutaten
-- Ausgangsmetall (in diesem Fall 0,55oz [Gold](../Stoffe/Elemente_des_Periodensystems/Gold.md))
+- Ausgangsmetall (in diesem Fall 0,55oz [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md))
 - Energetisiertes Wasser
 - Glasgefäße
 - Metalltrichter
@@ -24,10 +24,10 @@ Aber auch grundlegend die Anleitung um aus Edelmetallen Bioverfügbare Kolloide 
 	1. Dazu setzen wir den Metalltrichter auf und geben eine kleine Menge Salzsäure hinzu.
 		- Vorsicht diese fängt direkt an mit dem Wasser zu reagieren und es kann zu Spritzern kommen
 	2. Anschließend fügen wir ebenso eine kleine Menge [Wasserstoffperoxid](Wasserstoffperoxid.md) hinzu (ca. 2 Teelöffel voll)
-	3. Die beiden Schritte werden etwa alle 2 Stunden wiederholt bis das [Gold](../Stoffe/Elemente_des_Periodensystems/Gold.md) sich vollständig gelöst hat.
+	3. Die beiden Schritte werden etwa alle 2 Stunden wiederholt bis das [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md) sich vollständig gelöst hat.
 		- Am Anfang kann auch etwas mehr von den beiden Chemikalien hinzugefügt werden um das kalte Feuer zu entfachen.
 		- Später jedoch immer nur 1 - 2 Teelöffel 
-	4. Wenn das komplette [Gold](../Stoffe/Elemente_des_Periodensystems/Gold.md) aufgelöst ist wird die Salzsäure mit Natronlauge Abgelöscht bis auf einen PH Wert von 10,75. jetzt müsste das [Gold](../Stoffe/Elemente_des_Periodensystems/Gold.md) eine gelbliche Farbe haben
+	4. Wenn das komplette [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md) aufgelöst ist wird die Salzsäure mit Natronlauge Abgelöscht bis auf einen PH Wert von 10,75. jetzt müsste das [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md) eine gelbliche Farbe haben
 		- Wichtig ist das der PH 10,75 ist, da sonst die weitere Reaktion behindert wird
 	5. Nachdem keine Blasen mehr aufsteigen kommt die Lösung nu in einen Topf aus Rostfreien
 	6. Während die Farbe im Topf ein Dunkles violett annimmt, so ist das bereits Kolloidales Gold.

@@ -3,7 +3,7 @@
 [Astrologie](Astrologie.md)
 [Atlantis](Atlantis.md)
 [Base](Base.md)
-[Beifuß](Beifuß.md)
+[Beifuß](../Stoffe/Rohstoffe/Beifuß.md)
 [Blutzucker](Blutzucker.md)
 [Destillation](Destillation.md)
 [Emotion](Emotion.md)

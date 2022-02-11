@@ -1,4 +1,4 @@
 # Haarausfall
 
 ## Mögliche Ursachen
-- [Zink](../../Stoffe/Elemente_des_Periodensystems/Zink.md) mangel
+- [Zink](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md) mangel

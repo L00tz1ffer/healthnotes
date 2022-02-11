@@ -11,13 +11,13 @@ Für weitere Informationen:
 	- Der Grund hierfür ist der deutliche Anstieg in der Höhe von [Keton](../../../Glossar/Keton.md)körpern in dem systemischen Kreislauf, der als Reaktion auf eine Stresssituation für den Körper (provoziert Ernährungsfaktoren, die Körpertemperatur zu hohen Zahlen), wenn sie gestört Prozess vollständige Verdauung von [Proteinen](../../../Glossar/Protein.md), Lipiden und [Kohlenhydraten](../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) auftritt.
 
 ## Mangelerscheinung
-- [Vanadium](../../../Stoffe/Elemente_des_Periodensystems/Vanadium.md)
-- [Kupfer](../../../Stoffe/Elemente_des_Periodensystems/Kupfer.md)
-- [Chrom](../../../Stoffe/Elemente_des_Periodensystems/Chrom.md)
-- [Zink](../../../Stoffe/Elemente_des_Periodensystems/Zink.md)
-- [Mangan](../../../Stoffe/Elemente_des_Periodensystems/Mangan.md)
-- [Wolfram](../../../Stoffe/Elemente_des_Periodensystems/Wolfram.md)
-- [Molybdän](../../../Stoffe/Elemente_des_Periodensystems/Molybdän.md)
+- [Vanadium](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md)
+- [Kupfer](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md)
+- [Chrom](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Chrom.md)
+- [Zink](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md)
+- [Mangan](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Mangan.md)
+- [Wolfram](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Wolfram.md)
+- [Molybdän](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Molybdän.md)
 
 
 

@@ -1,0 +1,2 @@
+# Anionisch
+negativ geladen

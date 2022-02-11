@@ -10,7 +10,7 @@
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
 - [ ] Artikel Ausarbeiten
-	- [ ] [Selen](../Stoffe/Elemente_des_Periodensystems/Selen.md)
+	- [ ] [Selen](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Selen.md)
 		- [ ] https://www.youtube.com/watch?v=hHOeLqdsYhE
 		- [ ] https://www.youtube.com/watch?v=4FZJIW7DZGw
 		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg
