@@ -3,6 +3,7 @@ zeichnet sich im wesentlichen nicht durch einen [Insulin](../../Stoffe/Nahrungs_
 
 
 ## Links
+### [Infection as a cause of type 1 diabetes?](https://pubmed.ncbi.nlm.nih.gov/22504578/)
 
 ### [Vanadium & Chrom bei Diabetes?](https://www.youtube.com/watch?v=UbDgoH-iyv8)
 - [Vanadium](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Chrom.md)

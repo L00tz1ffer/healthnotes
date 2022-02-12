@@ -12,6 +12,7 @@
           "state": {
             "file": "Wichtige_Persönlichkeiten/Paracelsus.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           },
           "pinned": true
@@ -23,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Fluorid.md",
-            "mode": "source",
+            "file": "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Fluorid.md",
+                "file": "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Fluorid.md"
+                "file": "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -150,6 +151,8 @@
   },
   "active": "494c08a9d62b23e9",
   "lastOpenFiles": [
+    "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+    "Menschlicher_Körper/Leiden/Diabetes/Diabetes.md",
     "Stoffe/Datenbank_Elemente_Des_Periodensystems/Fluorid.md",
     "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kalzium.md",
     "Stoffe/Rohstoffe/Kalziumflourid.md",
@@ -157,8 +160,6 @@
     "Glossar/Keton.md",
     "Glossar/Ketoacetose.md",
     "Glossar/Aceton.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md",
-    "Wichtige_Persönlichkeiten/Paracelsus.md",
-    "Stoffe/Rohstoffe/Zimt.md"
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md"
   ]
 }
