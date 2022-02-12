@@ -63,7 +63,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Glossar.md",
+            "file": "Glossar/__Glossar.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher_Körper/Leiden/Rheuma.md",
+            "file": "Heilansätze/GNM/Hamerscher_Herd.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Leiden/Rheuma.md",
+                "file": "Heilansätze/GNM/Hamerscher_Herd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher_Körper/Leiden/Rheuma.md"
+                "file": "Heilansätze/GNM/Hamerscher_Herd.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "b24baed656f289df",
   "lastOpenFiles": [
-    "Menschlicher_Körper/Leiden/Rheuma.md",
-    "Stoffe/Rohstoffe/Cashew.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md",
-    "Stoffe/Rohstoffe/Haferflocken.md",
-    "Glossar/Fasten.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kalium.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Phosphor.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Magnesium.md"
+    "Heilansätze/GNM/Hamerscher_Herd.md",
+    "Heilansätze/GNM/DHS.md",
+    "Heilansätze/GNM/5BN/1._Biologisches_Naturgesetz.md",
+    "Heilansätze/GNM/SBS.md",
+    "Glossar/__Glossar.md",
+    "Glossar/Symptom.md",
+    "Glossar/Stress.md",
+    "Heilansätze/GNM/Schiene.md",
+    "Heilansätze/GNM/5BN/Rezidiv.md",
+    "Glossar/Selativum.md"
   ]
 }

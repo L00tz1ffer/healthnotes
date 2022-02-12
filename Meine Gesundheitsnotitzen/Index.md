@@ -146,16 +146,16 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 
 
 
-### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Stoffe/Datenbank_Elemente_Des_Periodensystems/Datenbank%20Elemente%20des%20Periodensystems.md)
+### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Stoffe/Datenbank_Elemente_Des_Periodensystems/__DB_Elements.md)
 
 ### [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige_Nährstoffquellen/Nährstoffe.md)
 
-### [Heilsteine](Heilsteine/Heilsteine.md)
+### [Heilsteine](Heilansätze/Heilsteine/Heilsteine.md)
 
-### [Allgemeine Tipps](Tipps_für_den_Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
+### [Allgemeine Tipps](Tipps_für_den_Alltag/Allgemeine%20Tipps/__Allgemeine_Tipps.md)
 
-### [Rezepte und Anleitungen](Rezepte_und_Anleitungen/Rezepte%20und%20Anleitungen.md)
+### [Rezepte_und_Anleitungen](Rezepte_und_Anleitungen/__Rezepte_und_Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
 
-### [Nützliche Dateien](Tipps_für_den_Alltag/Nützliche%20Dateien.md)
+### [Nützliche_Dateien](Tipps_für_den_Alltag/Nützliche_Dateien.md)

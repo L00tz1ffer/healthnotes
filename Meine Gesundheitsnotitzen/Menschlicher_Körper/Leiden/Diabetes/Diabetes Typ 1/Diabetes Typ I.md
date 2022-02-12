@@ -53,4 +53,4 @@ zeichnet sich im wesentlichen nicht durch einen [Insulin](../../Stoffe/Nahrungs_
 
 [Fasten bei Diabetes](../../../../Glossar/Fasten.md#Fasten%20bei%20Diabetes)
 
-[Nützliche Dateien](../../../../Tipps_für_den_Alltag/Nützliche%20Dateien.md#Blutzucker%20Datenbank)
+[Blutzucker Datenbank](../../../../Tipps_für_den_Alltag/Nützliche_Dateien.md#Blutzucker%20Datenbank)]

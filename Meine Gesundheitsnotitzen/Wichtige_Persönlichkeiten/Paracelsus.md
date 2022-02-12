@@ -63,7 +63,7 @@ Grund haben in Unkenntnis der Lehren des Altertums, in Beschränktheit und Stump
 >Wer die Gabe des »Sehens« besitzt, nimmt diese Verwandtschaft mehr oder weniger direkt mit seinem inneren Auge wahr. 
 >Dann gibt es keinen Zweifel mehr daran, woher die Engelwurz ihren Namen hat - man sieht plötzlich in ihr einen Schutzengel und nicht nur eine magen stärkende Aromapflanze unter den Doldenblütlern.
 
-- Mittlerweile bezeichnet man die [Signaturenlehre](../Glossar/Signaturenlehre.md) als Aberglauben und macht sich über sie lustig.
+- Mittlerweile bezeichnet man die [Signaturenlehre](../Heilansätze/Naturmedizin/Signaturenlehre.md) als Aberglauben und macht sich über sie lustig.
 	- gilt in Wissenschaftskreisen als verpönt
 
 >»Durch den Verlust der intuitiven Fähigkeiten herrschte eine große Unsicherheit und Verwirrung, die sich auch in der Medizin unserer Zeit findet, indem der Zusammenhang des Menschen mit der Natur völlig abhanden gekommen ist. Man bekämpft den alten Aberglauben, aber man ahnt nicht, dass sich der Aberglaube nur gewandelt hat.«
