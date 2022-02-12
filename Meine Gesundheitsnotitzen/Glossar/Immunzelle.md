@@ -1,7 +1,7 @@
 # Immunzelle
 
 ## Imunzelle auf Bakterienjagd
->![Immunzelle auf Bakterienjagd - Impftheorie ausgehebelt](../Crawling%20Neutrophil%20Chasing%20a%20Bacterium%20(240p_15fps_H264-96kbit_AAC).mp4)
+>![Immunzelle auf Bakterienjagd - Impftheorie ausgehebelt](__Attatchments/Crawling%20Neutrophil%20Chasing%20a%20Bacterium%20(240p_15fps_H264-96kbit_AAC).mp4)
 >[Quelle](https://www.youtube.com/watch?v=I_xh-bkiv_c)
 >Das Video zeigt eine Dunkelfeldmikroskopische Aufnahme, eine Makrophage / Fresszelle, wie sie zwischen den Roten Blutkörperchen Manövrierend ein Bakterium jagt und wiederlegt somit die gägngige Impftheorie nach deren Zentralem Theorem die detektion der Erreger auf Basis von Kontakt zustande kommt
 

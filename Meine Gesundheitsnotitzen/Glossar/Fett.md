@@ -5,7 +5,7 @@ Man nennt solche Verbindungen Triglyceride, die IUPAC empfiehlt jedoch als Namen
 
 Ob man den Stoff Fett oder [Öl](Öl.md) nennt hängt davon ab ob er bei Raumtemperatur [Fest](Fest.md) oder [Flüssig](Flüssig.md) ist.
 
-Als Naturstoffe werden Fette den Lipiden zugeordnet und sind in Lösungsmitteln wue [Petroläther](../Stoffe/Rohstoffe/Petroläther.md), Ether und Benzol löslich.
+Als Naturstoffe werden Fette den Lipiden zugeordnet und sind in Lösungsmitteln wue [Petroläther](../Stoffe/Rohstoffe/Lösungsmittel/Petroläther.md), Ether und Benzol löslich.
 
 Fette sind für den Menschen aufgrund der hohen Energiedichte der wichtigste Energiespeicher des Menschen, aber auch für Tiere und einige Pflanzenarten.
 

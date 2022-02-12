@@ -1,5 +1,5 @@
 # Schwefel
-Der Menschliche Körper besteht aus 0,2 % Schwefel, [MSM](../Rohstoffe/MSM%20Schwefel.md) kann den Schwefel leicht freigeben, [DMSO](../Rohstoffe/DMSO.md) noch schneller
+Der Menschliche Körper besteht aus 0,2 % Schwefel, [MSM](../Rohstoffe/MSM%20Schwefel.md) kann den Schwefel leicht freigeben, [DMSO](../Rohstoffe/Lösungsmittel/DMSO.md) noch schneller
 
 Schwefel ist im Menschlichen Körper für die Durchlässigkeit der Zellwände verantwortlich, es wirkt wie ein intelligentes Lösungsmittel, da wo es präsent ist kommen andere Stoffe durch.
 

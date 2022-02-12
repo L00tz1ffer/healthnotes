@@ -8,4 +8,4 @@
 ## Germaniumreiche Heilpflanzen
 - [Knoblauch](../Rohstoffe/Knoblauch.md)
 - [Ingwer](../Rohstoffe/Ingwer.md)
-- [[Ghinseng]]
+- [Ghinseng](../Rohstoffe/Ghinseng.md)

@@ -87,8 +87,13 @@
         "id": "b24baed656f289df",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Menschlicher_Körper/Leiden/Rheuma.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -108,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zimt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Menschlicher_Körper/Leiden/Rheuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Menschlicher_Körper/Leiden/Rheuma.md"
+              }
             }
           },
           {
@@ -177,19 +185,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "b24baed656f289df",
   "lastOpenFiles": [
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Datenbank Elemente des Periodensystems.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Antimon.md",
-    "Wichtige_Persönlichkeiten/Sun Tzu.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Kriegskunst/Kriegskunst.md",
-    "Tipps_für_den_Alltag/Allgemeine Tipps/Lesen von Studien.md",
-    "Tipps_für_den_Alltag/Nützliche Dateien.md",
-    "Interessante Links.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Lithium.md"
+    "Menschlicher_Körper/Leiden/Rheuma.md",
+    "Stoffe/Rohstoffe/Cashew.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md",
+    "Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md",
+    "Stoffe/Rohstoffe/Haferflocken.md",
+    "Glossar/Fasten.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kalium.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Phosphor.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Magnesium.md"
   ]
 }

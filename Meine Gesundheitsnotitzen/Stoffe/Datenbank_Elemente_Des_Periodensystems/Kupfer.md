@@ -14,7 +14,9 @@
 - Wichtig im Zellstoffwechsel
 
 ## Kupferenzymverteilung
+- Ist ein wichtiger Bestandteil zahlreicher Enzyme
 - Kupferenzyme sind überall vorhanden, am meisten jedoch in Hirn, Leber, Herz
+	- Wird für die Energiegewinnung in der Körperzelle und die Zellatmung benötigt
 - vermutlich an elektrischer Kommunikation beteiligt
 
  ## Besonderheiten
@@ -24,16 +26,16 @@
 		- Energieträger des Köfpers
 - durch kuppfer wird eisen im Blut freigesetzt
 ## Kupferhaltige Lebensmittel
-- Cashews
+- [Cashew Kern](../Rohstoffe/Cashew.md#Cashew%20Kern)
 - Kichererbsen
 - Grünkohl
 - roher Kakao
 - Sesam
 - Quinoa
-- Mandeln
+- [Mandelnkern](../Rohstoffe/Mandelnkern.md)
 - Linsen
 - Chia Saat
 - Avocados
 - Rosinen
 - Gerste
-- Haferflocken
+- [Haferflocken](../Rohstoffe/Haferflocken.md)

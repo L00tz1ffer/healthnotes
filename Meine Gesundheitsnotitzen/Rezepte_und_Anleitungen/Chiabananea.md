@@ -2,7 +2,7 @@
 ## Zutaten
 - ca 40g [Chiasamen](../Stoffe/Rohstoffe/Chia.md) oder [Leinsamen](../Stoffe/Rohstoffe/Leinsamen.md)
 - 2 Bananen
-- 1 [Zitrone](../Stoffe/Rohstoffe/Zitrone.md)
+- 1 [Zitrone](../Stoffe/Rohstoffe/Zitrusfrüchte/Zitrone.md)
 
 
 ## Zubereitung
