@@ -32,6 +32,45 @@
         }
       },
       {
+        "id": "11b53a486f99d3e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wichtige_Persönlichkeiten/Sun Tzu.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "657349e2cc630588",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Menschlicher_Körper/Lunge.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "43344cb3a9674f71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossar/Glossar.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "391ce1ba615b935a",
         "type": "leaf",
         "state": {
@@ -48,13 +87,8 @@
         "id": "b24baed656f289df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -112,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,20 +177,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "494c08a9d62b23e9",
+  "active": "b24baed656f289df",
   "lastOpenFiles": [
-    "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Menschlicher_Körper/Leiden/Diabetes/Diabetes.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Fluorid.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kalzium.md",
-    "Stoffe/Rohstoffe/Kalziumflourid.md",
-    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
-    "Glossar/Keton.md",
-    "Glossar/Ketoacetose.md",
-    "Glossar/Aceton.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md"
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Datenbank Elemente des Periodensystems.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Antimon.md",
+    "Wichtige_Persönlichkeiten/Sun Tzu.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Iod.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Allgemeine Tipps.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Kriegskunst/Kriegskunst.md",
+    "Tipps_für_den_Alltag/Allgemeine Tipps/Lesen von Studien.md",
+    "Tipps_für_den_Alltag/Nützliche Dateien.md",
+    "Interessante Links.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Lithium.md"
   ]
 }

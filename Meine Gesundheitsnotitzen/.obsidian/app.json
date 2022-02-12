@@ -15,7 +15,7 @@
   "newLinkFormat": "relative",
   "readableLineLength": false,
   "showLineNumber": true,
-  "foldIndent": true,
-  "foldHeading": true,
+  "foldIndent": false,
+  "foldHeading": false,
   "attachmentFolderPath": "./__Attachments"
 }

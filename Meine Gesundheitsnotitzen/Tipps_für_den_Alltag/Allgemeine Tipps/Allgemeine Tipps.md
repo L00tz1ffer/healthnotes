@@ -8,4 +8,5 @@ Der Wichtigste Tipp von allen will gleich vorweg gegeben werden. Er ist [Sonoche
 - [Leichteres Lernen](Leichteres%20Lernen.md)
 - [Küchentipps](Küchentipps.md)
 - [Rhetorik](Rhetorik/Rhetorik.md)
-- 
+- [Kriegskunst](Kriegskunst/Kriegskunst.md)
+- [Manifestieren](__Attachments/Einfaches%20Manifestieren%20E-Book.pdf)
