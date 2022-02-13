@@ -1,14 +1,16 @@
 # Dirk Hamer Syndrom
 kurz
 # DHS
+oder auch
+# Biologischer Konflikt
 
 - Das DHS beschreibt einen Biologischen Konflikt, welcher im Moment des Geschehens folgende Kriterien erfüllt:
 	1. [SBS ist gebunden an Kausalitäten](DHS.md#1%20SBS%20ist%20gebunden%20an%20Kausalitäten)
 		- Hochakut Dramatisch
 		- unerwartet
 		- [Isolativ](DHS.md#Auflösung%20der%20Isolation) isolativ empfunden
-	2. [2 Art der Empfindung bestimmt SBS SBS md](DHS.md#2%20Art%20der%20Empfindung%20bestimmt%20SBS%20SBS%20md)
-	3. [SBS](SBS.md) findet synchron auf allen 3 Ebenen des Seins statt
+	2. [2 Art der Empfindung bestimmt SBS](DHS.md#2%20Art%20der%20Empfindung%20bestimmt%20SBS)
+	3. [3 SBS findet synchron auf allen 3 Ebenen des Seins statt](DHS.md#3%20SBS%20findet%20synchron%20auf%20allen%203%20Ebenen%20des%20Seins%20statt)
 
 ## 1. SBS ist gebunden an Kausalitäten
 ### Erklärung
@@ -30,13 +32,20 @@ kurz
 	- am besten jemand der sich in die Lage versetzen kann oder vergleichbares erlebt hat
 - Jemandem erzählen der gerade in der selben Situation steckt, **Dies ist die Ideallösung**
 
-## 2. Art der Empfindung bestimmt [SBS](SBS.md)
+## 2. Art der Empfindung bestimmt SBS
 - Konfliktinhalt wird im Moment der biologischen Aktivierung definiert
 - jeder spezifische Konfliktinhalt hat eine bestimmte Lokalisation des [Hamerschen Herdes](Hamerscher_Herd.md#Hamerscher%20Herd)
-- 
+- [Tabelle GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
+
+## 3. SBS findet synchron auf allen 3 Ebenen des Seins statt
+- siehe [Tabelle GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
+- CT Aufnahme ohne kontrastmittel zeigen immer paralell zum betroffnen Organ und bestimmten psychologischen Mustern direkte korellationen bezogen relativ zum Konflikt
+	- einzige Bedingung -> entsprechend genaue Diagnosegeräte
+- Die 3 Ebenen sind unzertrennlich
+- Diese Veränderungen, die sichtbaren oder Wahrnehmbaren Sympthome sind NUR FOLGEN DES DHS
 
 
 
 
-## Biologischer Konflikt
+
 

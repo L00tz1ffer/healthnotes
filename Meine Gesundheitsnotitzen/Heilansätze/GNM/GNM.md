@@ -5,7 +5,7 @@ kurz
 # GNM
 
 ## Was ist die Germanische neue Medizin?
-- Die Germanische Medizin umfasst eine vollständige Medizinlehre basierend auf den [5 Biologische Naturgesetzen](5BN/__5_Biologische_Naturgesetze.md#5%20Biologische%20Naturgesetze)
+- Die Germanische Medizin umfasst eine vollständige Medizinlehre basierend auf den [5 Biologische Naturgesetzen](5BN/5%20Biologische%20Naturgesetze.md#5%20Biologische%20Naturgesetze)
 - Sie ist frei von Dogmen, bedarf keiner komplizierter Hypothesen oder Statistischer Wahrscheinlichkeit
 - Ist logisch aufgebaut, gut verständlich, nachvollziehbar und i.d.r. zuverlässig
 - erhebt den Anspruch für alle "Krankheiten" eine Erklärung in Form eines [Sinnvollen Biologischen Sonderprogramms](SBS.md#Sinnvolles%20Biologisches%20Sonderprogramm) zu haben
