@@ -62,5 +62,8 @@ kurz
 		- Becherzellen
 		- Lungenbeutel
 	- auch hier kann es bei entsprechender Konfliktkonstellation zur spezifischen Aktivierung eines [SBS](SBS.md#SBS) kommen!
+- 
 
-
+## Tabelle der GNM Zusammenhänge
+**Freiwilliger zur vervollständigung gesucht**
+[noch nicht fertige Tabelle der GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
