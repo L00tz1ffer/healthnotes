@@ -89,7 +89,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/GNM/Hamerscher_Herd.md",
+            "file": "Heilansätze/GNM/GNM.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/GNM/Hamerscher_Herd.md",
+                "file": "Heilansätze/GNM/GNM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/GNM/Hamerscher_Herd.md"
+                "file": "Heilansätze/GNM/GNM.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "b24baed656f289df",
   "lastOpenFiles": [
-    "Heilansätze/GNM/Hamerscher_Herd.md",
+    "Heilansätze/GNM/GNM.md",
     "Heilansätze/GNM/DHS.md",
-    "Heilansätze/GNM/5BN/1._Biologisches_Naturgesetz.md",
-    "Heilansätze/GNM/SBS.md",
+    "Menschlicher_Körper/Leiden/Tumor/Tumor.md",
+    "Menschlicher_Körper/Leiden/Tumor/Metastase.md",
+    "Menschlicher_Körper/Leiden/Tumor/Krebs.md",
+    "Menschlicher_Körper/Leiden/__Leiden.md",
+    "Glossar/Autoimmunerkrankungen.md",
     "Glossar/__Glossar.md",
-    "Glossar/Symptom.md",
-    "Glossar/Stress.md",
-    "Heilansätze/GNM/Schiene.md",
-    "Heilansätze/GNM/5BN/Rezidiv.md",
-    "Glossar/Selativum.md"
+    "Heilansätze/GNM/SBS.md",
+    "Heilansätze/GNM/Symphatikotonie.md"
   ]
 }

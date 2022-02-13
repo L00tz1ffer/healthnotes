@@ -1,4 +1,6 @@
 # Dirk Hamer Syndrom
+kurz
+# DHS
 
 - Das DHS beschreibt einen Biologischen Konflikt, welcher im Moment des Geschehens folgende Kriterien erfüllt:
 	1. [SBS ist gebunden an Kausalitäten](DHS.md#1%20SBS%20ist%20gebunden%20an%20Kausalitäten)

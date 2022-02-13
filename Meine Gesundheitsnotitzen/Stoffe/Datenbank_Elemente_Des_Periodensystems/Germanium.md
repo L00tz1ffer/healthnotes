@@ -2,7 +2,7 @@
 - ist nicht besonders bioverfügbar
 - Mobilisiert die Sauerstoffversorgung im Körper
 - Kurbelt das [Immunsystem](../../Glossar/Immunsystem.md) an
-	- kann möglicherweise negative Einflüsse auf [Autoimmunerkrankungen](../../Menschlicher_Körper/Leiden/Autoimmunerkrankungen.md) haben
+	- kann möglicherweise negative Einflüsse auf [Autoimmunerkrankungen](../../Glossar/Autoimmunerkrankungen.md) haben
 - Antiparasitäre Funktion
 
 ## Germaniumreiche Heilpflanzen
