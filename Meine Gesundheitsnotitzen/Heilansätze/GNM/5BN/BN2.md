@@ -77,6 +77,8 @@ Mögliche Erschenungsformen der Epi-Kriese sind:
 - Durchfall
 - Asthma
 - Husten
+- Kopfschmerzen
+- Verstopfung
 
 Es gibt keinen Umweg um die Epi-Kriese.
 Die Epi-Kriese **kann** tödlich verlaufen
@@ -90,11 +92,38 @@ Die Epi-Kriese **kann** tödlich verlaufen
 		
 ### Parasymphatomimetika
 - Dämpfen die [Vagotonie](BN2.md#Vagotonie)
-##### Links zu Natürlichen Parasymphatomimetika
-- <https://www.monkeyfit.de/vagusnerv-stimulieren>
-- <https://de.laroutedesenergies.com/wie-man-den-vagusnerv-auf-naturliche-weise-stimuliert>
-- <https://anti-stress-team.de/blog/stress/vagusnerv/>
-##### Parasymphatomimetische Nahrungsmittel
-- [Knoblauch](../../../Stoffe/Rohstoffe/Knoblauch.md)]
 
+##### Parasymphatomimetische Nahrungsmittel
+- [Apfelessig](../../../Stoffe/Rohstoffe/Apfelessig.md)
+- [Knoblauch](../../../Stoffe/Rohstoffe/Knoblauch.md#Knoblauch)
+- [Zwiebeln](../../../Stoffe/Rohstoffe/Zwiebel.md#Zwiebeln)
+- [Tryptophan](../../../Stoffe/Nahrungs_Inhaltsstoffe/Eiweiße/Tryptophan.md#Tryptophan) reiche Nahrungsmittel
+- Knochenbrühe (z.B. [Hühnersuppe](../../../Rezepte_und_Anleitungen/Hühnersuppe.md#Hühnersuppe))
+- basische Ernähurng
+- Fleisch von Wild gefangenen Tieren
+
+##### Parasymphatomimetische Übungen
+- Atemfrequenz senken (etwa 3-9 Atemzüge / Minute)
+- Hals / Nackenmassage -> Nahe der Halsschlagader verläuft eine der Hauptadern des Vagusnerv
+- Gurgeln
+- OM Chanten
+- Singen
+- tiefes Summen
+- Ausdauersport
+- Tanzen
+- Augen
+	- Augenpressur
+		- Hände ganz sanft gegen die geschlossenen Augen pressen
+	- Abwechselnd nahes objekt und ferns objekt fokussieren
+	- Augenbrauen rythmisch heben und senken
+- Yoga
+- kalt Duschen
+	- wechselduschen
+- Saunieren
+- Zucker meiden
+- [Fasten](../../../Glossar/Fasten.md#Fasten)
+- spazieren gehen
+- Zunge an den Gamen drücken
+- [Meditation](../../Meditation.md#Meditation)
+	- innenschau
 

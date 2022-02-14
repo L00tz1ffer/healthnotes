@@ -5,3 +5,4 @@
 [Naturmedizin](Naturmedizin/Naturmedizin.md)
 [TCM](TCM/TCM.md)
 [Schulmedizin](Schulmedizin/Schulmedizin.md)
+[Meditation](Meditation.md#Meditation)
