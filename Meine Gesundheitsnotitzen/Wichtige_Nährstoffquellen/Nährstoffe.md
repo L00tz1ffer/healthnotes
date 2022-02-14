@@ -24,3 +24,5 @@
 [Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md)
 [Frische Mineralien](Frische%20Mineralien.md)
 [Salz](../Stoffe/Rohstoffe/Salze/Salz.md)
+
+https://www.youtube.com/watch?v=UqLuyop6Xtc

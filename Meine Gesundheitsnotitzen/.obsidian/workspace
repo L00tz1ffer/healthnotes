@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
+            "file": "Wichtige_Nährstoffquellen/Nährstoffe.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
+                "file": "Wichtige_Nährstoffquellen/Nährstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md"
+                "file": "Wichtige_Nährstoffquellen/Nährstoffe.md"
               }
             }
           },
@@ -110,6 +110,7 @@
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Wichtige_Nährstoffquellen/Nährstoffe.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
     "Menschlicher_Körper/Magen-Darm-Trakt.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
@@ -118,7 +119,6 @@
     "Heilansätze/GNM/5BN/BN2/BN2.md",
     "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
     "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
-    "Heilansätze/GNM/5BN/BN2/Epi-Kriese.md",
-    "Heilansätze/__Heilansätze.md"
+    "Heilansätze/GNM/5BN/BN2/Epi-Kriese.md"
   ]
 }
