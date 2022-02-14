@@ -23,10 +23,10 @@ kurz
 	- Maus nimmt hier tödliche Bedrohung wahr
 		- mobilisiert kräfte zum wegrennen
 	- in extremsituationen werden ungeahnte kräfte frei
-		- Maus gerät in [Symphatikotonie](5BN/BN2.md#Symphatikotonie)
+		- Maus gerät in [Symphatikotonie](5BN/BN2/BN2.md#Symphatikotonie)
 			- aktivierung eines [Sinnvolles Biologisches Sonderprogramm](SBS.md#Sinnvolles%20Biologisches%20Sonderprogramm)
 				- zusätzliche Lungenbläschen bereitgestellt um besser wegrennen können
-			- nach erfolgreicher Flucht setzt [Vagotonie](5BN/BN2.md#Vagotonie) ein
+			- nach erfolgreicher Flucht setzt [Vagotonie](5BN/BN2/BN2.md#Vagotonie) ein
 				- Verschnaufpause und Rückbau der zusätzlich angelegten Gewebsstrukturen
 #### Übertragen auf den Mensch
 - bekommt vom Arzt eine Todesdiagnose
@@ -34,13 +34,13 @@ kurz
 		- mobilisiert kräfte zum wegrennen in form eines [Sinnvolles Biologisches Sonderprogramm](SBS.md#Sinnvolles%20Biologisches%20Sonderprogramm)
 			- flucht ist nicht möglich, da es sich um ein virtuelles konzept handelt
 				- todesangst hört nicht auf, wird zum Dauerzustand
-					- schlaflosigkeit, kein Appetit, [Vagotonie](5BN/BN2.md#Vagotonie)
+					- schlaflosigkeit, kein Appetit, [Vagotonie](5BN/BN2/BN2.md#Vagotonie)
 					- große differenz in zeitkorrelation
 						- Maus wird entweder gefressen oder entkommt
 						- Mensch hat dauerhaft den Wegrennimpuls, baut kontinuierlich durch aktivität des [SBS](SBS.md#SBS) Fluchtkapazitäten auf
 						- durch überschuss an Zellstrukturen kommt besserer [Sauerstoff](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Sauerstoff.md) zufuhr
 							- Diagnose des Arztes bei erstmaliger Wahrnehmung dieses Prozesses ist die Diagnose eines bösartigen [Tumor](../../Menschlicher_Körper/Leiden/Tumor/Tumor.md) - eíne gestreute [Metastase](../../Menschlicher_Körper/Leiden/Tumor/Metastase.md)
-				- Im Falle einer Entwarnung tritt [Vagotonie](5BN/BN2.md#Vagotonie) ein
+				- Im Falle einer Entwarnung tritt [Vagotonie](5BN/BN2/BN2.md#Vagotonie) ein
 					- Zellrückbau beginnt
 						- In diesem Fall in Form von Lungentuberkulose
 							- nächste negative Diagnose vom Arzt
@@ -49,7 +49,7 @@ kurz
 							- Tuberkel sind die Müllabfuhr!
 #### Beleg für das gezeichnete Bild?
 - Nach dem Schluss des Waffenstillstandes zum zweiten Weltkrieg gab es in Deutschland ein enormes aufkommen der Lungentuberkulose
-	- kann es sein, dass aufgrund des Waffenstillstandes sich das [BN1](5BN/BN1.md#DHS), in Form des Weglaufkonfliktes aufgelöst hatte und hierdurch die [Vagotonie](5BN/BN2.md#Vagotonie) nach langen Jahren der [Symphatikotonie](5BN/BN2.md#Symphatikotonie) einsetzen konnte?
+	- kann es sein, dass aufgrund des Waffenstillstandes sich das [BN1](5BN/BN1.md#DHS), in Form des Weglaufkonfliktes aufgelöst hatte und hierdurch die [Vagotonie](5BN/BN2/BN2.md#Vagotonie) nach langen Jahren der [Symphatikotonie](5BN/BN2/BN2.md#Symphatikotonie) einsetzen konnte?
 	- Wie wahrscheinlich ist das alle eine Infektion hatten?
 
 #### Lungenkrebs ist nicht gleich Lungenkrebs
@@ -69,4 +69,4 @@ kurz
 
 ## Tabelle der GNM Zusammenhänge
 **Freiwilliger zur vervollständigung gesucht**
-[Tabelle der GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
+[Tabelle der GNM Zusammenhänge](__Attatchments/Tabelle%20GNM%20Zusammenhänge.ods)

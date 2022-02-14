@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "391ce1ba615b935a",
+        "id": "416cf5049de1ed0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/GNM/5BN/BN2.md",
+            "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/GNM/5BN/BN2.md",
+                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/GNM/5BN/BN2.md"
+                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md"
               }
             }
           },
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "391ce1ba615b935a",
+  "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
-    "Heilansätze/GNM/5BN/BN2.md",
-    "Heilansätze/__Heilansätze.md",
-    "Heilansätze/Meditation.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Aminosäuren/Tryptophan.md",
-    "Heilansätze/GNM/GNM.md",
-    "Glossar/Immunsystem.md",
-    "Glossar/__Glossar.md",
-    "Menschlicher_Körper/Lunge.md",
-    "Wichtige_Persönlichkeiten/Sun Tzu.md",
-    "Menschlicher_Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
+    "Menschlicher_Körper/Magen-Darm-Trakt.md",
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
+    "Heilansätze/GNM/5BN/BN3/BN3.md",
+    "Heilansätze/GNM/5BN/BN1.md",
+    "Heilansätze/GNM/5BN/BN2/BN2.md",
+    "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
+    "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
+    "Heilansätze/GNM/5BN/BN2/Epi-Kriese.md",
+    "Heilansätze/__Heilansätze.md"
   ]
 }
