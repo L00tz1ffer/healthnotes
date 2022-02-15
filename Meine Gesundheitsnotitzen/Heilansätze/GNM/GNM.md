@@ -39,7 +39,7 @@ kurz
 						- Maus wird entweder gefressen oder entkommt
 						- Mensch hat dauerhaft den Wegrennimpuls, baut kontinuierlich durch aktivität des [SBS](SBS.md#SBS) Fluchtkapazitäten auf
 						- durch überschuss an Zellstrukturen kommt besserer [Sauerstoff](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Sauerstoff.md) zufuhr
-							- Diagnose des Arztes bei erstmaliger Wahrnehmung dieses Prozesses ist die Diagnose eines bösartigen [Tumor](../../Menschlicher_Körper/Leiden/Tumor/Tumor.md) - eíne gestreute [Metastase](../../Menschlicher_Körper/Leiden/Tumor/Metastase.md)
+							- Diagnose des Arztes bei erstmaliger Wahrnehmung dieses Prozesses ist die Diagnose eines bösartigen [Tumor](../../Menschlicher%20Körper/Leiden/Tumor/Tumor.md) - eíne gestreute [Metastase](../../Menschlicher%20Körper/Leiden/Tumor/Metastase.md)
 				- Im Falle einer Entwarnung tritt [Vagotonie](5BN/BN2/BN2.md#Vagotonie) ein
 					- Zellrückbau beginnt
 						- In diesem Fall in Form von Lungentuberkulose
@@ -66,6 +66,8 @@ kurz
 
 ## Die 5 Gesetze erklärt
 [Das 1 Biologische Naturgesetz](5BN/BN1.md#Das%201%20Biologische%20Naturgesetz)
+[Das 2 Biologische Naturgesetz](5BN/BN2/BN2.md#Das%202%20Biologische%20Naturgesetz)
+[Das 3 Biologische Naturgesetz](5BN/BN3/BN3.md#Das%203%20Biologische%20Naturgesetz)
 
 ## Tabelle der GNM Zusammenhänge
 **Freiwilliger zur vervollständigung gesucht**

@@ -32,7 +32,7 @@ Inhaltsstoffangaben beziehen sich auf 100g Cashewkerne
 
 ## Cashew Rinde
 ### Anwendungsmöglichkeiten
-- [Zahnfleisch](../../Menschlicher_Körper/Zahnfleisch.md)entzündung
+- [Zahnfleisch](../../Menschlicher%20Körper/Zahnfleisch.md)entzündung
 - Haut Ausschläge
 
 ## Blattwerk

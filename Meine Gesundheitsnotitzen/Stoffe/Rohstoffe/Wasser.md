@@ -57,6 +57,6 @@ Sprach oder impregnierte man jedoch Angst, Hass, Furcht oder Missgunst dem Wasse
 Quelle: Emoto Masaru
 
 #### Fragen die sich daraus Ergeben:
-- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps_für_den_Alltag/Gesprächskultur.md) auf unsere Gesundheit?
-- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps_für_den_Alltag/Gesprächskultur.md) auf unser Allgemeinwohl?
+- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps%20für%20den%20Alltag/Gesprächskultur.md) auf unsere Gesundheit?
+- Welchen Einfluss hat unsere [Gesprächskultur](../../Tipps%20für%20den%20Alltag/Gesprächskultur.md) auf unser Allgemeinwohl?
 - Wären wir nicht alle deutlich näher dem Paradies wenn wir in unseren Mitmenschen die Schönheit hervorheben würden - an stelle ihrer aus unserer Sicht ungünstigen Eigenschaften?

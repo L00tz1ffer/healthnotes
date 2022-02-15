@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wichtige_Nährstoffquellen/Nährstoffe.md",
+            "file": "Stoffe/Rohstoffe/Cashew.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,6 +49,14 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "87bc18c7f1150228",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -71,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wichtige_Nährstoffquellen/Nährstoffe.md",
+                "file": "Stoffe/Rohstoffe/Cashew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige_Nährstoffquellen/Nährstoffe.md"
+                "file": "Stoffe/Rohstoffe/Cashew.md"
               }
             }
           },
@@ -101,24 +109,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
-    "Wichtige_Nährstoffquellen/Nährstoffe.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
-    "Menschlicher_Körper/Magen-Darm-Trakt.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
+    "Stoffe/Rohstoffe/Cashew.md",
+    "Heilansätze/GNM/GNM.md",
     "Heilansätze/GNM/5BN/BN3/BN3.md",
     "Heilansätze/GNM/5BN/BN1.md",
-    "Heilansätze/GNM/5BN/BN2/BN2.md",
-    "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
-    "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
-    "Heilansätze/GNM/5BN/BN2/Epi-Kriese.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige Lebensmittel.md",
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
+    "Tipps für den Alltag/Gesprächskultur.md",
+    "Tipps für den Alltag/Nützliche Dateien.md",
+    "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
+    "Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md"
   ]
 }

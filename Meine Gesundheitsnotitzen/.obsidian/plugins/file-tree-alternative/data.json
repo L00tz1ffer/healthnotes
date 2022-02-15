@@ -1,0 +1,19 @@
+{
+  "ribbonIcon": true,
+  "showRootFolder": true,
+  "showFilesFromSubFolders": false,
+  "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
+  "showFilesFromSubFoldersButton": true,
+  "revealActiveFileButton": true,
+  "excludedExtensions": "",
+  "folderIcon": "typicon",
+  "folderCount": true,
+  "folderCountOption": "notes",
+  "evernoteView": true,
+  "filePreviewOnHover": true,
+  "sortFilesBy": "name",
+  "fixedHeaderInFileList": false,
+  "createdYaml": false,
+  "fileNameIsHeader": true
+}

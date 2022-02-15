@@ -9,12 +9,12 @@ Vielleicht ist der Kentaur Chiron, der sein Kräuterwissen an den  Heilgott Askl
 Er hatte aber dadurch einen unmittelbaren, instinktiven Zugang zum Wissen. Einige der wichtigsten Heilpflanzen tragen noch heute 
 seinen Namen, wie etwa das [Tausendgüldenkraut](../Stoffe/Rohstoffe/Tausendgüldenkraut.md)
 (Erythraea centaurium), eines der Lieblingsmittel
-von [Paracelsus](../Wichtige_Persönlichkeiten/Paracelsus.md)...
+von [Paracelsus](../Wichtige%20Persönlichkeiten/Paracelsus.md)...
 
 Bei Indigenen Völkern findet man die Wurzeln des damaligen Naturverständnisses noch heute, Myhen und Sagen, Märchen und Erzälungen lassen uns in die verlorene Zeit unserer Vergangenheit eintauchen, da noch Riesen und Kentauren unsere Wälder durchstreiften.
 
 ### [Atlantis](Atlantis.md)
-- Möglicherweise so vermute wie viele Spirituelle Meister so auch [Rudolf Steiner](../Wichtige_Persönlichkeiten/Rudolf%20Steiner.md), gilt Atlantis als der Ort, an dem man nach der Quelle für die Heilkunst suchen müssen, Gründeten doch die Überlebenden der einstigen Hochkultur an verschiedenen Stellen der Erde ihre Mysterienschulen, beispielsweise in Indien, wo aus dieser begebenheit die [Vedische Kultur](Veden.md) entstand. Analog zu dieser Weltsicht müssten entsprechend auch die Menhirkultstätten wie etwa Stonehenge von Nachfahren der Atlanter stammen. 
+- Möglicherweise so vermute wie viele Spirituelle Meister so auch [Rudolf Steiner](../Wichtige%20Persönlichkeiten/Rudolf%20Steiner.md), gilt Atlantis als der Ort, an dem man nach der Quelle für die Heilkunst suchen müssen, Gründeten doch die Überlebenden der einstigen Hochkultur an verschiedenen Stellen der Erde ihre Mysterienschulen, beispielsweise in Indien, wo aus dieser begebenheit die [Vedische Kultur](Veden.md) entstand. Analog zu dieser Weltsicht müssten entsprechend auch die Menhirkultstätten wie etwa Stonehenge von Nachfahren der Atlanter stammen. 
 - Von einem nur von belegbaren Fakten abhängigen Standpunkt auf die dinge schaut ist sowas geradezu lächerlich.
 ### Der Priester
 - Es scheint als wären Schamanen Einzelgänger gewesen, bis sich in der nachatlantischen Zeit Priesterkasten formten
@@ -28,6 +28,6 @@ Bei Indigenen Völkern findet man die Wurzeln des damaligen Naturverständnisses
 - Der Nil gilt als die Wiege der [Alchemie](Alchemie.md)
 	- oder auch Cham
 	- Das Schwarze Land
-- hier soll [Hermes Trismegistos](../Wichtige_Persönlichkeiten/Hermes%20Trismegistos.md) gelebt und gewirkt haben
+- hier soll [Hermes Trismegistos](../Wichtige%20Persönlichkeiten/Hermes%20Trismegistos.md) gelebt und gewirkt haben
 	- War bekannt dafür Krankheit als Dysharmonie zu verstehen
 	- er predigte Arzneien sind nur "Engelhafte Freunde" für die Reise zu Harmonie mit Natur und Umfeld

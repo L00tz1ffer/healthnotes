@@ -8,6 +8,6 @@
 	- Kupfer Wand Experiment
 	- ist es möglich, dass viele Herzkrankeiten durch [Silizium](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Silizium.md)oxidmangel in der Nahrung verursacht werden?
 	- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/silizium_im_Wasser.png)
-		- Quelle: Nährstofflabyrinth - Dr. [Andreas Noack](../../Wichtige_Persönlichkeiten/Andreas%20Noack.md)
+		- Quelle: Nährstofflabyrinth - Dr. [Andreas Noack](../../Wichtige%20Persönlichkeiten/Andreas%20Noack.md)
 	- Ein Elektromagneitscher Feldgenerator
 	- reichert Quarz / [Silizium](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Silizium.md)oxid an mit der Intention auf piezoelektrischer Bewegung beruhend einen elektromagnetischen Puls räumlich zu etablieren

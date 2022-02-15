@@ -1,6 +1,6 @@
 # Bor
 - 30mg sind relativ gute menge
-	- Das Element für [Sexualität](../../Menschlicher_Körper/Sexualität.md)
+	- Das Element für [Sexualität](../../Menschlicher%20Körper/Sexualität.md)
 	- Grundlegend für Gesundheut
 	- entkalkt die Zirbeldrüse
 	- löst [Fluorid](Fluorid.md) aus der Zirbeldrüse

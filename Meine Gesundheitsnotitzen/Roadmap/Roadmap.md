@@ -3,7 +3,7 @@
 - [ ] Restrukturierung des [Index](../Index.md)
 - [ ] Mehr über die einzelnen Elemente herausfinden
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
-- [ ] Mein [Nutella](../Rezepte_und_Anleitungen/Nutella.md) Rezept einarbeiten
+- [ ] Mein [Nutella](../Rezepte%20und%20Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
 	- [ ] [B-Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
@@ -20,7 +20,7 @@
 	- [ ] [Brennessel](../Stoffe/Rohstoffe/Brennessel.md)
 	- [ ] [Goldrute](../Stoffe/Rohstoffe/Goldrute.md)
 	- [ ] [Carnitin](../Stoffe/Rohstoffe/Carnitin.md)
-	- [ ] [Ursuppe](../Rezepte_und_Anleitungen/Ursuppe.md)
+	- [ ] [Ursuppe](../Rezepte%20und%20Anleitungen/Ursuppe.md)
 	- [ ] [Granatapfel](../Stoffe/Rohstoffe/Granatapfel.md)
 	- [ ] [Karrotte](../Stoffe/Rohstoffe/Karrotte.md)
 	- [ ] [Hühnerfleisch](../Stoffe/Rohstoffe/Hühnerfleisch.md)
@@ -41,8 +41,8 @@
 - [ ] Diabetes
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/
-	- [ ] [Diabetes Typ I](../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md)
-	- [ ] [Diabetes Typ II](../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)]
+	- [ ] [Diabetes Typ I](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md)
+	- [ ] [Diabetes Typ II](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)]
 	- [ ] ![Chrom, Kupfer, Selen & Zink bei Diabetes Typ 1 & 2](__Attatchments/10.1515_jlm.2006.031.pdf)
-- [ ] [Etienne Szekely](../Wichtige_Persönlichkeiten/Etienne%20Szekely.md)
+- [ ] [Etienne Szekely](../Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
 	- [ ] http://www.hyperinfo.ca/LivingAtom/HomePage.html

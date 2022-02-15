@@ -47,10 +47,10 @@ zeichnet sich im wesentlichen nicht durch einen [Insulin](../../Stoffe/Nahrungs_
 6. [Kohlenhydrate](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) sind nicht die einzige Blutzuckerquelle
 	- GLP1 Horomone hat großen Einfluss auf den Blutzucker
 7. Ketose ist nicht Ketoacetose
-	- [Robert Atkins](../../../../Wichtige_Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
+	- [Robert Atkins](../../../../Wichtige%20Persönlichkeiten/Robert%20Atkins.md), der Vater der Low [Carb](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) kam auf die Idee die Idee Menschen, die auf Low Carb waren Ihren Urin auf Ketone zu teste
 	Ergebnis: Auch wenn du dein Körperfett metabolisiertst entstehen Ketone
 8. Menschen brauchen Proteine
 
 [Fasten bei Diabetes](../../../../Glossar/Fasten.md#Fasten%20bei%20Diabetes)
 
-[Blutzucker Datenbank](../../../../Tipps_für_den_Alltag/Nützliche_Dateien.md#Blutzucker%20Datenbank)]
+[Blutzucker Datenbank](../../../../Tipps%20für%20den%20Alltag/Nützliche%20Dateien.md#Blutzucker%20Datenbank)]

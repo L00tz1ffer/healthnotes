@@ -4,7 +4,7 @@ Es folgt eine Grafik der Vulkankurve der Kathalytisch aktiven Metalle
 
 >![Grafik der Vulkankurve der Kathalytisch aktiven Metalle Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/vulkankurve.png)
 >Grafik der Vulkankurve der Kathalytisch aktiven Metalle
-Quelle: Nährstofflabyrinth - [Dr. Andreas Noack](../Wichtige_Persönlichkeiten/Andreas%20Noack.md)
+Quelle: Nährstofflabyrinth - [Dr. Andreas Noack](../Wichtige%20Persönlichkeiten/Andreas%20Noack.md)
 
 - Je höher in der Vulkankurve desto höher die Gitterenergie
 - Je höher die Gitterenergie desto 

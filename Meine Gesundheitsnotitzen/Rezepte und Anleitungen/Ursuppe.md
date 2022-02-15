@@ -1,6 +1,6 @@
 # Ursuppe (Alchemistischer Mineralcoctail)
 ## Quelle
-Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darmstädter Chemiker, Alchemisten und Erfinder, sowie inspirator für dieses Werk: [Andreas Noack](../Wichtige_Persönlichkeiten/Andreas%20Noack.md)
+Diese Rezeptur stammt vom leider im Jahre 2021 mit 58 Jahren verstorbenenen Darmstädter Chemiker, Alchemisten und Erfinder, sowie inspirator für dieses Werk: [Andreas Noack](../Wichtige%20Persönlichkeiten/Andreas%20Noack.md)
 
 ### Vorbereitung
 1. Holz Verbrennen

@@ -3,7 +3,7 @@
 ## Zutaten
 - [Cashew kerne](../Stoffe/Rohstoffe/Cashew.md)
 - [Olivenöl](../Stoffe/Rohstoffe/Olivenöl.md)
-- [Salz](../Stoffe/Rohstoffe/Salze/Salz.md), am besten [Himalaya Salz](../Wichtige_Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige_Lebensmittel.md#Himalaya%20Salz)
+- [Salz](../Stoffe/Rohstoffe/Salze/Salz.md), am besten [Himalaya Salz](../Wichtige%20Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige%20Lebensmittel.md#Himalaya%20Salz)
 
 ## Zubereitung
 1. nimm eine beschichtete Pfanne mit möglichst kleiner Oberfläche

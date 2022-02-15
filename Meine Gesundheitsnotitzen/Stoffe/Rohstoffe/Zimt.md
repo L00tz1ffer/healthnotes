@@ -20,4 +20,4 @@ Parasiten die bei Autoimmunerkrankungen infrage kommen scheinen Cumarin weniger 
 Scheint noch besser geeignet zu sein den Blutzuckerspiegel zu senken
 
 ## Studien
-- [Offensichtlich scheint Zimt ein guter Blutzuckersenker zu sein](https://www.researchgate.net/publication/224949199_Cinnamon_in_glycaemic_control_Systematic_review_and_meta_analysis) -> [Diabetes Typ I](../../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../Menschlicher_Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)
+- [Offensichtlich scheint Zimt ein guter Blutzuckersenker zu sein](https://www.researchgate.net/publication/224949199_Cinnamon_in_glycaemic_control_Systematic_review_and_meta_analysis) -> [Diabetes Typ I](../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)

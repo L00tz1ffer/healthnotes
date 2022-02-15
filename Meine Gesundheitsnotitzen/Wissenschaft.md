@@ -18,15 +18,15 @@ Daraus bildeten sich die uns bekannten Naturwissenschaften heraus.
 Die Idee dahinter scheint simpel. 
 Jeder hat sein Fachgebiet und stellt auf diesem seine Forschungen an und durch eine große Gruppe aus Spezialisten hat man die Chance so der Glaube ein umfassendes Bild zu zeichnen.
 
-Da jedoch jeder einzeln in seinem Fachgebiet der beste sein will, nichtzuletzt aufgrund der Tatsache, dass der Mensch dauerhaft an Energiemangel leidet und diese Energie durch [Kontrolldramen](Tipps_für_den_Alltag/Allgemeine%20Tipps/Rhetorik/Kontrolldramen/Kontrolldramen.md) nun also seinen Mitmenschen abziehen muss, weiterhin dieser Umstand nur noch den Disziplinären Spezialiste bekannt ist kommt es statt zu einer einvernehmlichen übereinstimmenden ganzheitlichen Philosophie viel mehr zu einem interdisziplinären Wettkampf in dem jeder versucht innerhalb seines Fachgebietes der beste zu sein und gleichzeitig sein Fachgebiet gegenüber seiner Kollegen als besonders elementar herauszuzeichnen. Die Folge dieser Teilung scheint also das gesamtkonstrukt in seinen Grundfesten zu erschüttern. 
+Da jedoch jeder einzeln in seinem Fachgebiet der beste sein will, nichtzuletzt aufgrund der Tatsache, dass der Mensch dauerhaft an Energiemangel leidet und diese Energie durch [Kontrolldramen](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Rhetorik/Kontrolldramen/Kontrolldramen.md) nun also seinen Mitmenschen abziehen muss, weiterhin dieser Umstand nur noch den Disziplinären Spezialiste bekannt ist kommt es statt zu einer einvernehmlichen übereinstimmenden ganzheitlichen Philosophie viel mehr zu einem interdisziplinären Wettkampf in dem jeder versucht innerhalb seines Fachgebietes der beste zu sein und gleichzeitig sein Fachgebiet gegenüber seiner Kollegen als besonders elementar herauszuzeichnen. Die Folge dieser Teilung scheint also das gesamtkonstrukt in seinen Grundfesten zu erschüttern. 
 
 Dies lässt sich recht leicht erkennen...
 Dem Biologen fehlen die Chemischen, aber auch die Physikalischen kenntnisse zum verständnis des Körpers.
 
 Dem Arzt fehlen die Chemischen, sowie die Elektrochemischen aber auch die Elektrophysikalischen Erkenntnisse, zum Verständnis wie der Körper Arbeitet. 
-Der Arzt früherer Zeiten war ein Alchemist, Ihm war klar, dass wenn der dem Gegenüber [Sonochemisch](Sonochemie/Sonochemie.md) schadet - Beispielsweise ihm durch eine Diagnose Angst macht - eine Heilung deutlich erschwert wird, einem solchen Mediziner war klar, dass er stets in einer Positiven Haltung zu verbleiben hatte, dass der Patient das Wunder der Heilung selbst vollbringen würde, wenn der Arzt ihm aufzeigen würde, wie er selbst dahin kommt, gegebenenfalls noch einige [Nährstoffe](Wichtige_Nährstoffquellen/Nährstoffe.md) nachschieben würde. Es war der Medizinmann der Wusste wo die Kräuter sind, die der Patient benötigen würde. 
+Der Arzt früherer Zeiten war ein Alchemist, Ihm war klar, dass wenn der dem Gegenüber [Sonochemisch](Sonochemie/Sonochemie.md) schadet - Beispielsweise ihm durch eine Diagnose Angst macht - eine Heilung deutlich erschwert wird, einem solchen Mediziner war klar, dass er stets in einer Positiven Haltung zu verbleiben hatte, dass der Patient das Wunder der Heilung selbst vollbringen würde, wenn der Arzt ihm aufzeigen würde, wie er selbst dahin kommt, gegebenenfalls noch einige [Nährstoffe](Wichtige%20Nährstoffquellen/Nährstoffe.md) nachschieben würde. Es war der Medizinmann der Wusste wo die Kräuter sind, die der Patient benötigen würde. 
 
-Ein hervoragendes Beispiel für diese Art von Medizinmann war [Paracelsus](Wichtige_Persönlichkeiten/Paracelsus.md). Er reiste durch die Welt und fragte was er lernen konnte, nicht etwa wie er seine Approbation behalten konnte. Es war seine selbst auferlegte Pflicht die Frage nach der Ursache eines Leidens zu stellen, allein um seines interesses Willen, woraus sich jedoch zwangsläufig eine Heilmethode ergeben müsse.
+Ein hervoragendes Beispiel für diese Art von Medizinmann war [Paracelsus](Wichtige%20Persönlichkeiten/Paracelsus.md). Er reiste durch die Welt und fragte was er lernen konnte, nicht etwa wie er seine Approbation behalten konnte. Es war seine selbst auferlegte Pflicht die Frage nach der Ursache eines Leidens zu stellen, allein um seines interesses Willen, woraus sich jedoch zwangsläufig eine Heilmethode ergeben müsse.
 
 So ein Verhalten ist in der heutigen "Anerkannten" Wissenschaft unüblich geworden.
 
@@ -80,7 +80,7 @@ Man kann niemals wissen wie es wirklich aussieht
 Der echte Wissenschaftler weiß genau, dass er nur Modelle entwickeln kann und mutmaßen das diese einen Bezug zur Realität haben.
 
 Arbeitet nach der Popperschen Philosophie
-	- nach **[Karl Popper](Wichtige_Persönlichkeiten/Karl%20Popper.md)**
+	- nach **[Karl Popper](Wichtige%20Persönlichkeiten/Karl%20Popper.md)**
 		- Wissenschaft ist aneinanderreihung von Mutmaßungen
 			- Beispiel
 				- These: 

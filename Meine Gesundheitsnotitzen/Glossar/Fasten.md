@@ -4,7 +4,7 @@
 
 ## Fasten bei Diabetes
 
-[Arnold Ehret](../Wichtige_Persönlichkeiten/Arnold%20Ehret.md)
+[Arnold Ehret](../Wichtige%20Persönlichkeiten/Arnold%20Ehret.md)
 - angeblich der Geheimtipp zum Thema Trockenfasten
 ### [Fasten bei Diabetes Typ 1](https://www.youtube.com/watch?v=fr5OpfNK8lc)
 - [Fasten bei Diabetes -> Artikel von Zentrum-der-gesundheit ](https://www.zentrum-der-gesundheit.de/news/gesundheit/allgemein-gesundheit/fasten-bei-fasten-bei-diabetes)

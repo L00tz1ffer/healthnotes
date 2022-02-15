@@ -87,10 +87,10 @@ Halt Stop! ich meine es wirklich ernst!
 Wie seht tragen wir selbst zu unserem Wohlergehen oder unserem Unglück bei?
 Bitte nehmen Sie sich einen Moment Zeit und schauen Sie kurz mal in das Dokument [Sonochemie](Sonochemie/Sonochemie.md) hinein, sie werden erstaunt sein, was dort auf Sie wartet
 
-# [Gesprächskultur](Tipps_für_den_Alltag/Gesprächskultur.md)
+# [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
 Wie gehen Sie mit Ihren Mitmenschen um?
 Wie kommen Sie zu ihren Informationen?
-Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps_für_den_Alltag/Gesprächskultur.md)
+Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](Tipps%20für%20den%20Alltag/Gesprächskultur.md)
 	
 	
 
@@ -109,8 +109,8 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	- gibt es keine Mineralien im Boden
 - Was kann man da tun?
 	- Anbau von Essen auf Humusboden
-	- Die asche Essen ([Ursuppe](Rezepte_und_Anleitungen/Ursuppe.md))
-	- [Aschedünger](Rezepte_und_Anleitungen/Aschedünger.md)
+	- Die asche Essen ([Ursuppe](Rezepte%20und%20Anleitungen/Ursuppe.md))
+	- [Aschedünger](Rezepte%20und%20Anleitungen/Aschedünger.md)
 	
 ## Molekulare Verbindungen
 ### was nicht in den Körper gehört:
@@ -142,20 +142,20 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 ## Es handelt sich bei allen folgenden Elementen um ihre Bioverfügbare Form, das Kolloid oder seine "Monoatomare"		Struktur	
 - Monoatomare Strukturen sind nicht monoatomar, sie heißen nur so
 	- Metalle sind Lebendig ! 
-		- [Etienne Szekely](Wichtige_Persönlichkeiten/Etienne%20Szekely.md)
+		- [Etienne Szekely](Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
 
 
 
-### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Stoffe/Datenbank_Elemente_Des_Periodensystems/__DB_Elements.md)
+### [Die Elemente des Periodensystems und ihre Wirkung auf unseren Körper](Stoffe/Datenbank_Elemente_Des_Periodensystems/DB%20Elements.md)
 
-### [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige_Nährstoffquellen/Nährstoffe.md)
+### [Nährstoffe, Vitamine und alles was zu einer gesunden Ernährung gehört](Wichtige%20Nährstoffquellen/Nährstoffe.md)
 
 ### [Heilsteine](Heilansätze/Heilsteine/Heilsteine.md)
 
-### [Allgemeine Tipps](Tipps_für_den_Alltag/Allgemeine%20Tipps/__Allgemeine_Tipps.md)
+### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/__Allgemeine_Tipps.md)
 
-### [Rezepte_und_Anleitungen](Rezepte_und_Anleitungen/__Rezepte_und_Anleitungen.md)
+### [Rezepte_und_Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
 
-### [Nützliche_Dateien](Tipps_für_den_Alltag/Nützliche_Dateien.md)
+### [Nützliche Dateien](Tipps%20für%20den%20Alltag/Nützliche%20Dateien.md)

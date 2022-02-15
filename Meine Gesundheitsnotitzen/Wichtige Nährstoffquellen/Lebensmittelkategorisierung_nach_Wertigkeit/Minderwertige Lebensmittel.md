@@ -11,4 +11,4 @@
 ## Brot / Backwaren
 - reich an Phosphaten
 	- Da wir ohnehin an Phosphaten deutlich übersättigt sind ist von dem Verzehr von Backwaren dringend abzuraten!
-- Eine Ausnahme sind [Sauerteigprodukte](Hochwertige_Lebensmittel.md#Sauerteigprodukte)
+- Eine Ausnahme sind [Sauerteigprodukte](Hochwertige%20Lebensmittel.md#Sauerteigprodukte)

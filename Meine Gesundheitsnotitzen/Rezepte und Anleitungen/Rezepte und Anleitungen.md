@@ -21,4 +21,4 @@
 ## [Weitere Rezepte im Internet](Weitere%20Rezepte%20im%20Internet.md)
 
 
-## [Küchentipps](../Tipps_für_den_Alltag/Allgemeine%20Tipps/Küchentipps.md)
+## [Küchentipps](../Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Küchentipps.md)

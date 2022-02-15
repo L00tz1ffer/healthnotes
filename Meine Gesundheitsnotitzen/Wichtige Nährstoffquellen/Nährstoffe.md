@@ -8,11 +8,11 @@
 	- natürliche nahrung ist reich an sio2
 		- [Kolloid](../Glossar/Kolloid.md)e (von sio2) vermögen durch die gleichnamige elektrische ladung eine Abstoßung der Roten Blutkörperchen zueinander zu bewirken, was einen intakten Blutfluss ermöglicht, gar fördert
 		- **keine [Kolloid](../Glossar/Kolloid.md)e = keine ausreichende Sauerstofftransportkapazitäten**
-			- **[Otto Warburg](../Wichtige_Persönlichkeiten/Otto%20Warburg.md): (Sauerstoffmediziner in den 1960er Jahren)** 
+			- **[Otto Warburg](../Wichtige%20Persönlichkeiten/Otto%20Warburg.md): (Sauerstoffmediziner in den 1960er Jahren)** 
 				- **"80% aller Krankheiten sind das Resultat von Sauerstoff - unterversorgung"**
 			- weitere Wichtige Namen
-				- [Manfred von Adrenne](../Wichtige_Persönlichkeiten/Manfred%20von%20Adrenne.md)
-				- [Laszlo Fodor](../Wichtige_Persönlichkeiten/Laszlo%20Fodor.md)
+				- [Manfred von Adrenne](../Wichtige%20Persönlichkeiten/Manfred%20von%20Adrenne.md)
+				- [Laszlo Fodor](../Wichtige%20Persönlichkeiten/Laszlo%20Fodor.md)
 			- **Sauerstoffpartialdruck ist relevant - nicht Sauerstoffsättigung**
 			- Eine Maus kann in Flüssigkeit getaucht ewig leben, solange der TetraChlorKohlenstoff stark genug Sauerstoff eindiffudiert wird.
 		- natürlich impliziert, dass ein Baum bei der Produktion der Nahrung beteiligt ist

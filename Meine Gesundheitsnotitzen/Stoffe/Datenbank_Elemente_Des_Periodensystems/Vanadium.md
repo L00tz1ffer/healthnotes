@@ -6,12 +6,12 @@
 	- vor allem aus [Ölen](../../Glossar/Öl.md)
 - Bestand an Vanadium im Menschlichen Körper beträgt bis zu 100 Gramm
 	- Reichert sich an in
-		- [Knochen](../../Menschlicher_Körper/Knochen.md) 
-		- [Niere](../../Menschlicher_Körper/Niere.md)
-		- [Lunge](../../Menschlicher_Körper/Lunge.md)
-		- [Leber](../../Menschlicher_Körper/Verdauungssystem/Leber.md)
-		- [Milz](../../Menschlicher_Körper/Milz.md)
-	- Beteiligt an der Mineralisation der [Zähne](../../Menschlicher_Körper/Zähne/Zähne.md) und [Knochen](../../Menschlicher_Körper/Knochen.md)
+		- [Knochen](../../Menschlicher%20Körper/Knochen.md) 
+		- [Niere](../../Menschlicher%20Körper/Niere.md)
+		- [Lunge](../../Menschlicher%20Körper/Lunge.md)
+		- [Leber](../../Menschlicher%20Körper/Verdauungssystem/Leber.md)
+		- [Milz](../../Menschlicher%20Körper/Milz.md)
+	- Beteiligt an der Mineralisation der [Zähne](../../Menschlicher%20Körper/Zähne/Zähne.md) und [Knochen](../../Menschlicher%20Körper/Knochen.md)
 	- Spielt eine Rolle im [Eisen](Eisen.md)stoffwechsel im Menschlichen Körper
 	- trägt zur Synthese des biogenen Amins Cholin bei
 	- wird für die Aktivität des Enzyms Cholinesterase benötigt
@@ -42,4 +42,4 @@
 ## Nebenwirkungen
 - Bei hohen Aufnahmen von Vanadium in Milligramm-Bereichen können Krämpfe und Störungen im Magen-Darm-Trakt auftreten, auch Depressionen und psychische Symptome können entstehen. Aus der Arbeitsmedizin sind schädliche Wirkungen durch den beruflichen Kontakt mit Vanadium bekannt.
 	- hierbei ist davon auszugehen, dass ähnlich wie bei [Eisen](Eisen.md) die Bioverfügbarkeit nicht so gut gegeben ist
-- Vanadium kann die Glykogenspiegel in der [Leber](../../Menschlicher_Körper/Verdauungssystem/Leber.md) erhöhen und die Aufnahme von Traubenzucker in die Muskeln fördern. Dies könnte die Leistungen von Sportlern verbessern. Vanadium wird zu therapeutischen Zwecken zur Steuerung des Zuckerstoffwechsels eingesetzt. Die Dosierungen sollten vom Therapeuten bestimmt werden.
+- Vanadium kann die Glykogenspiegel in der [Leber](../../Menschlicher%20Körper/Verdauungssystem/Leber.md) erhöhen und die Aufnahme von Traubenzucker in die Muskeln fördern. Dies könnte die Leistungen von Sportlern verbessern. Vanadium wird zu therapeutischen Zwecken zur Steuerung des Zuckerstoffwechsels eingesetzt. Die Dosierungen sollten vom Therapeuten bestimmt werden.
