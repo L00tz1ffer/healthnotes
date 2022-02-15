@@ -7,8 +7,13 @@
         "id": "416cf5049de1ed0f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           },
           {
@@ -109,6 +117,8 @@
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Index.md",
+    "Interessante Links.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
@@ -116,8 +126,6 @@
     "Heilansätze/GNM/5BN/BN3/BN3.md",
     "Rezepte und Anleitungen/Lugolsche Lösung.md",
     "Stoffe/Rohstoffe/Cashew.md",
-    "Heilansätze/GNM/GNM.md",
-    "Heilansätze/GNM/5BN/BN1.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige Lebensmittel.md"
+    "Heilansätze/GNM/GNM.md"
   ]
 }
