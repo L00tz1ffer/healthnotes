@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Rohstoffe/Cashew.md",
+            "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Rohstoffe/Cashew.md",
+                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Rohstoffe/Cashew.md"
+                "file": "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md"
               }
             }
           },
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md",
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Ektoderm.md",
+    "Heilansätze/GNM/5BN/BN3/BN3.md",
+    "Rezepte und Anleitungen/Lugolsche Lösung.md",
     "Stoffe/Rohstoffe/Cashew.md",
     "Heilansätze/GNM/GNM.md",
-    "Heilansätze/GNM/5BN/BN3/BN3.md",
     "Heilansätze/GNM/5BN/BN1.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige Lebensmittel.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Lebensmittelkategorisierung nach Wertigkeit.md",
-    "Tipps für den Alltag/Gesprächskultur.md",
-    "Tipps für den Alltag/Nützliche Dateien.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Nahrungs Inhaltsstoffe.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md"
+    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige Lebensmittel.md"
   ]
 }
