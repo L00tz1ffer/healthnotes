@@ -75,8 +75,9 @@ Werden Probanden in der REM (Rapid Eye Movement) phase, welche man auch als D-St
 ### A-State Dream Phase
 Demgegenüber steht die sog. A-State Phase. weckt man Probanden in dieser Schlafphase, so beschreiben sie häufig Situationen, wie man sie auch in ihrem Alltag beobachten kann. Es wird vermutet, dass Träume in der A-State Phase im Grunde keine wirklichen Träume sondern Astralreisen sind.
 
-
-
+## Luzides Träumen
+Ein Luzider Traum findet in der [D-State Dream Phase](Astralreise.md#D-State%20Dream%20Phase) statt, es handelt sich hierbei um einen Traum über den der Träumer Bewusstheit erlangt, er wacht jedoch nicht auf sondern ist in der Lage den Traumzustand ähnlich wie im Film Inception dargestellt seinem Willen zu unterwerfen.
+Man kann von einem Luziden Traum in eine OOBE wechseln.
 
 
 ## Interessante Techniken
@@ -85,7 +86,10 @@ Demgegenüber steht die sog. A-State Phase. weckt man Probanden in dieser Schlaf
 Mach das Licht aus und stell dir vor wie du in weißem heilenden Licht badest. Nimm einige Tiefe Atemzüge von dieser reinen, wundervollen Energie. Erlaube dir zu entspannen und visualisiere den Ort an den du reisen möchtest, während du in den Schlaf driftest. Wenn du bereits jetzt auf diese weise planst was du während du schläfst vor hast, dann wird deine Erinnerungsfähigkeit an deine Aktivitäten in dieser nacht enorm steigen.
 
 #### Nachbereitung
-Am besten hast du immer ein Notizbuch neben deinem Bett. Auf diese weise kannst du immer direkt aufzeichnen, was du erlebt hast.
+Oft erinnern sich Menschen an die gemachte Astralereise erst nach dem Aufwachen. Sie glauben deshalb häufig daran, dass das erlebte ledigliche ein Traum war.
+Manche von ihnen jedoch sind auch in der Lage während der Reise die Kontrolle über den Zustand zu übernehmen. Dies kann bewusst oder unbewusst geschehen.
+Für viele ist eine solche unkontrollierte Astralreise der erste Zugang zu diesem hochinteressanten Thema.
+Daher ist es am besten hast du immer ein Notizbuch neben deinem Bett. Auf diese weise kannst du immer direkt aufzeichnen, was du erlebt hast.
 
 
 
