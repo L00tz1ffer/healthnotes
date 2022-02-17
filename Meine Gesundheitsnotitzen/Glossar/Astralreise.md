@@ -55,9 +55,39 @@ Hierzu scheint es wichtig zu sein einige wenige Glaubenssätze annehmen zu könn
 
 
 ## Unfreiwillige Astralreisen
+Seit ewigkeiten und durch die komplette Menschheitsgeschichte wurden wieder und wieder unzählbar viele Berichte verfasst, welche sich dieser Kategorie von Ausserkörperlichen Erfahrung zuordnen lassen.
+Etwa 9% der Aufgezeichneten Nahtoderfahrungen berichten von einer solchen Ausserkörperlichen Erfahrung, wobei dies nicht heißt, dass die anderen 91% nicht ähnliche Erfahrungen machen, lediglich, dass sie dies nicht als solche wahrnehmen.
+Die Menschen beschreiben szenerien, in denen sie plötzlich über oder neben Ihrem Körper schweben.
+Die Meisten Menschen empfinden dies als extrem angenehm.
+Sie nehmen wahr was in ihrer umgebung geschieht, sie können gesagtes hören und gleichzeitig spüren sie die immense freiheit welche sie überkommt.
+Beispielsweise wird von vielen Patienten berichtet, welche während einer Operation an Ihrem offenen Körper danneben stehen und zuschauen können.
+In einigen Fällen konnten Verunfallte oder anderweitig verunglückte Menschen in Astraler Form um Hilfe rufen und gehört werden.
+
+## Träume
+Wir Alle machen Astralreisen in unseren Träumen. Häufig sind wir uns allerdings darüber nicht bewusst.
+Alte Kulturen erklären uns in bildhaften Umschreibungen, dass der Geist immerzu im Traum den Körper zu verlassen scheint.
+Gerade in der REM schlafphase, so geht man davon aus, herrscht sehr hohe Körperliche Aktivität. Hin und wieder kann in dieser Phase auch Sexuelle Erregung beobachtet werden. 
+
+Dreivirtel der Zeit welche wir schlafen verbringen wir im sog. A-State, während ein Virtel der Zeit im D-State verbracht wird. Diese Zahlen können selbstverständlich geringfügig variieren!
+
+### D-State Dream Phase
+Werden Probanden in der REM (Rapid Eye Movement) phase, welche man auch als D-State Phase bezeichnet, aufgeweckt, so können diese sehr detailreiche Bilder aus ihren Träumen wiedergeben.
+### A-State Dream Phase
+Demgegenüber steht die sog. A-State Phase. weckt man Probanden in dieser Schlafphase, so beschreiben sie häufig Situationen, wie man sie auch in ihrem Alltag beobachten kann. Es wird vermutet, dass Träume in der A-State Phase im Grunde keine wirklichen Träume sondern Astralreisen sind.
+
+
 
 
 
 ## Interessante Techniken
-### 1. Nackt ausziehen und Angezogen vorstellen
+### 1. Träume erinnern
+#### Vorbereitung
+Mach das Licht aus und stell dir vor wie du in weißem heilenden Licht badest. Nimm einige Tiefe Atemzüge von dieser reinen, wundervollen Energie. Erlaube dir zu entspannen und visualisiere den Ort an den du reisen möchtest, während du in den Schlaf driftest. Wenn du bereits jetzt auf diese weise planst was du während du schläfst vor hast, dann wird deine Erinnerungsfähigkeit an deine Aktivitäten in dieser nacht enorm steigen.
+
+#### Nachbereitung
+Am besten hast du immer ein Notizbuch neben deinem Bett. Auf diese weise kannst du immer direkt aufzeichnen, was du erlebt hast.
+
+
+
+### 2. Nackt ausziehen und Angezogen vorstellen
 Der Leser möge sich Nackt ausziehen und, anschließend in eine Bequeme haltung gehen und sobald entspannung etwa durch [Meditation](../Heilansätze/Meditation.md#Meditation) eingekehrt ist sich vorstellen er tröge Klamotten, es besteht eine nicht unerhebliche Chance, dass er sich relativ direkt in seinem angekleideten Astralkörper wiederfindet
