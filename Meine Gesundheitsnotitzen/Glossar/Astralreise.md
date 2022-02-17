@@ -79,6 +79,11 @@ Demgegenüber steht die sog. A-State Phase. weckt man Probanden in dieser Schlaf
 Ein Luzider Traum findet in der [D-State Dream Phase](Astralreise.md#D-State%20Dream%20Phase) statt, es handelt sich hierbei um einen Traum über den der Träumer Bewusstheit erlangt, er wacht jedoch nicht auf sondern ist in der Lage den Traumzustand ähnlich wie im Film Inception dargestellt seinem Willen zu unterwerfen.
 Man kann von einem Luziden Traum in eine OOBE wechseln.
 
+### Umstände welche einen Luziden Traum begünstigen
+- körperlich Ausgepowert sein
+- Emotionale Probleme
+- Physische (Körperliche) Probleme
+
 
 ## Interessante Techniken
 ### 1. Träume erinnern
@@ -93,5 +98,16 @@ Daher ist es am besten hast du immer ein Notizbuch neben deinem Bett. Auf diese 
 
 
 
-### 2. Nackt ausziehen und Angezogen vorstellen
+### 2. Sich auf den Traum vorbereiten
+- Sich selbst darauf hinzuweisen, dass Träume nicht real sind bringt den Mind in eine Art wachsamen Modus, in dem er wie ein Traumdetektor Arbeitet, beispielsweise nach traumtypischen besonderheiten sucht. Dies führt häufig in einen [Luziden Traum](Astralreise.md#Luzides%20Träumen), welchen der Träumer sehr häufig kontrollieren kann.
+- Man kann sich wie in inception ein Totem suchen und mit dessen Hilfe Reality Checks durchführen
+
+### 3. Aus einem Luziden Traum ausbrechen
+Man kann einen Luziden Traum als Sprungbrett für eine Astralreise verwenden.
+Dies geht, indem, sobald man sich über den Traumzustand bewusst wird, man den wunsch äussert zum Physischen Körper zurück zu kehren.
+Hier sollte man nun in der Lage sein den Physischen Körper als getrennt vom eigenen Sein wahrzunehmen. Von hier aus muss man seinem Astralkörper nur noch anweisen, den Körper zu verlassen und sollte nun frei durch den Raum schweben.
+
+### 4. Nackt ausziehen und Angezogen vorstellen
 Der Leser möge sich Nackt ausziehen und, anschließend in eine Bequeme haltung gehen und sobald entspannung etwa durch [Meditation](../Heilansätze/Meditation.md#Meditation) eingekehrt ist sich vorstellen er tröge Klamotten, es besteht eine nicht unerhebliche Chance, dass er sich relativ direkt in seinem angekleideten Astralkörper wiederfindet
+
+
