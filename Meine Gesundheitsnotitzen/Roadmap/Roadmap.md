@@ -42,7 +42,7 @@
 	- [ ] https://hausmittelhexe.com/diabetes-natuerlich-behandeln-hausmittel-gegen-diabetes-mellitus/
 	- [ ] https://www.die-gesunde-wahrheit.de/2019/07/02/typ-1-diabetes-zu-kurieren/
 	- [ ] [Diabetes Typ I](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md)
-	- [ ] [Diabetes Typ II](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)]
+	- [ ] [Diabetes Typ 2](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%202.md)]
 	- [ ] ![Chrom, Kupfer, Selen & Zink bei Diabetes Typ 1 & 2](__Attatchments/10.1515_jlm.2006.031.pdf)
 - [ ] [Etienne Szekely](../Wichtige%20Persönlichkeiten/Etienne%20Szekely.md)
 	- [ ] http://www.hyperinfo.ca/LivingAtom/HomePage.html

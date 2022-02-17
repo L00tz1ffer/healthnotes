@@ -15,4 +15,4 @@ Zitronensäure ist neben Sauerkrautsäure die einzige Säure die unser Körper b
 - ein paar Tropfen Zitrone in das Trinkwasser und es bekommt einen Idealen PH Wert
 
 ## Interessantes
-- [Link: Zitronensaft senkt Blutzuckerspitzen nach Mahlzeiten](https://www.heilpraxisnet.de/naturheilpraxis/diabetes-zitronensaft-senkt-blutzuckerspitzen-nach-mahlzeiten-20211106550015/) -> [Diabetes Typ I](../../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ II](../../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%20II.md)
+- [Link: Zitronensaft senkt Blutzuckerspitzen nach Mahlzeiten](https://www.heilpraxisnet.de/naturheilpraxis/diabetes-zitronensaft-senkt-blutzuckerspitzen-nach-mahlzeiten-20211106550015/) -> [Diabetes Typ I](../../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ 2](../../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%202.md)

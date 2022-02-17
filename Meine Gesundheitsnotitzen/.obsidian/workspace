@@ -9,11 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Astralreise.md",
-            "mode": "source",
+            "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "91bd5c4a406d2c59",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,12 +67,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -80,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Astralreise.md",
+                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Astralreise.md"
+                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
               }
             }
           },
@@ -119,15 +126,15 @@
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Glossar/Astralreise.md",
-    "Glossar/Astralkörper.md",
     "Glossar/Glossar.md",
+    "Menschlicher Körper/Augen.md",
+    "Glossar/Astralkörper.md",
     "Glossar/Atlantis.md",
     "Glossar/Bewusstsein.md",
     "Heilansätze/GNM/GNM.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Ektoderm.md"
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md"
   ]
 }
