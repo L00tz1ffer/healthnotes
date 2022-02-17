@@ -4,6 +4,8 @@
 [Anionisch](Anionisch.md)
 [Ankh](Ankh.md)
 [Antioxidanz](Antioxidanz.md)
+[Astralkörper](Astralkörper.md#Astralkörper)
+[Astralreise](Astralreise.md)
 [Astrologie](Astrologie.md)
 [Atlantis](Atlantis.md)
 [Autoimmunerkrankung](Autoimmunerkrankungen.md)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/GNM/GNM.md",
+            "file": "Glossar/Astralreise.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/GNM/GNM.md",
+                "file": "Glossar/Astralreise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/GNM/GNM.md"
+                "file": "Glossar/Astralreise.md"
               }
             }
           },
@@ -118,15 +119,15 @@
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Glossar/Astralreise.md",
+    "Glossar/Astralkörper.md",
+    "Glossar/Glossar.md",
+    "Glossar/Atlantis.md",
+    "Glossar/Bewusstsein.md",
     "Heilansätze/GNM/GNM.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md",
     "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Entoderm.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Ektoderm.md",
-    "Heilansätze/GNM/5BN/BN3/BN3.md",
-    "Rezepte und Anleitungen/Lugolsche Lösung.md",
-    "Stoffe/Rohstoffe/Cashew.md",
-    "Heilansätze/GNM/5BN/BN1.md",
-    "Wichtige Nährstoffquellen/Lebensmittelkategorisierung_nach_Wertigkeit/Hochwertige Lebensmittel.md"
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Ektoderm.md"
   ]
 }
