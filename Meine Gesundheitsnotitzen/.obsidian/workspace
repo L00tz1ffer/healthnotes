@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+            "file": "Menschlicher Körper/Augen.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
+                "file": "Menschlicher Körper/Augen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md"
+                "file": "Menschlicher Körper/Augen.md"
               }
             }
           },
@@ -126,10 +126,10 @@
   },
   "active": "416cf5049de1ed0f",
   "lastOpenFiles": [
+    "Menschlicher Körper/Augen.md",
     "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Glossar/Astralreise.md",
     "Glossar/Glossar.md",
-    "Menschlicher Körper/Augen.md",
     "Glossar/Astralkörper.md",
     "Glossar/Atlantis.md",
     "Glossar/Bewusstsein.md",
