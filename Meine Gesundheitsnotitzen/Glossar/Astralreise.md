@@ -111,3 +111,6 @@ Hier sollte man nun in der Lage sein den Physischen Körper als getrennt vom eig
 Der Leser möge sich Nackt ausziehen und, anschließend in eine Bequeme haltung gehen und sobald entspannung etwa durch [Meditation](../Heilansätze/Meditation.md#Meditation) eingekehrt ist sich vorstellen er tröge Klamotten, es besteht eine nicht unerhebliche Chance, dass er sich relativ direkt in seinem angekleideten Astralkörper wiederfindet
 
 
+## Links
+[Gaia -> How To Astral Travel](https://www.youtube.com/watch?v=CM12cKCVcNE)
+

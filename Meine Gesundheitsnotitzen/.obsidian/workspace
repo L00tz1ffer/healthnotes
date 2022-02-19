@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roadmap/Roadmap.md",
-            "mode": "source",
+            "file": "Glossar/Astralreise.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap/Roadmap.md",
+                "file": "Glossar/Astralreise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap/Roadmap.md"
+                "file": "Glossar/Astralreise.md"
               }
             }
           },
@@ -116,8 +116,8 @@
   },
   "active": "91bd5c4a406d2c59",
   "lastOpenFiles": [
-    "Roadmap/Roadmap.md",
     "Glossar/Astralreise.md",
+    "Roadmap/Roadmap.md",
     "Menschlicher Körper/Augen.md",
     "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
     "Glossar/Glossar.md",
