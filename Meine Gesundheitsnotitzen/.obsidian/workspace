@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Astralreise.md",
+            "file": "Roadmap/Roadmap.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Astralreise.md",
+                "file": "Roadmap/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Astralreise.md"
+                "file": "Roadmap/Roadmap.md"
               }
             }
           },
@@ -109,16 +108,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "91bd5c4a406d2c59",
   "lastOpenFiles": [
+    "Roadmap/Roadmap.md",
     "Glossar/Astralreise.md",
     "Menschlicher Körper/Augen.md",
     "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
@@ -127,7 +125,6 @@
     "Glossar/Atlantis.md",
     "Glossar/Bewusstsein.md",
     "Heilansätze/GNM/GNM.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Mesoderm.md"
+    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md"
   ]
 }
