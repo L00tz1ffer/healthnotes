@@ -70,7 +70,7 @@ Aufgrund Ihrer Inhaltsstoffe ist das Nesselgewächs eines der wertvollsten Wildg
 
 Dies gilt sowohl für Ihre Qualitäten als Heilmittel, als auch für selbige als Nahrungsquelle!
 
-In Ihr sind fast alle NNährstoffe, Mineralstoffe und Spurenelemente, die für einen Gesunden Körper wichtig sind enthalten.
+In Ihr sind fast alle Nährstoffe, Mineralstoffe und Spurenelemente, die für einen Gesunden Körper wichtig sind enthalten.
 
 Selbstverständlich gibt es hier Ausnahmen -> [Vitamin B-12](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B12.md#Vitamin%20B-12) & [Vitamin D](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20D.md#Vitamin%20D) sind nicht enthalten
 
@@ -161,7 +161,7 @@ Weiterhin ist das Wurzelwerk reich an erdnahen Farbtönen, insbesondere gelblich
 >**Nicht Nachmachen**
 >In der Pfingstnacht, so sagt ein Brauch, schlug man früher Kühe mit Brennessel. ebenfalls zum Schutz vor Hexerei
 
->Dort wo die Brennessel Wechst, so sagt die Radionik / Strahlentheorie, soll die Erdstrahlung besonders hoch sein. An diesen Orten sollen besonders gern Blitze einschlagen
+>Dort wo die Brennessel wächst, so sagt die Radionik / Strahlentheorie, soll die Erdstrahlung besonders hoch sein. An diesen Orten sollen besonders gern Blitze einschlagen
 > Weiterhin besagt dieselbe Annahme, dass Fieberkranke an einem solchen Ort besonders schnell und Schmerzfrei Heilung erfahren sollen - gleichwohl soll es dem Gesunden Menschen nicht so zuträglich sein, an einer solchen Stelle viel Zeit zu verbringen
 
 >Die Brennessel hat den Beinamen Donnernessel, was einer weiteren Assoziation mit der Erscheinung des Gewitters gleich kommt
