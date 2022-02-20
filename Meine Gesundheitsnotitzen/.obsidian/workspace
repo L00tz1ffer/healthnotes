@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Rohstoffe/Brennessel.md",
+            "file": "Rezepte und Anleitungen/Brennesseljauche.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Rohstoffe/Brennessel.md",
+                "file": "Rezepte und Anleitungen/Brennesseljauche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Rohstoffe/Brennessel.md"
+                "file": "Rezepte und Anleitungen/Brennesseljauche.md"
               }
             }
           },
@@ -117,11 +117,11 @@
   },
   "active": "91bd5c4a406d2c59",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Brennesseljauche.md",
     "Stoffe/Rohstoffe/Brennessel.md",
     "Rezepte und Anleitungen/Brennesselspinat.md",
     "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
     "Index.md",
-    "Rezepte und Anleitungen/Brennesseljauche.md",
     "Rezepte und Anleitungen/Blutzuckersenker.md",
     "ist.md",
     "ist.md",

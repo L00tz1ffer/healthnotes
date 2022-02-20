@@ -2,6 +2,7 @@
 Die Sogenannte Brennesseljauche ist nicht nur ein hervoragendes Düngemittel, sie wird auch seit Menschengedenken sehr erfolgreich in der Schädlingsbekämpfung im Gemüseanbau auf dem Acker und im Garten eingesetzt.
 
 ## Zutaten
+- [Brennessel](../Stoffe/Rohstoffe/Brennessel.md#Brennessel) (1kg +++)
 - ein Großes Gefäß
 - Handschuhe (oder Nerven aus Stahl)
 - Schere / Gartenschere / Hechsler
