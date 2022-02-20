@@ -1,6 +1,8 @@
 # Rezepte und Anleitungen
 - [Aschedünger](Aschedünger.md)
 - [Blutzuckersenker](Blutzuckersenker.md)
+- [Brennesseljauche](Brennesseljauche.md#Brennesseljauche)
+- [Brennesselspinat](Brennesselspinat.md#Brennesselspinat)
 - [Chana Masala](Chana%20Masala.md)
 - [Chiabananea](Chiabananea.md)
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)

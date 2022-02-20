@@ -1,6 +1,6 @@
 # Blutzuckersenker
 ## Zutaten
-[Olivenöl](../Stoffe/Rohstoffe/Olivenöl.md)
+- [Olivenöl](../Stoffe/Rohstoffe/Olivenöl.md)
 - 2 Daumen großes Stück [Ingwer](../Stoffe/Rohstoffe/Ingwer.md)
 - 4 Daumen großes Stück [Zwiebel](../Stoffe/Rohstoffe/Zwiebel.md)
 - 2 Längen des kleinen Fingers an [Kurkuma](../Stoffe/Rohstoffe/Kurkuma.md)

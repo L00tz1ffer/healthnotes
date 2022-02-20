@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossar/Astralreise.md",
-            "mode": "preview",
+            "file": "Stoffe/Rohstoffe/Brennessel.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iris",
+                "query": "brennes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar/Astralreise.md",
+                "file": "Stoffe/Rohstoffe/Brennessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar/Astralreise.md"
+                "file": "Stoffe/Rohstoffe/Brennessel.md"
               }
             }
           },
@@ -112,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "91bd5c4a406d2c59",
   "lastOpenFiles": [
+    "Stoffe/Rohstoffe/Brennessel.md",
+    "Rezepte und Anleitungen/Brennesselspinat.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Index.md",
+    "Rezepte und Anleitungen/Brennesseljauche.md",
+    "Rezepte und Anleitungen/Blutzuckersenker.md",
+    "ist.md",
+    "ist.md",
     "Glossar/Astralreise.md",
-    "Roadmap/Roadmap.md",
-    "Menschlicher Körper/Augen.md",
-    "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 1/Diabetes Typ I.md",
-    "Glossar/Glossar.md",
-    "Glossar/Astralkörper.md",
-    "Glossar/Atlantis.md",
-    "Glossar/Bewusstsein.md",
-    "Heilansätze/GNM/GNM.md",
-    "Heilansätze/GNM/5BN/BN3/Die 3 Keimblätter/Die 3 Keimblätter.md"
+    "Roadmap/Roadmap.md"
   ]
 }
