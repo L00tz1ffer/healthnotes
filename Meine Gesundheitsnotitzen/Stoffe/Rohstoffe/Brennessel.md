@@ -1,9 +1,10 @@
 # Brennessel
-## Vorkommen
+## Steckbrief
+### Vorkommen
 Die Brennessel wächst überall dort wo es Nährstoffreiche Böden gibt, vorzugsweise Nitrate. Sie wächst sowohl auf Sauren als auch Basischen Böden. Sie wächst prinzipiell auf eher feuchteren Böden, kommt aber auch mit trockenen Böden gut klar.
 Ob es sonnig oder schattig gelegen ist ist ihr hierbei relativ egal.
 
-## Aussehen
+### Aussehen
 Die Brennessel hat einen recht hohen wiedererkennungswert. Gerade junge Pflanzen haben tendenziell sehr dunkle Erscheinungen, welche mit höherem Alter leicht heller werden.
 Die Pflanze kann von einer Dunkelgrünen bis hin zu einer Purpurnen erscheinung auftreten.
 Ihre Brennhaare sind bei genauerer betrachtung ein sher guter Indikator.
@@ -21,18 +22,18 @@ Deshalb ist es nahezu irrelevant für die Pflanze, wenn man ihre oberirdischen T
 
 Weiterhin bildet die Brennessel jährlich bis zu 20000 Samen aus
 
-## In der Natur
+### In der Natur
 Die Brennessel ist für Schmetterlinge sehr wichtig. Schmetterlingsraupen sind beispielsweise auf die Nesselpflanze angewiesen, da sie als Ernährungsgrundlage für über 50 Schmetterlingsarten dient.
 
 
-## Ein guter Indikator
+### Ein guter Indikator
 Eine Brennessel im Garten zeigt eine hohe Fruchtbarkeit an.
 
 Durch starke Überdüngung verdrängt die Nessepflanze allerdings ganz gerne die Natürlichen Siedler, beispielsweise am Waldrand die Orchidee.
 
 Aufgrund Ihrer hohen Affinität zu Nährstoffen und ihrer Aggressiven Verbreitung an diesen ist die Pflanze auch ein guter Indikator beispielsweise im Park die Öffentliche Toilette zu finden
 
-## Wo Sammle ich am besten?
+### Wo Sammle ich am besten?
 Es ist aus oben genannten Gründen die Nesselpflanze eher im Wald oder im eigenen Garten zu ernten.
 
 
@@ -51,7 +52,7 @@ Bei der Rohen verarbeitung ist es Sinnvoll die Blätter entweder **sehr, sehr** 
 ### Die Brennflüssigkeit
 Die Flüssigkeit ist im Wesentlichen zusammengesetzt aus Histamin, Acetylcholin und Serotonin.
 
-### Gegenmaßnahmen
+#### Gegenmaßnahmen
 Dem Brennesselsammler ist anzuraten, die Brennessel eher von unten nach Oben anzufassen, da auf der Unterseite je nach Pflanze eher weniger bis keine Brennhaare platziert sind.
 Bei Regelmäßigem Kontakt zur Brennenden Subsatnz bildet der Menschliche Körper eine Resistenz aus, es brennt weniger und wird irgendwann zu einem Kribbeln.
 
