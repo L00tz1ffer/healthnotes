@@ -76,7 +76,7 @@ Selbstverständlich gibt es hier Ausnahmen -> [Vitamin B-12](../Nahrungs_Inhalts
 
 Alles was enthalten ist ist tendenziell in extrem großen Mengen und in höchst Bioverfügbarer Form enthalten.
 
-## Blätter und Stängel
+### Blätter und Stängel
 - bis zu 700mg [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md#Kalzium) auf 100g
 - hoher [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md#Eisen) gehalt
 - hoher [Mangan](../Datenbank_Elemente_Des_Periodensystems/Mangan.md#Mangan) gehalt
