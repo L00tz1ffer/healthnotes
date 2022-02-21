@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Haferbrot.md",
+            "file": "Menschlicher Körper/Zähne/Zähne.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Haferbrot.md",
+                "file": "Menschlicher Körper/Zähne/Zähne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Haferbrot.md"
+                "file": "Menschlicher Körper/Zähne/Zähne.md"
               }
             }
           },
@@ -118,15 +118,15 @@
   },
   "active": "e67b6c1df2b7370c",
   "lastOpenFiles": [
+    "Menschlicher Körper/Zähne/Zähne.md",
+    "Stoffe/Rohstoffe/Kalziumflourid.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md",
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Wolfram.md",
     "Rezepte und Anleitungen/Haferbrot.md",
     "Stoffe/Rohstoffe/Haferflocken.md",
     "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
     "Menschlicher Körper/Chakrensystem/4. Chakra.md",
     "Stoffe/Rohstoffe/Brennessel.md",
-    "Menschlicher Körper/Chakrensystem/1. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/7. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/6. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/5. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/3. Chakra.md"
+    "Menschlicher Körper/Chakrensystem/1. Chakra.md"
   ]
 }
