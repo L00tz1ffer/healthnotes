@@ -8,6 +8,7 @@
 - [Destilliertes Wasser](Destilliertes%20Wasser.md)
 - [Geröstete Cashew Kerne](Geröstete%20Cashew%20Kerne.md)
 - [Gurkensuppe](Gurkensuppe.md)
+- [Haferbrot](Haferbrot.md#Haferbrot)
 - [Hühnersuppe](Hühnersuppe.md)
 - [Hummus](Hummus.md)
 - [Lavendelöl](Lavendelöl.md)

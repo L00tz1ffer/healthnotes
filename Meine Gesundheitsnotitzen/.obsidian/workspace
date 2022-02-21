@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher Körper/Chakrensystem/4. Chakra.md",
+            "file": "Rezepte und Anleitungen/Haferbrot.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Chakrensystem/4. Chakra.md",
+                "file": "Rezepte und Anleitungen/Haferbrot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher Körper/Chakrensystem/4. Chakra.md"
+                "file": "Rezepte und Anleitungen/Haferbrot.md"
               }
             }
           },
@@ -118,15 +118,15 @@
   },
   "active": "e67b6c1df2b7370c",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Haferbrot.md",
+    "Stoffe/Rohstoffe/Haferflocken.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
     "Menschlicher Körper/Chakrensystem/4. Chakra.md",
     "Stoffe/Rohstoffe/Brennessel.md",
     "Menschlicher Körper/Chakrensystem/1. Chakra.md",
     "Menschlicher Körper/Chakrensystem/7. Chakra.md",
     "Menschlicher Körper/Chakrensystem/6. Chakra.md",
     "Menschlicher Körper/Chakrensystem/5. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/3. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/2. Chakra.md",
-    "Menschlicher Körper/Chakrensystem/Charkrasystem.md",
-    "Menschlicher Körper/Menschlicher Körper.md"
+    "Menschlicher Körper/Chakrensystem/3. Chakra.md"
   ]
 }
