@@ -1,7 +1,7 @@
 # Haferbrot
 ## Zutaten
-- 225g zarte [Haferflocken](../Stoffe/Rohstoffe/Haferflocken.md#Haferflocken)
-- 225g kernige [Haferflocken](../Stoffe/Rohstoffe/Haferflocken.md#Haferflocken)
+- 225g zarte [Haferflocken](../Stoffe/Rohstoffe/Hafer.md#Haferflocken)
+- 225g kernige [Haferflocken](../Stoffe/Rohstoffe/Hafer.md#Haferflocken)
 - 2 Packungen Backpulver
 - 1 Tl [Salz](../Stoffe/Rohstoffe/Salze/Salz.md#Salz)
 - 3x [Ei](../Stoffe/Rohstoffe/Ei.md#Ei)

@@ -35,7 +35,7 @@
 	- [ ] [Kokosfett](../Stoffe/Rohstoffe/Kokosfett.md)
 	- [ ] [Aloe Vera](../Stoffe/Rohstoffe/Aloe%20Vera.md)
 	- [ ] [Petroläther](../Stoffe/Rohstoffe/Lösungsmittel/Petroläther.md)
-	- [ ] [Haferflocken](../Stoffe/Rohstoffe/Haferflocken.md)
+	- [ ] [Hafer](../Stoffe/Rohstoffe/Hafer.md)
 	- [ ] [Cashew](../Stoffe/Rohstoffe/Cashew.md)
 	- [ ] [Linsen](../Stoffe/Rohstoffe/Linsen.md)
 - [ ] [Diabetes](../Menschlicher%20Körper/Leiden/Diabetes/Diabetes.md)

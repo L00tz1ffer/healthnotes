@@ -38,4 +38,4 @@
 - Avocados
 - Rosinen
 - Gerste
-- [Haferflocken](../Rohstoffe/Haferflocken.md)
+- [Hafer](../Rohstoffe/Hafer.md)
