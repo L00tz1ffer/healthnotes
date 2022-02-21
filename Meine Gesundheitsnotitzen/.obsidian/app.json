@@ -17,5 +17,6 @@
   "showLineNumber": true,
   "foldIndent": false,
   "foldHeading": false,
-  "attachmentFolderPath": "./__Attachments"
+  "attachmentFolderPath": "./__Attachments",
+  "fileSortOrder": "alphabetical"
 }

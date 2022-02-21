@@ -7,13 +7,8 @@
         "id": "98a0887416f072a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rezepte und Anleitungen/Haferbrot.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Haferbrot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rezepte und Anleitungen/Haferbrot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -113,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Haferbrot.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamin C.md",
-    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md",
-    "Stoffe/Rohstoffe/Hafer.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B12.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B9.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamin H.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B7.md",
-    "Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin B6.md"
+    "Wichtige Persönlichkeiten/Hermes Trismegistos.md",
+    "Menschlicher Körper/Gehirn/Zirbeldrüse.md",
+    "Menschlicher Körper/Gehirn/Index_Gehirn.md",
+    "Glossar/Index_Glossar.md",
+    "Glossar/Immunzelle.md",
+    "Glossar/Astralreise.md",
+    "Glossar/Ketose.md",
+    "Heilansätze/GNM/5BN/Index_5BN.md",
+    "Heilansätze/GNM/5BN/BN3/BN3.md",
+    "Glossar/Glossar.md"
   ]
 }
