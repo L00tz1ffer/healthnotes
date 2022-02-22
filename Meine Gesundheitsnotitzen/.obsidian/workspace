@@ -7,13 +7,8 @@
         "id": "98a0887416f072a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Menschlicher Körper/Augen.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Augen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Menschlicher Körper/Augen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,15 +110,15 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
-    "Menschlicher Körper/Augen.md",
-    "Menschlicher Körper/Leiden/Leiden.md",
-    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Wichtige Persönlichkeiten/Laszlo Fodor.md",
-    "Wichtige Persönlichkeiten/Gennadi Andrejewitsch Shichko.md",
-    "Glossar/Index_Glossar.md",
     "Wichtige Persönlichkeiten/Hermes Trismegistos.md",
     "Menschlicher Körper/Gehirn/Zirbeldrüse.md",
     "Menschlicher Körper/Gehirn/Index_Gehirn.md",
-    "Glossar/Immunzelle.md"
+    "Glossar/Index_Glossar.md",
+    "Glossar/Immunzelle.md",
+    "Glossar/Astralreise.md",
+    "Glossar/Ketose.md",
+    "Heilansätze/GNM/5BN/Index_5BN.md",
+    "Heilansätze/GNM/5BN/BN3/BN3.md",
+    "Glossar/Glossar.md"
   ]
 }

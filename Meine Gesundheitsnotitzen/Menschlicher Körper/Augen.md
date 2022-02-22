@@ -60,8 +60,6 @@ Die Shichko Methode war erforderlich um die entwickelte Therapie / Trainingsform
 
 
 
-
-
 ## Irisdiagnostik
 [Tolles Video von Tobias Steinhäuser zum Thema](https://www.youtube.com/watch?v=pQwMU_n8g4c)
 
