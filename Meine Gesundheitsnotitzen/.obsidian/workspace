@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Roadmap/Roadmap.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Roadmap/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Roadmap/Roadmap.md"
               }
             }
           },
@@ -117,6 +117,8 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
+    "Roadmap/Roadmap.md",
+    "Interessante Links.md",
     "Index.md",
     "Menschlicher Körper/Augen.md",
     "Menschlicher Körper/Leiden/Leiden.md",
@@ -124,8 +126,6 @@
     "Wichtige Persönlichkeiten/Laszlo Fodor.md",
     "Wichtige Persönlichkeiten/Gennadi Andrejewitsch Shichko.md",
     "Glossar/Index_Glossar.md",
-    "Wichtige Persönlichkeiten/Hermes Trismegistos.md",
-    "Menschlicher Körper/Gehirn/Zirbeldrüse.md",
-    "Menschlicher Körper/Gehirn/Index_Gehirn.md"
+    "Wichtige Persönlichkeiten/Hermes Trismegistos.md"
   ]
 }
