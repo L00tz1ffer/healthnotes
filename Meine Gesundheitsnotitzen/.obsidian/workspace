@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roadmap/Roadmap.md",
-            "mode": "source",
+            "file": "Heilansätze/GNM/GNM.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap/Roadmap.md",
+                "file": "Heilansätze/GNM/GNM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap/Roadmap.md"
+                "file": "Heilansätze/GNM/GNM.md"
               }
             }
           },
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
+    "Heilansätze/GNM/GNM.md",
+    "Heilansätze/GNM/5BN/BN1.md",
+    "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
+    "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 2.md",
+    "Heilansätze/__Heilansätze.md",
     "Roadmap/Roadmap.md",
     "Interessante Links.md",
     "Index.md",
     "Menschlicher Körper/Augen.md",
-    "Menschlicher Körper/Leiden/Leiden.md",
-    "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
-    "Wichtige Persönlichkeiten/Laszlo Fodor.md",
-    "Wichtige Persönlichkeiten/Gennadi Andrejewitsch Shichko.md",
-    "Glossar/Index_Glossar.md",
-    "Wichtige Persönlichkeiten/Hermes Trismegistos.md"
+    "Menschlicher Körper/Leiden/Leiden.md"
   ]
 }
