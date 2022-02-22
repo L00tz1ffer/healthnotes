@@ -3,7 +3,6 @@
 ### Die Zhdanov Methode
 > von Professor Vladimir Georgievich Zhdanov (Professor der Internationalen Slavischen Akademie -> Leiter des Institutes für Praktische Psychologie und Psychoanalyse, deren Ziel es ist Menschen von unliebsamen oder schädlichen Gewohnheiten zu befreien)
 
-test
 ### Zielsetzung
 Ziel der hier beschriebenen Methode ist die Wiederherstellung der Sehkraft ohne Hilfe von Prothesen wie Brillen oder Operationen
 

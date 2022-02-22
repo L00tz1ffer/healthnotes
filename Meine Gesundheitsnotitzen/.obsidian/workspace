@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher Körper/Augen.md",
+            "file": "Index.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Augen.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher Körper/Augen.md"
+                "file": "Index.md"
               }
             }
           },
@@ -118,6 +118,7 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
+    "Index.md",
     "Menschlicher Körper/Augen.md",
     "Menschlicher Körper/Leiden/Leiden.md",
     "Tipps für den Alltag/Gemeinschaft/Gemeinschaft.md",
@@ -126,7 +127,6 @@
     "Glossar/Index_Glossar.md",
     "Wichtige Persönlichkeiten/Hermes Trismegistos.md",
     "Menschlicher Körper/Gehirn/Zirbeldrüse.md",
-    "Menschlicher Körper/Gehirn/Index_Gehirn.md",
-    "Glossar/Immunzelle.md"
+    "Menschlicher Körper/Gehirn/Index_Gehirn.md"
   ]
 }
