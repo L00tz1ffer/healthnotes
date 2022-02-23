@@ -88,16 +88,18 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 14. Nun wird alles noch einmal auf niedriger bis mittlerer Geschwindigkeit für 10 Sekunden püriert.
 15. Nun hast Du eventuell noch eine halbe rote  Zwiebel übrig. Schneide sie in sehr kleine  Würfel und gebe sie Deinem Salat zu. 
 
+### Empfehlung um aus dem Dressing einen Vollwertigen Salat zu zaubern:
+[Ryans Antiparasitaerer Salat](Ryans%20Antiparasitaerer%20Salat.md)
  
  ## Wissenswertes
 Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selben Tag verbraucht werden, da Geschmack und gesundheitlicher Nutzen mit der Zeit nachlassen.
 
-[Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
+![Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
 
 --------
 <sup>1</sup> Der Aceto Balsamico von "REWE Bio" hat sich nach dem probieren verschiedener preiswerter "Qualitäts-Essige" für mich als der mit dem besten Preis-Leistungs Verhältnis herausgestellt
 
-[Foto von REWE Bio Aceto Balsamico](__Attachments/Pasted%20image%2020220223212419.png)
+![Foto von REWE Bio Aceto Balsamico](__Attachments/Pasted%20image%2020220223212419.png)
 
 -----------------
 <sup>2</sup> Grundsätzlich rate ich von der Verwendung von Wein ab und würde immer auf Hochwertigen Essig zurückgreifen. In der Übergangsphase, wenn noch Restbestände vorhanden sind, kann man diese jedoch auf diese Weise sinnvoll verwenden
@@ -105,13 +107,13 @@ Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selb
 Guter Rotwein muss in Holzfässern gereift sein, je länger desto besser.
 Hier 3 Beispiel Weine, die ich im Preis-Leistungs Verhältnis als gut befunden habe:
 
-[Foto von gutem Rotwein](__Attachments/Pasted%20image%2020220223213227.png)
+![Foto von gutem Rotwein](__Attachments/Pasted%20image%2020220223213227.png)
 
 ---------
 <sup>3</sup>Das in Deutschland erwerbbare Olivenöl mit dem besten Preis-Leistungs Verhältnis ist -meines Erachtens nach das - das Latzimas, welches es jedoch nur bei Kaufland gibt.
 Es stammt von Kreta und koster 3,99 € / Flasche
 
-[Foto von Latzimas Olivenöl ](__Attachments/Pasted%20image%2020220223212746.png)
+![Foto von Latzimas Olivenöl ](__Attachments/Pasted%20image%2020220223212746.png)
 
 ----------
 

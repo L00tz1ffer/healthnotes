@@ -12,6 +12,7 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 > Für Viele deiner Fragen wirst du hier eine Antwort finden.
 >
 >_Es sei darauf verwiesen, dass es hier keine Medizinische Beratung gibt, da dies im Europäischen Raum ohne Approbation strafbar ist. Jeder hat jedoch das Recht seine eigene Meinung kundzutun und diese mit seinen Mitmenschen auszutauschen_
+><https://t.me/GesundheitAO_byRyan>
 
 >Die Gewürze die hier in diesem Rezept vorzugsweise verwendet werden sollten, kriegt ihr in der richtigen Qualität unter dem Nachfolgenden Link
 >Gleichzeitig könnt ihr Ryan so eure Unterstützung zukommen lassen!
@@ -20,13 +21,15 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 ## Zutaten
 Als Dressing eignet sich hervoragend -> [Ryans Antiparasitaeres Salatdressing](Ryans%20Antiparasitaeres%20Salatdressing.md)
 
-| Nummer |                     Einheiten | Zutat                                       | Bemerkung                                                                           |
-| ------ | -----------------------------:| ------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Nummer |                     Einheiten | Zutat                                          | Bemerkung                                                                           |
+| ------ | -----------------------------:| ---------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 1      |                   350 - 600 g | [Brokkoli](../../Stoffe/Rohstoffe/Brokkoli.md) | roh und klein geschnitten                                                           |
-| 2      |                     2 - 3 stk | ganze Stange Staudensellerie                | mit Blättern                                                                        |
-| 3      |                     2 - 3 stk | Tomaten                                     | regional, Bio Qualität</br>->Ochsenwerder / Vier Landen / Edeka-Bio (Unsere Heimat) |
-| 4      |                         1 stk | säuerlicher Apfel                           | z. B. Boskop ODER eine vollreife Mango                                              |
-| 5      | <sup>1</sup>/<sub>2</sub> stk | rote Zwiebel                                | fein gewürfelt                                                                      |
-| 6      |                      ein paar | Oliven                                      | dunkel und ungefärbt</br>gern mit Oregano Marinade                                  |
-| 7      |                     30 - 60 g | gekeimte Sonnenblumenkerne                  |                                                                                     |
-| 8      |             7 - 15 g Leinsaat | geschrotet o. gekeimt                       |                                                                                     |
+| 2      |                     2 - 3 stk | ganze Stange Staudensellerie                   | mit Blättern                                                                        |
+| 3      |                     2 - 3 stk | Tomaten                                        | regional, Bio Qualität</br>->Ochsenwerder / Vier Landen / Edeka-Bio (Unsere Heimat) |
+| 4      |                         1 stk | säuerlicher Apfel                              | z. B. Boskop ODER eine vollreife Mango                                              |
+| 5      | <sup>1</sup>/<sub>2</sub> stk | rote Zwiebel                                   | fein gewürfelt                                                                      |
+| 6      | <sup>1</sup>/<sub>2</sub> stk | Zitrusfrucht                                   |                                                                                     |
+| 7      |                      ein paar | Oliven                                         | dunkel und ungefärbt</br>gern mit Oregano Marinade                                  |
+| 8      |                     30 - 60 g | gekeimte Sonnenblumenkerne                     |                                                                                     |
+| 9      |             7 - 15 g Leinsaat | geschrotet o. gekeimt                          |                                                                                     |
+
