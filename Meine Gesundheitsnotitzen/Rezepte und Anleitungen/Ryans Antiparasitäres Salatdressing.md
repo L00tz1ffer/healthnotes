@@ -89,3 +89,7 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selben Tag verbraucht werden, da Geschmack und gesundheitlicher Nutzen mit der Zeit nachlassen.
 
 [Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
+
+>Wenn Ihr Ryan Unterstützen wollt, dann schaut mal hier vorbei:
+><https://mention-me.com/m/ode/kt1er-marian-kampfe>
+
