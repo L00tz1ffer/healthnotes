@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
-            "mode": "source",
+            "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -59,11 +59,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
+                "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md"
+                "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md"
               }
             }
           },
@@ -118,15 +119,15 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
-    "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
-    "Menschlicher Körper/Leiden/Haarausfall.md",
-    "Stoffe/Rohstoffe/Hafer.md",
-    "Heilansätze/GNM/__Attachments/5BN.de - Die 5 Biologischen Naturgesetze _ Zucker.pdf",
-    "Rezepte und Anleitungen/Lysergsäurediethylamid.md",
-    "Stoffe/Rohstoffe/Mutterkorn.md",
+    "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
+    "Heilansätze/Ernährung/Ernährung.md",
+    "Stoffe/Rohstoffe/Brokkoli.md",
     "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
     "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
-    "Stoffe/Rohstoffe/Korriander.md",
-    "Stoffe/Rohstoffe/Roggen.md"
+    "Heilansätze/Heilansätze.md",
+    "Interessante Links.md",
+    "Heilansätze/Sport/Falun Gong.md",
+    "Heilansätze/Sport/Sport.md",
+    "Menschlicher Körper/Leiden/Diabetes/Diabetes.md"
   ]
 }

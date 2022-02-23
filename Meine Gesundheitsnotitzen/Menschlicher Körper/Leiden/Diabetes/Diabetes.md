@@ -17,6 +17,7 @@ Aufgrund der aus dem Ruder gelaufenen (med. "entgleisten") Diabetes kam es in me
 
 ### Zähne
 Eine weitere Folge (meiner Ansicht nach) vermutlich ebenfalls aufgrund des massiv gestörten [Säure-Basen Gleichgewichtes](../../../Glossar/Säure-Basen%20Gleichgewicht.md) ist eine starke demineralisierung der Zähne 
+
 >Mir ist ein dickes stück meines Eckzahnes Abgebrochen, aber nicht so, dass ich ein stück Zahn in der Hand gehabt hätte, es waren sehr viele, verhältnismäßig sehr kleine (im Vergleich zu der relativ großen Masse an Substanz)
 
 ## Mangelerscheinung

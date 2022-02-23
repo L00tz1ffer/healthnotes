@@ -4,6 +4,7 @@
 - [Apfelessig](Apfelessig.md)
 - [Bärlappkraut](Bärlappkraut.md)
 - [Brennessel](Brennessel.md)
+- [Brokkoli](Brokkoli.md)
 - [Butter](Butter.md)
 - [Carnitin](Carnitin.md)
 - [Cashew](Cashew.md)
