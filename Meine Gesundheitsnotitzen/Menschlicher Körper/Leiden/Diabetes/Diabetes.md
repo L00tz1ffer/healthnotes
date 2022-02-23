@@ -12,7 +12,12 @@ Für weitere Informationen:
 	- Der Grund hierfür ist der deutliche Anstieg in der Höhe von [Keton](../../../Glossar/Keton.md)körpern in dem systemischen Kreislauf, der als Reaktion auf eine Stresssituation für den Körper (provoziert Ernährungsfaktoren, die Körpertemperatur zu hohen Zahlen), wenn sie gestört Prozess vollständige Verdauung von [Proteinen](../../../Glossar/Protein.md), Lipiden und [Kohlenhydraten](../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) auftritt.
 
 ## Folgen
-Aufgrund der aus dem Ruder gelaufenen (med. "entgleisten") Diabetes kam es in meinem Fall [Diabetes Typ I](Diabetes%20Typ%201/Diabetes%20Typ%20I.md#Diabetes%20Typ%20I) zu starkem [Haarausfall](../Haarausfall.md) sowohl im Kopfbereich als auch im Intimbereich -> bis zum heutigen Tage erkläre ich mir dies durch den stark verzerrten PH Wert im Blut (Ketonkörper werden mit einem PH Teststreifen gemessen) -> um diesen PH Wert zu normalisieren wird vom Körper so vermute ich die Mineralstoffzufuhr gerade bei den Haaren gebremst
+### Haare
+Aufgrund der aus dem Ruder gelaufenen (med. "entgleisten") Diabetes kam es in meinem Fall [Diabetes Typ I](Diabetes%20Typ%201/Diabetes%20Typ%20I.md#Diabetes%20Typ%20I) zu starkem [Haarausfall](../Haarausfall.md) sowohl im Kopfbereich als auch im Intimbereich -> bis zum heutigen Tage erkläre ich mir dies durch den stark verzerrten PH Wert im Blut (Ketonkörper werden mit einem PH Teststreifen gemessen) [->Säure-Basen Gleichgewicht](../../../Glossar/Säure-Basen%20Gleichgewicht.md#Säure-Basen%20Gleichgewicht) -> um diesen PH Wert zu normalisieren wird vom Körper so vermute ich die Mineralstoffzufuhr gerade bei den Haaren gebremst
+
+### Zähne
+Eine weitere Folge (meiner Ansicht nach) vermutlich ebenfalls aufgrund des massiv gestörten [Säure-Basen Gleichgewichtes](../../../Glossar/Säure-Basen%20Gleichgewicht.md) ist eine starke demineralisierung der Zähne 
+>Mir ist ein dickes stück meines Eckzahnes Abgebrochen, aber nicht so, dass ich ein stück Zahn in der Hand gehabt hätte, es waren sehr viele, verhältnismäßig sehr kleine (im Vergleich zu der relativ großen Masse an Substanz)
 
 ## Mangelerscheinung
 - [Vanadium](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md)
