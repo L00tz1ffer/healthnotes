@@ -11,6 +11,9 @@ Für weitere Informationen:
 - Der Geruch den man als Schwefelgeruch interpretieren könnte ist Aceton, welches der Körper versucht auszuscheiden
 	- Der Grund hierfür ist der deutliche Anstieg in der Höhe von [Keton](../../../Glossar/Keton.md)körpern in dem systemischen Kreislauf, der als Reaktion auf eine Stresssituation für den Körper (provoziert Ernährungsfaktoren, die Körpertemperatur zu hohen Zahlen), wenn sie gestört Prozess vollständige Verdauung von [Proteinen](../../../Glossar/Protein.md), Lipiden und [Kohlenhydraten](../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) auftritt.
 
+## Folgen
+Aufgrund der aus dem Ruder gelaufenen (med. "entgleisten") Diabetes kam es in meinem Fall [Diabetes Typ I](Diabetes%20Typ%201/Diabetes%20Typ%20I.md#Diabetes%20Typ%20I) zu starkem [Haarausfall](../Haarausfall.md) sowohl im Kopfbereich als auch im Intimbereich -> bis zum heutigen Tage erkläre ich mir dies durch den stark verzerrten PH Wert im Blut (Ketonkörper werden mit einem PH Teststreifen gemessen) -> um diesen PH Wert zu normalisieren wird vom Körper so vermute ich die Mineralstoffzufuhr gerade bei den Haaren gebremst
+
 ## Mangelerscheinung
 - [Vanadium](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md)
 - [Kupfer](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md)

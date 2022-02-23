@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Rohstoffe/Hafer.md",
-            "mode": "preview",
+            "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Rohstoffe/Hafer.md",
+                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Rohstoffe/Hafer.md"
+                "file": "Menschlicher Körper/Leiden/Diabetes/Diabetes.md"
               }
             }
           },
@@ -118,15 +118,15 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
-    "Stoffe/Rohstoffe/Hafer.md",
     "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
+    "Menschlicher Körper/Leiden/Haarausfall.md",
+    "Stoffe/Rohstoffe/Hafer.md",
     "Heilansätze/GNM/__Attachments/5BN.de - Die 5 Biologischen Naturgesetze _ Zucker.pdf",
     "Rezepte und Anleitungen/Lysergsäurediethylamid.md",
     "Stoffe/Rohstoffe/Mutterkorn.md",
     "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
     "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
     "Stoffe/Rohstoffe/Korriander.md",
-    "Stoffe/Rohstoffe/Roggen.md",
-    "Stoffe/Rohstoffe/Brennessel.md"
+    "Stoffe/Rohstoffe/Roggen.md"
   ]
 }
