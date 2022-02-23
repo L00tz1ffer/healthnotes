@@ -1,20 +1,57 @@
 > Dies ist die [Roadmap](Roadmap/Roadmap.md) für das Projekt
 
-> Das Gesamte Werk entsteht in meiner Freizeit. Du kannst mich gerne dabei unterstützen indem du den [Spendenlink](https://www.paypal.com/paypalme/jensmysl) anklickst!
+> Das Gesamte Werk entsteht in meiner Freizeit. 
+> [-> Wie soll ich anfangen](Index.md#Wie%20soll%20ich%20anfangen) 
+> Du kannst mich gerne dabei unterstützen indem du den [Spendenlink](https://www.paypal.com/paypalme/jensmysl) anklickst!
 
 > # <center> Aus gegebenem Anlass Wichtiges zur Impfung: </br><center> [Hier klicken](https://youtu.be/DW61NC9F2vE?t=1578)</center>
 
+----------------------
+
+## Wie soll ich anfangen?
+
+Am Anfang dieses Werkes stand Unwissenheit!
+Ich habe mich über die langen Jahre meines Lebens immer wieder angefangen aufs neue für Gesundheit und Medizin zu interessieren.
+Seit etwa einem Jahrzehnt arbeite ich an meiner Ernährung, keineswegs bin ich perfekt doch ein gelehrsamer Schüler der Alchemie. Ich habe damals angefangen zu Meditieren und sobald man damit angefangen hat öffnet sich für den interessierten geradezu eine Vollständige neue Welt, voller neuer Erfahrungen und unglaublicher Wendungen!
+
+Vor einigen Wochen trat dann für mich ein gänzlich neues Kapitel langsam und schleichend auf den Plan.
+
+Mir viel allmählich auf, dass ich viel schwitzte und unheimlich großen Durst hatte. Trotz der Warnungen meiner Mitbewohnerin behielt ich meinen Lebensstil bei - was ein großes Glück war, denn hätte ich mich von so viel Zucker ernährt wie vor 12 Jahren, wäre ich vielleicht heute nicht mehr am Leben.
+
+Kurze Zeit später hatte ich ein seltsames drückendes Gefühl in der Region der Leber, also entschied ich um aus meinem mittlerweile erheblichen Naturheilkunde Fundus nach der passenden Lösung zu suchen eignet sich meines erachtens nach wundervoll die Diagnostik der Schulmedizin, über die Jahrhunderte Ihres Existierens brachte sie immer ausgefallenere Geräte auf den Plan.
+
+Ich ging also zum Arzt und er erklärte mir ich solle dringend ins Krankenhaus -> Verdacht auf Diabetes.
+
+Ok dachte ich ersteinmal, schließlich hatte ich mich bisher nur sehr am Rande mal mit Diabetes beschäftigt.
+Am selben Abend noch ging ich ins Krankenhaus und die Einstellung auf Insulin begann.
+
+Die folgenden Tage zeigten sehr schnell, dass meine Welt in der ich bisher lebte völlig zusammenbrechen würde.
+Ich fuhr beruflich Auto und auch privat liebte ich dies.
+Gerade beruflich wird das wohl auch in Zukunft erstmal nichts mehr, da es der Gesetzgeber erfordert, eine optimale Insulin einstellung zu haben und gleichzeitig vor jedem Fahrtantritt aufwändige Prüfungen durchgeführt werden sollen, was meinen bisherigen geliebten Arbeitsplatz erstmal hinfällig macht.
+
+Im Zuge dessen beschloss ich, diesen Umstand nicht auf mir Sitzen zu lassen und fing an zu recherchieren.
+
+Das Ergebnis dieser Recherche und recht umfangreiche Sammlung meiner weiteren Erkenntnisse über meinen Körper und seine  ihm angemessene Artgerechte Pflege möchte ich euch hier Kostenfrei zur Verfügung stellen und allediejenen Ergebnisse und Erfahrungen zeitnah und aktuell einpflegen.
+
+Gemäß alter Alchemistenmanier sind allediejenen hier niedergeschriebenen Erkenntnisse - insbesondere jedoch Rezepte und Empfehlungen an mir selbst getestet, wenngleich sie jedoch hier funktioniert haben ist dies kein Garant, dass sie dies auch bei Ihnen werter Leser tun werden
+
+>Ich habe ein sehr hohes Bild von Individuen die Zeit und Mühe dafür aufwenden empirisch an sich und durch Selbstbeobachtung herauszufinden wie Ihre Körper respektive ihre Einbettung in den Körper des großen und ganzen desssen Teil sie sind.
+
+**Selbstverständlich freue ich mich über jedwede Unterstützung, sie es durch Mitgestaltung der Beiträge, durch Strukturierung oder Erweiterung oder durch [Spenden](https://www.paypal.com/paypalme/jensmysl), wenn ihr meine Arbeit unterstützenswert findet - aktuell kann ich diese sehr gut gebrachen!**
 
 
 -----------
-Dieses Werk hat keinen Anspruch auf Vollständigkeit und ist KEIN Gesundheitsratgeber
--------------------
+##  Werk hat keinen Anspruch auf Vollständigkeit und ist KEIN Gesundheitsratgeber
+
 Der Autor des Inhaltes hier wendet die Angegebenen Informationen bei sich selbst an und setzt sie für sich als Erkenntnissgrundlagen voraus. Er übernimmt jedoch weder die Haftung für eventuelle Nebenwirkungen oder Schäden die durch die Anwendung dessen bem Leser entstehen mögen, noch rät der Autor davon ab ohne Rücksprache mit einem Arzt zu handeln.
 </br>
 </br>
 
-Jedwede Nutzung erfolgt auf eigene Gefahr
 --------------------
+## Jedwede Nutzung erfolgt auf eigene Gefahr
+Auch wenn ich die hierin aufgezeichneten Anleitungen und Rezepte, sowie empfehlungen selbst getestet habe und von deren Wirkung überzeugt bin, kann es von Individuum zu Individuum unterschiedliche Auswirkungen haben. Somit garantiere ich, dass alles hier aufgezeichnete **FÜR MICH funktioniert**, ich übernehme jedoch explizit keine Garantie und keine Haftung für selbstversuche.
+Jeder von euch ist wie ich ein Alchemist, unsere Aufgabe ist es unsere Erkenntnisse an uns selbst zu wiederlegen, das ist das zentrale Element der Wissenschaft!
+
 </br>
 </br>
 </br>
