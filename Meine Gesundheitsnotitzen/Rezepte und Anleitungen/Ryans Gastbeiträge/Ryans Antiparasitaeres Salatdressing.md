@@ -101,7 +101,6 @@ Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selb
 
 ![Foto von REWE Bio Aceto Balsamico](__Attachments/Pasted%20image%2020220223212419.png)
 
------------------
 <sup>2</sup> Grundsätzlich rate ich von der Verwendung von Wein ab und würde immer auf Hochwertigen Essig zurückgreifen. In der Übergangsphase, wenn noch Restbestände vorhanden sind, kann man diese jedoch auf diese Weise sinnvoll verwenden
 
 Guter Rotwein muss in Holzfässern gereift sein, je länger desto besser.
@@ -109,12 +108,9 @@ Hier 3 Beispiel Weine, die ich im Preis-Leistungs Verhältnis als gut befunden h
 
 ![Foto von gutem Rotwein](__Attachments/Pasted%20image%2020220223213227.png)
 
----------
 <sup>3</sup>Das in Deutschland erwerbbare Olivenöl mit dem besten Preis-Leistungs Verhältnis ist -meines Erachtens nach das - das Latzimas, welches es jedoch nur bei Kaufland gibt.
 Es stammt von Kreta und koster 3,99 € / Flasche
 
 ![Foto von Latzimas Olivenöl ](__Attachments/Pasted%20image%2020220223212746.png)
-
-----------
 
 <sup>4</sup> Wenn du im Zuge der Roh-Vegan-Keto Diät oder einer anderen Parasiten Kur immer wieder heißhunger Attacken auf "schädliche" Nahrung hast, empfehle ich, dem Dressing statt der passierten Tomaten odder Zusätzlich 1 - 3 Esslöffel Curry - Gewürzketschup der Marke HELA hinzu zu geben. Dies sollte allderings nach 7 - 10 Tagen auch wieder weggelassen werden
