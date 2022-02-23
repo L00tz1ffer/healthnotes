@@ -1,5 +1,5 @@
 # Vanadium
-- Gilt trotz erdrückender Studienlage nicht als essenzielles Element der [Nutrazeutik](../../Glossar/Nutrazeutik.md)!
+- Gilt trotz erdrückender Studienlage nicht als essenzielles Element der [Nutrazeutik](../../Glossar/Nutrazeutik.md) anerkannt!
 - Schwermetallelement mit 1- bis 6-wertigen Verbindungen
 - kommt in Böden und Pflanzen vor
 - Mensch nimmt dieses Spurenelement vorwiegend aus pflanzlichen Nahrungsmitteln auf

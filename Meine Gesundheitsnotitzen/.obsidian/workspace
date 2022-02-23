@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vanadium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md"
               }
             }
           },
@@ -118,6 +117,7 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
+    "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
     "Index.md",
     "Heilansätze/GNM/GNM.md",
     "Heilansätze/GNM/5BN/BN1.md",
@@ -126,7 +126,6 @@
     "Heilansätze/__Heilansätze.md",
     "Roadmap/Roadmap.md",
     "Interessante Links.md",
-    "Menschlicher Körper/Augen.md",
-    "Menschlicher Körper/Leiden/Leiden.md"
+    "Menschlicher Körper/Augen.md"
   ]
 }
