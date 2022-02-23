@@ -21,9 +21,5 @@ Für weitere Informationen:
 - [Molybdän](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Molybdän.md)
 
 
-
-
-
-
 ## Interessante Links
 [Christian Lainé: Diabetes natürlich heilen dank Haferflocken](https://www.youtube.com/watch?v=x4qYZKi_AD8)
