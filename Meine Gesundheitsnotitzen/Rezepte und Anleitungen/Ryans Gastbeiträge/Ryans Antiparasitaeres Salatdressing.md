@@ -91,7 +91,7 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
  ## Wissenswertes
 Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selben Tag verbraucht werden, da Geschmack und gesundheitlicher Nutzen mit der Zeit nachlassen.
 
-![Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
+[Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
 
 --------
 <sup>1</sup> Der Aceto Balsamico von "REWE Bio" hat sich nach dem probieren verschiedener preiswerter "Qualitäts-Essige" für mich als der mit dem besten Preis-Leistungs Verhältnis herausgestellt
