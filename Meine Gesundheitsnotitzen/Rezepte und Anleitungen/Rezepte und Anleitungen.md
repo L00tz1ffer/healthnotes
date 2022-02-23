@@ -13,6 +13,7 @@
 - [Hummus](Hummus.md)
 - [Lavendelöl](Lavendelöl.md)
 - [Lugolsche Lösung](Lugolsche%20Lösung.md)
+- [Lysergsäurediethylamid](Lysergsäurediethylamid.md#Lysergsäurediethylamid) / [LSD](Lysergsäurediethylamid.md#LSD) -> Warnung, NICHT GETESTET & je nach Aufenthaltsort möglicherweise STRAFBAR
 - [Natürlicher Unkrautvernichter](Natürlicher%20Unkrautvernichter.md)
 - [Natürliches Antibiotikum](Natürliches%20Antibiotikum.md)
 - [Nutella](Nutella.md)

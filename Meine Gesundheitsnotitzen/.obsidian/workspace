@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
-            "mode": "preview",
+            "file": "Rezepte und Anleitungen/Lysergsäurediethylamid.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vanadium",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
+                "file": "Rezepte und Anleitungen/Lysergsäurediethylamid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md"
+                "file": "Rezepte und Anleitungen/Lysergsäurediethylamid.md"
               }
             }
           },
@@ -117,15 +118,15 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
+    "Rezepte und Anleitungen/Lysergsäurediethylamid.md",
+    "Stoffe/Rohstoffe/Mutterkorn.md",
+    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Stoffe/Rohstoffe/Korriander.md",
+    "Stoffe/Rohstoffe/Roggen.md",
+    "Stoffe/Rohstoffe/Brennessel.md",
     "Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md",
     "Index.md",
-    "Heilansätze/GNM/GNM.md",
-    "Heilansätze/GNM/5BN/BN1.md",
-    "Menschlicher Körper/Leiden/Diabetes/Diabetes.md",
-    "Menschlicher Körper/Leiden/Diabetes/Diabetes Typ 2.md",
-    "Heilansätze/__Heilansätze.md",
-    "Roadmap/Roadmap.md",
-    "Interessante Links.md",
-    "Menschlicher Körper/Augen.md"
+    "Heilansätze/GNM/GNM.md"
   ]
 }
