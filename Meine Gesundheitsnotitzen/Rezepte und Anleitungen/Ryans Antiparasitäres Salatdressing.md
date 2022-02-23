@@ -13,6 +13,9 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 >
 >_Es sei darauf verwiesen, dass es hier keine Medizinische Beratung gibt, da dies im Europäischen Raum ohne Approbation strafbar ist. Jeder hat jedoch das Recht seine eigene Meinung kundzutun und diese mit seinen Mitmenschen auszutauschen_
 
+>Die Gewürze die hier in diesem Rezept vorzugsweise verwendet werden sollten, kriegt ihr in der richtigen Qualität unter dem Nachfolgenden Link
+>Gleichzeitig könnt ihr Ryan so eure Unterstützung zukommen lassen!
+><https://mention-me.com/m/ode/kt1er-marian-kampfe>
 ## Das Rezept
 -> Original Titel: Rezept für ein antiparasitäres Salat-Dressing - Menge für beispielsweise 450 - 600 g rohen [Brokkoli](../Stoffe/Rohstoffe/Brokkoli.md)
 
@@ -90,6 +93,5 @@ Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selb
 
 [Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
 
->Wenn Ihr Ryan Unterstützen wollt, dann schaut mal hier vorbei:
-><https://mention-me.com/m/ode/kt1er-marian-kampfe>
+
 
