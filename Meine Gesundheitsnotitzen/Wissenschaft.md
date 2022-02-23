@@ -55,7 +55,7 @@ Wie groß ist die Chance, dass das nachgewiesenermaßen allwissende Unterbewusst
 Kann dies die Ursache für den "Unmut" vieler Schüler weltweit sein?
 Können die vorgehend genannten Gründe ein Teil der Ursache dessen sein, was unsere einst sehr genaue Wissenschaft zum einfallstor für Manipulateure und Geld gemacht hat?
 
- ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/tk_manipulation.png)
+ ![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attachments/tk_manipulation.png)
 Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 
 ### Beispiel
@@ -66,7 +66,7 @@ Würde der von Herzblut getriebene Wissenschaftler nicht alles daran setzen dies
 
 ### Pyramiden
 alles ist Pyramidal aufgebaut, das Fundament bildet eine Pyramide.
-![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/pyramides.png)	
+![Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attachments/pyramides.png)	
 Quelle: Nährstofflabyrinth - Dr. Andreas Noack
 
 

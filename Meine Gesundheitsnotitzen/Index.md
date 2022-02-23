@@ -164,7 +164,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 	- Viele wurden Zurückgedrängt
 	- Jedes Element hat seine Funktion
 		- alle Elemente sind löslich
-		- ![image info](__Attatchments/T-zelle.png)
+		- ![image info](__Attachments/T-zelle.png)
 	- T-Zellen sind Putzer / Reinigungszellen
 		- Alle wissenschaftlichen Herangehensweisen zum Thema langlebigkeit zielen darauf ab unsere Immunzellen in bestmöglicher Verfassung zu erhalten
 	- Unser Immunsystem ist das Perfekte Medizinsystem

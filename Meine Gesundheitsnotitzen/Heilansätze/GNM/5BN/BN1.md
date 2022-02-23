@@ -36,10 +36,10 @@ oder auch
 ## 2. Art der Empfindung bestimmt SBS
 - Konfliktinhalt wird im Moment der biologischen Aktivierung definiert
 - jeder spezifische Konfliktinhalt hat eine bestimmte Lokalisation des [Hamerschen Herdes](../Hamerscher_Herd.md#Hamerscher%20Herd)
-- [Tabelle GNM Zusammenhänge](__Attatchments/Tabelle%20GNM%20Zusammenhänge.ods)
+- [Tabelle GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
 
 ## 3. SBS findet synchron auf allen 3 Ebenen des Seins statt
-- siehe [Tabelle GNM Zusammenhänge](__Attatchments/Tabelle%20GNM%20Zusammenhänge.ods)
+- siehe [Tabelle GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)
 - CT Aufnahme ohne kontrastmittel zeigen immer paralell zum betroffnen Organ und bestimmten psychologischen Mustern direkte korellationen bezogen relativ zum Konflikt
 	- einzige Bedingung -> entsprechend genaue Diagnosegeräte
 - Die 3 Ebenen sind unzertrennlich

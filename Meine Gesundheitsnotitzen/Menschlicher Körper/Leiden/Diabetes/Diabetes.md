@@ -32,4 +32,4 @@ Eine weitere Folge (meiner Ansicht nach) vermutlich ebenfalls aufgrund des massi
 
 ## Interessante Links
 [Christian Lainé: Diabetes natürlich heilen dank Haferflocken](https://www.youtube.com/watch?v=x4qYZKi_AD8) -> [Haferflocken](../../../Stoffe/Rohstoffe/Hafer.md#Haferflocken)
-[5BN.de - Die 5 Biologischen Naturgesetze _ Zucker](../../../Heilansätze/GNM/__Attachments/5BN.de%20-%20Die%205%20Biologischen%20Naturgesetze%20_%20Zucker.pdf) (Augenschinlich betreffend Diabetes Typo 1 & 2) 
+[5BN.de - Die 5 Biologischen Naturgesetze _ Zucker](__Attachments/5BN.de%20-%20Die%205%20Biologischen%20Naturgesetze%20_%20Zucker.pdf) (Augenschinlich betreffend Diabetes Typo 1 & 2) 

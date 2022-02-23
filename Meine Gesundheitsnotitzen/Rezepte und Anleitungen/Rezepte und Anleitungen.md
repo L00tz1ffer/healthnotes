@@ -18,7 +18,8 @@
 - [Natürliches Antibiotikum](Natürliches%20Antibiotikum.md)
 - [Nutella](Nutella.md)
 - [Ormus](Ormus.md)
-- [Ryans Antiparasitäres Salatdressing](Ryans%20Antiparasitäres%20Salatdressing.md)
+- [Ryans Antiparasitaerer Salat](Ryans%20Gastbeiträge/Ryans%20Antiparasitaerer%20Salat.md)
+- [Ryans Antiparasitaeres Salatdressing](Ryans%20Gastbeiträge/Ryans%20Antiparasitaeres%20Salatdressing.md)
 - [Ursuppe](Ursuppe.md)
 - [Wasserstoffperoxid](Wasserstoffperoxid.md)
 

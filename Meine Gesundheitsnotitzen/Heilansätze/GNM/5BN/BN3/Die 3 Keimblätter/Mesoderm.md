@@ -41,4 +41,4 @@ Dem Mesoderm werden alle **Organteile** zugeordnet, was mit der Fähigkeit zu Ü
 - Bindegewebe
 - Bandscheiben
 
-Weitere notwendige Informationen hierzu gibt es in der [Tabelle der GNM Zusammenhänge](__Attatchments/Tabelle%20GNM%20Zusammenhänge.ods)
+Weitere notwendige Informationen hierzu gibt es in der [Tabelle der GNM Zusammenhänge](__Attachments/Tabelle%20GNM%20Zusammenhänge.ods)

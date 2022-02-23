@@ -1,7 +1,7 @@
 # Kolloidales Gold
 Weitere Namen: **MFKZT**, Manna, Roter Leu, Stein der Weisen
 
-![Kolloidales Gold](__Attatchments/Pasted%20image%2020220128130038.png)
+![Kolloidales Gold](__Attachments/Pasted%20image%2020220128130038.png)
 
 - Fördert Geistesentwicklung
 	- Wirkt Bewusstseinserweiternd

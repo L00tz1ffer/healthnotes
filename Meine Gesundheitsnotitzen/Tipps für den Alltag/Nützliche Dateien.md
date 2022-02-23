@@ -1,4 +1,4 @@
 # Nützliche Dateien
 
 ## Blutzucker Datenbank
-![Blutzucker Wertetabelle für Diabetiker](__Attatchments/BZ-Werte.ods)
+![Blutzucker Wertetabelle für Diabetiker](__Attachments/BZ-Werte.ods)

@@ -2,7 +2,7 @@
 was sind die wichtigsten kathalytisch aktiven Metalle in unserem Körper? 
 Es folgt eine Grafik der Vulkankurve der Kathalytisch aktiven Metalle
 
->![Grafik der Vulkankurve der Kathalytisch aktiven Metalle Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attatchments/vulkankurve.png)
+>![Grafik der Vulkankurve der Kathalytisch aktiven Metalle Quelle: Nährstofflabyrinth - Dr. Andreas Noack](__Attachments/vulkankurve.png)
 >Grafik der Vulkankurve der Kathalytisch aktiven Metalle
 Quelle: Nährstofflabyrinth - [Dr. Andreas Noack](../Wichtige%20Persönlichkeiten/Andreas%20Noack.md)
 

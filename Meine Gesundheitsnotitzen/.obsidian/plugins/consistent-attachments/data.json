@@ -12,6 +12,6 @@
   "ignoreFiles": [
     "consistant-report.md"
   ],
-  "attachmentsSubfolder": "__Attatchments",
+  "attachmentsSubfolder": "__Attachments",
   "consistentReportFile": "consistant-report.md"
 }

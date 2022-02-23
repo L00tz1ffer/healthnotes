@@ -17,14 +17,14 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 >Gleichzeitig könnt ihr Ryan so eure Unterstützung zukommen lassen!
 ><https://mention-me.com/m/ode/kt1er-marian-kampfe>
 ## Das Rezept
--> Original Titel: Rezept für ein antiparasitäres Salat-Dressing - Menge für beispielsweise 450 - 600 g rohen [Brokkoli](../Stoffe/Rohstoffe/Brokkoli.md)
+-> Original Titel: Rezept für ein antiparasitäres Salat-Dressing - Menge für beispielsweise 450 - 600 g rohen [Brokkoli](../../Stoffe/Rohstoffe/Brokkoli.md)
 
 ## Zutaten
 | Nummer |                                                       Menge | Zutat                                                                        | Bemerkung                                                                                                                     |
 | ------ | -----------------------------------------------------------:| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1      |                                               180 - 200  ml | Wasser                                                                       |                                                                                                                               |
 | 2      |                                                     0,5  cl | Bio-Aceto Balsamico<sup>1</sup>                                              | alternativ Alternative: guter Rotwein<sup>2</sup> </br> Menge vergleichbar mit <sup>1</sup>/<sub>2</sub> kl. Schnappsglas     |
-| 3      |                                                     1-2  tl | ganze Körner [Schwarzer Pfeffer](../Stoffe/Rohstoffe/Schwarzer%20Pfeffer.md) | (Malabar + Szechuan)                                                                                                          |
+| 3      |                                                     1-2  tl | ganze Körner [Schwarzer Pfeffer](../../Stoffe/Rohstoffe/Schwarzer%20Pfeffer.md) | (Malabar + Szechuan)                                                                                                          |
 | 4      |                                                     1-2  tl | Bockshornklee Saat                                                           | (vorher eingeweicht)                                                                                                          |
 | 5      |                                                     1-2  tl | Basilikum                                                                    |                                                                                                                               |
 | 6      |                                                     1-2  tl | Majoran                                                                      |                                                                                                                               |
@@ -36,21 +36,21 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
 | 12     |                               <sup>1</sup>/<sub>2</sub>  tl | Kumin                                                                        | Kreuzkümmel                                                                                                                   |
 | 13     | <sup>1</sup>/<sub>4</sub> - - <sup>1</sup>/<sub>2</sub>  tl | Muskatnuss                                                                   | (gerieben / gemahlen)                                                                                                         |
 | 14     |                                                  4 - 7  stk | Nelken                                                                       |                                                                                                                               |
-| 15     |                                                       1  tl | [Himalaya Salz](../Stoffe/Rohstoffe/Salze/Himalaya%20Salz.md)                |                                                                                                                               |
+| 15     |                                                       1  tl | [Himalaya Salz](../../Stoffe/Rohstoffe/Salze/Himalaya%20Salz.md)                |                                                                                                                               |
 | 16     |                                                      1  stk | Limette                                                                      | Bio Qualität</br>mit Schale                                                                                                   |
-| 17     |                                                   5 - 10  g | [Ingwer](../Stoffe/Rohstoffe/Ingwer.md)                                      | Bio Qualität                                                                                                                  |
-| 18     |                                                  20 - 30  g | [Kurkuma](../Stoffe/Rohstoffe/Kurkuma.md)                                    | Bio Qualität                                                                                                                  |
+| 17     |                                                   5 - 10  g | [Ingwer](../../Stoffe/Rohstoffe/Ingwer.md)                                      | Bio Qualität                                                                                                                  |
+| 18     |                                                  20 - 30  g | [Kurkuma](../../Stoffe/Rohstoffe/Kurkuma.md)                                    | Bio Qualität                                                                                                                  |
 | 19     |                                                   1 - 2  tl | scharfer Senf                                                                | Bio Qualität</br>Markenempgehlung: Byodo</br>Alternative: gekeimte baune Senfsaat                                             |
 | 20     |                                                        1  g | Petersilie                                                                   | Alternative: 1 tl getrocknet                                                                                                  |
 | 21     |                                                        1  g | Dill                                                                         | Alternative: 1 tl getrocknet                                                                                                  |
 | 22     |                              <sup>1</sup>/<sub>2</sub>  stk | rote Zwiebel                                                                 | Bio Qualität                                                                                                                  |
-| 23     |                                                  3 - 7  stk | [Knoblauch](../Stoffe/Rohstoffe/Knoblauch.md)zehen                           |                                                                                                                               |
+| 23     |                                                  3 - 7  stk | [Knoblauch](../../Stoffe/Rohstoffe/Knoblauch.md)zehen                           |                                                                                                                               |
 | 24     |                                                  1 - 2  stk | frische Pepperoni                                                            | möglichst klein schneiden                                                                                                     |
-| 25     |                                                       1  tl | Cassia [Zimt](../Stoffe/Rohstoffe/Zimt.md)                                   |                                                                                                                               |
+| 25     |                                                       1  tl | Cassia [Zimt](../../Stoffe/Rohstoffe/Zimt.md)                                   |                                                                                                                               |
 | 26     |                                                       1  tl | Chlorella Pulver                                                             | Empfehlung: PureRaw©                                                                                                          |
 | 27     |                                                       1  tl | Moringa Pulver                                                               | Bio & Rohkost Qualität sicherstellen                                                                                          |
-| 28     |                                                   1 - 2  tl | [Xilithol](../Stoffe/Rohstoffe/Xilithol.md)                                  | Birkenzucker                                                                                                                  |
-| 29     |                                                   1 - 3  cl | [Olivenöl](../Stoffe/Rohstoffe/Olivenöl.md)                                  | am besten von Kreta<sup>3</sup> </br> Kombinierbar mit:</br> Bio-Leinöl, Bio-Schwarzkümmelöl,</br>Bio-Walnussöl, Bio-Sesamöl, Bio-Hanföl |
+| 28     |                                                   1 - 2  tl | [Xilithol](../../Stoffe/Rohstoffe/Xilithol.md)                                  | Birkenzucker                                                                                                                  |
+| 29     |                                                   1 - 3  cl | [Olivenöl](../../Stoffe/Rohstoffe/Olivenöl.md)                                  | am besten von Kreta<sup>3</sup> </br> Kombinierbar mit:</br> Bio-Leinöl, Bio-Schwarzkümmelöl,</br>Bio-Walnussöl, Bio-Sesamöl, Bio-Hanföl |
 | 30     |                                                   2 - 4  cl | passierte Tomate                                                             | am besten Demeter Qualität<sup>4</sup>                                                                                        |
 
 
@@ -91,7 +91,27 @@ Vielen Dank an Ryan, welcher uns dieses Schmackhafte und Wertvolle Rezept aus se
  ## Wissenswertes
 Das Dressing hält sich im Kühlschrank 3-5 Tage, sollte aber möglichst am selben Tag verbraucht werden, da Geschmack und gesundheitlicher Nutzen mit der Zeit nachlassen.
 
-[Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
+![Vergleichsbild für alldiejenen ohne Waage -> ca. 30g Kurkuma](__Attachments/Pasted%20image%2020220223150506.png)
 
+--------
+<sup>1</sup> Der Aceto Balsamico von "REWE Bio" hat sich nach dem probieren verschiedener preiswerter "Qualitäts-Essige" für mich als der mit dem besten Preis-Leistungs Verhältnis herausgestellt
 
+[Foto von REWE Bio Aceto Balsamico](__Attachments/Pasted%20image%2020220223212419.png)
 
+-----------------
+<sup>2</sup> Grundsätzlich rate ich von der Verwendung von Wein ab und würde immer auf Hochwertigen Essig zurückgreifen. In der Übergangsphase, wenn noch Restbestände vorhanden sind, kann man diese jedoch auf diese Weise sinnvoll verwenden
+
+Guter Rotwein muss in Holzfässern gereift sein, je länger desto besser.
+Hier 3 Beispiel Weine, die ich im Preis-Leistungs Verhältnis als gut befunden habe:
+
+[Foto von gutem Rotwein](__Attachments/Pasted%20image%2020220223213227.png)
+
+---------
+<sup>3</sup>Das in Deutschland erwerbbare Olivenöl mit dem besten Preis-Leistungs Verhältnis ist -meines Erachtens nach das - das Latzimas, welches es jedoch nur bei Kaufland gibt.
+Es stammt von Kreta und koster 3,99 € / Flasche
+
+[Foto von Latzimas Olivenöl ](__Attachments/Pasted%20image%2020220223212746.png)
+
+----------
+
+<sup>4</sup> Wenn du im Zuge der Roh-Vegan-Keto Diät oder einer anderen Parasiten Kur immer wieder heißhunger Attacken auf "schädliche" Nahrung hast, empfehle ich, dem Dressing statt der passierten Tomaten odder Zusätzlich 1 - 3 Esslöffel Curry - Gewürzketschup der Marke HELA hinzu zu geben. Dies sollte allderings nach 7 - 10 Tagen auch wieder weggelassen werden

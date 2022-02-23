@@ -9,5 +9,5 @@
 ## Periodensystem der Elemente
 
 ### Periodensystem der Elemente als Chart
->![Das Periodensystem der Elemente von Blume mit eigenen Notizen](__Attatchments/Periodensystem.pdf)
->[das Original von Blume](__Attatchments/Periodensystem.jpg)
+>![Das Periodensystem der Elemente von Blume mit eigenen Notizen](__Attachments/Periodensystem.pdf)
+>[das Original von Blume](__Attachments/Periodensystem.jpg)

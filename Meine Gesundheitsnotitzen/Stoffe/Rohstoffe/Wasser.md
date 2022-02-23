@@ -53,7 +53,7 @@ Das Ergebnis war jedoch bei allen Versuchsaufbauten gleich:
 Wurde dem Wasser eine Positive Emotion oder ein Harmonisches Geschehen oder Ereignis vermittelt, so bildete das Wasser wunderschöne Sechs- oder Fünfsternige Kristalle, wie in der Grafik unterhalb zu sehen.
 
 Sprach oder impregnierte man jedoch Angst, Hass, Furcht oder Missgunst dem Wasser gegenüber so resultierte dies in unförmigen, Chaotischen und teilweise ziemlich bizzarr aussehenden Kristallformationen.
-![Quelle: Emoto Masaru](__Attatchments/emoto_masaru_frozen_water.png)
+![Quelle: Emoto Masaru](__Attachments/emoto_masaru_frozen_water.png)
 Quelle: Emoto Masaru
 
 #### Fragen die sich daraus Ergeben:

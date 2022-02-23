@@ -15,4 +15,4 @@ Pflanzen deponieren Fette vornehmlich in Samen oder Keimen, Tierische Organismen
 Fette lassen sich entweder aus Fettgewebe schmelzen im Falle von tierischem Fett ( => [Butter](../Stoffe/Rohstoffe/Butter.md), Schmalz, Tran) durch pressung (sog. Kaltextraktion) oder Extraktion vermittels Dampf oder oben genannten Lösungsmitteln aus Pflanzen gewinnen.
 
 
-![Allgemeine Chemische Struktur von Fett](__Attatchments/330px-Fat_structural_formulae.svg.png)
+![Allgemeine Chemische Struktur von Fett](__Attachments/330px-Fat_structural_formulae.svg.png)

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
-            "mode": "preview",
+            "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -59,12 +59,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
+                "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md"
+                "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md"
               }
             }
           },
@@ -119,15 +118,15 @@
   },
   "active": "98a0887416f072a0",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Ryans Antiparasitäres Salatdressing.md",
-    "Interessante Links.md",
+    "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
+    "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaerer Salat.md",
+    "Rezepte und Anleitungen/__Attachments/Pasted image 20220223211726.png",
+    "Rezepte und Anleitungen/Ryans Gastbeiträge/__Attachments/Pasted image 20220223150506.png",
     "Heilansätze/Ernährung/Ernährung.md",
+    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
+    "Interessante Links.md",
     "Stoffe/Rohstoffe/Brokkoli.md",
     "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
-    "Heilansätze/Heilansätze.md",
-    "Heilansätze/Sport/Falun Gong.md",
-    "Heilansätze/Sport/Sport.md",
-    "Menschlicher Körper/Leiden/Diabetes/Diabetes.md"
+    "Heilansätze/Heilansätze.md"
   ]
 }
