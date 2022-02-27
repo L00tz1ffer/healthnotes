@@ -15,5 +15,6 @@
   "sortFilesBy": "name",
   "fixedHeaderInFileList": false,
   "createdYaml": false,
-  "fileNameIsHeader": true
+  "fileNameIsHeader": true,
+  "folderNote": false
 }

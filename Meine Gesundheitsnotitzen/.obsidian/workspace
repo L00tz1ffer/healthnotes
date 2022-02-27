@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "98a0887416f072a0",
+        "id": "540674370676e31d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
-            "mode": "preview",
+            "file": "Heilansätze/Heilansätze.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "87bc18c7f1150228",
+            "id": "43adfbec5e82b48a",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
+                "file": "Heilansätze/Heilansätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md"
+                "file": "Heilansätze/Heilansätze.md"
               }
             }
           },
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "98a0887416f072a0",
+  "active": "540674370676e31d",
   "lastOpenFiles": [
-    "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaeres Salatdressing.md",
-    "Rezepte und Anleitungen/Ryans Gastbeiträge/Ryans Antiparasitaerer Salat.md",
-    "Menschlicher Körper/Sexualität.md",
-    "Heilansätze/Ernährung/Ernährung.md",
-    "Rezepte und Anleitungen/__Attachments/Pasted image 20220223211726.png",
-    "Rezepte und Anleitungen/Ryans Gastbeiträge/__Attachments/Pasted image 20220223150506.png",
-    "Rezepte und Anleitungen/Rezepte und Anleitungen.md",
-    "Interessante Links.md",
-    "Stoffe/Rohstoffe/Brokkoli.md",
-    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md"
+    "Heilansätze/Heilansätze.md",
+    "Heilansätze/Meditation.md",
+    "Heilansätze/Voodoo/Loas/Rada Loa/Damballa/Damballa.md",
+    "Heilansätze/Voodoo/Voodoo.md",
+    "Heilansätze/Voodoo/Loas/Loas.md",
+    "Heilansätze/Voodoo/Loas/Rada Loa/Loco/Loco.md",
+    "Heilansätze/Voodoo/Loas/Rada Loa/Rada Loa.md",
+    "Heilansätze/Voodoo/Loas/Rada Loa/Erzulie/Erzulie.md",
+    "Heilansätze/Voodoo/Loas/Rada Loa/Loco/__Attachments/vee_loco.png",
+    "Heilansätze/Voodoo/Loas/Petro Loa/Petro Loa.md"
   ]
 }

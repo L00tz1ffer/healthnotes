@@ -7,3 +7,4 @@
 [Schulmedizin](Schulmedizin/Schulmedizin.md)
 [Meditation](Meditation.md#Meditation)
 [Sport](Sport/Sport.md#Sport)
+[Voodoo](Voodoo/Voodoo.md)
