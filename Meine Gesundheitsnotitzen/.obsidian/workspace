@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/Heilansätze.md",
+            "file": "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Parasymphatikus/Parasymphatikus.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vagus nerv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/Heilansätze.md",
+                "file": "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Parasymphatikus/Parasymphatikus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/Heilansätze.md"
+                "file": "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Parasymphatikus/Parasymphatikus.md"
               }
             }
           },
@@ -118,15 +119,15 @@
   },
   "active": "540674370676e31d",
   "lastOpenFiles": [
+    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Parasymphatikus/Parasymphatikus.md",
+    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Symphatisches Nervensystem.md",
+    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Symphatikus/Symphatikus.md",
+    "Menschlicher Körper/Nervensystem/Nervensystem.md",
+    "Menschlicher Körper/Menschlicher Körper.md",
+    "Menschlicher Körper/Augen.md",
+    "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
     "Heilansätze/Heilansätze.md",
     "Heilansätze/Meditation.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Damballa/Damballa.md",
-    "Heilansätze/Voodoo/Voodoo.md",
-    "Heilansätze/Voodoo/Loas/Loas.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Loco/Loco.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Rada Loa.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Erzulie/Erzulie.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Loco/__Attachments/vee_loco.png",
-    "Heilansätze/Voodoo/Loas/Petro Loa/Petro Loa.md"
+    "Heilansätze/Voodoo/Loas/Rada Loa/Damballa/Damballa.md"
   ]
 }
