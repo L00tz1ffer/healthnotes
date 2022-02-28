@@ -1,7 +1,7 @@
 # Ei
 
 ## Inhaltsstoffe
-[Vitamin K2](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20K2.md)
+[Vitamin K2](../wichtige%20Verbindungen/Vitamine/Vitamin%20K2.md)
 
 
 ## Links

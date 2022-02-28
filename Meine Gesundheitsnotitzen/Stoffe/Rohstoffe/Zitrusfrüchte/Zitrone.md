@@ -3,7 +3,7 @@
 ## Trivia
 Zitronensäure ist neben Sauerkrautsäure die einzige Säure die unser Körper basisch verstoffwechseln kann
 ## Inhaltsstoffe
-- [Vitamin C](../../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md)
+- [Vitamin C](../../wichtige%20Verbindungen/Vitamine/Vitamin%20C.md)
 
 ## Nebenwirkungen
 - kann den Zahnschmelz erodieren oder Sodbrennen auslösen.

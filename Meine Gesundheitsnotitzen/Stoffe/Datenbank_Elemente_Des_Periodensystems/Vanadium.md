@@ -19,7 +19,7 @@
 	- in biologischen Systemen
 		- vermutlich Katalysator für Redoxsysteme, regelt Elektronenaustausch  im Lauf der Gewinnung von Energie
 		- Einfluss von auf den [Blutzucker](../../Glossar/Blutzucker.md) möglich
-			- In Tierversuchen entfaltete Vanadium eine [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)-ähnliche Wirkung auf den Blutzucker. 
+			- In Tierversuchen entfaltete Vanadium eine [Insulin](../wichtige%20Verbindungen/Hormone/Insulin.md)-ähnliche Wirkung auf den Blutzucker. 
 				- Bisher nicht beim Menschen erforscht
 				- 1985 erschien in der Zeitschrift "Science" einen Bericht über die stabilisierende Wirkung von Vanadium bei der Zuckerkrankheit (Diabetes)
 				- **Verdacht des starken Einflusses auf den Blutzucker können nicht ausgeräumt werden**

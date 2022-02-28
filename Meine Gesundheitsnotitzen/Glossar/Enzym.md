@@ -9,4 +9,4 @@
 - Je höher die [kathalysefähigkeiten](Kathalytisch%20aktives%20Metall.md) des [Elements](../Stoffe/Datenbank_Elemente_Des_Periodensystems/DB%20Elements.md#Datenbank%20-%20Elemente%20des%20Periodensystems) desto mehr davon sollte man im Körper haben
 	- [Platin](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Platin.md), [Gold](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Gold.md), [Silber](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Silber.md),  [Iridium](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Iridium.md) & [Rhodium](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Rhodium.md)
 - Pflanzen auf Humusboden versorgen uns mit [Kolloidalen](Kolloid.md) Metallkomplexen
-- [Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md) sind sog. Ko- Enzyme, Sie docken nach dem Schlüssel- Schloss Prinzip an diese an und helfen Ihnen bei der Ausführung ihrer Arbeit
+- [Vitamine](../Stoffe/wichtige%20Verbindungen/Vitamine/Vitamine.md) sind sog. Ko- Enzyme, Sie docken nach dem Schlüssel- Schloss Prinzip an diese an und helfen Ihnen bei der Ausführung ihrer Arbeit

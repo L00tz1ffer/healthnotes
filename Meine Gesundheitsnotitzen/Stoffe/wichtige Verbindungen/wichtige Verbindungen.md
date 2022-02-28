@@ -5,3 +5,8 @@
 [Flavonoide](Flavonoide/Flavonoide.md)
 [Hormone](Hormone/Hormone.md)
 [Vitamine](Vitamine/Vitamine.md)
+
+## Weitere Stoffe
+[Cumarin](Cumarin.md)
+[Carnitin](Carnitin.md)
+

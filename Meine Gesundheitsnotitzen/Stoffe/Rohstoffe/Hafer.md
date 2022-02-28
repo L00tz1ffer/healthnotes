@@ -1,10 +1,10 @@
 ## Haferflocken
-- Werden aufgrund extrem langer [Kohlenhydratketten](../Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) nur sehr langsam verstoffwechselt, 
+- Werden aufgrund extrem langer [Kohlenhydratketten](../wichtige%20Verbindungen/Kohlenhydrate.md) nur sehr langsam verstoffwechselt, 
 	- eignen sich daher insbesondere für [Diabetes Typ I](../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%201/Diabetes%20Typ%20I.md) & [Diabetes Typ 2](../../Menschlicher%20Körper/Leiden/Diabetes/Diabetes%20Typ%202.md) Patienten
-- Senkt [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)bedarf
+- Senkt [Insulin](../wichtige%20Verbindungen/Hormone/Insulin.md)bedarf
 
 - Guter Vitalstofflieferant
-	- [Betaglucan](../Nahrungs_Inhaltsstoffe/Ballaststoffe/Betaglucan.md)
+	- [Betaglucan](../wichtige%20Verbindungen/Ballaststoffe/Betaglucan.md)
 	
 ### Generelle Übersicht
 | Nährwerte     | Wert / 100 g |
@@ -19,13 +19,13 @@
 
 | Vitamine                                                                                 | Wer / 100 g |
 | ---------------------------------------------------------------------------------------- | ----------- |
-| [Vitamin E](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20E.md#Vitamin%20E)               | 800 ug      |
-| [Vitamin B1](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B1.md#Vitamin%20B1) | 562 ug      |
-| [Vitamin B3](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B3.md#Vitamin%20B3) | 1000 ug     |
-| [Vitamin B5](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B5.md#Vitamin%20B5) | 1090 ug     |
-| [Vitamin B6](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B6.md#Vitamin%20B6) | 98 ug       |
-| [Vitamin B7](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B7.md#Vitamin%20B7) | 20 ug       |
-| [Vitamin B9](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B9.md#Vitamin%20B9) | 87 ug       |
+| [Vitamin E](../wichtige%20Verbindungen/Vitamine/Vitamin%20E.md#Vitamin%20E)               | 800 ug      |
+| [Vitamin B1](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B1.md#Vitamin%20B1) | 562 ug      |
+| [Vitamin B3](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B3.md#Vitamin%20B3) | 1000 ug     |
+| [Vitamin B5](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B5.md#Vitamin%20B5) | 1090 ug     |
+| [Vitamin B6](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B6.md#Vitamin%20B6) | 98 ug       |
+| [Vitamin B7](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B7.md#Vitamin%20B7) | 20 ug       |
+| [Vitamin B9](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B9.md#Vitamin%20B9) | 87 ug       |
 
 | Mineralstoffe und Spurenelemente                                              | Wert / 100 g |
 | ----------------------------------------------------------------------------- | ------------ |

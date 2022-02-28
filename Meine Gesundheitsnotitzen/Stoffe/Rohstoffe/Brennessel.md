@@ -72,7 +72,7 @@ Dies gilt sowohl für Ihre Qualitäten als Heilmittel, als auch für selbige als
 
 In Ihr sind fast alle Nährstoffe, Mineralstoffe und Spurenelemente, die für einen Gesunden Körper wichtig sind enthalten.
 
-Selbstverständlich gibt es hier Ausnahmen -> [Vitamin B-12](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B12.md#Vitamin%20B-12) & [Vitamin D](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20D.md#Vitamin%20D) sind nicht enthalten
+Selbstverständlich gibt es hier Ausnahmen -> [Vitamin B-12](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B12.md#Vitamin%20B-12) & [Vitamin D](../wichtige%20Verbindungen/Vitamine/Vitamin%20D.md#Vitamin%20D) sind nicht enthalten
 
 Alles was enthalten ist ist tendenziell in extrem großen Mengen und in höchst Bioverfügbarer Form enthalten.
 
@@ -80,9 +80,9 @@ Alles was enthalten ist ist tendenziell in extrem großen Mengen und in höchst 
 - bis zu 700mg [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md#Kalzium) auf 100g
 - hoher [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md#Eisen) gehalt
 - hoher [Mangan](../Datenbank_Elemente_Des_Periodensystems/Mangan.md#Mangan) gehalt
-- [Vitamin A](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20A.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
-- [Vitamin B1](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B1.md)
-- [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
+- [Vitamin A](../wichtige%20Verbindungen/Vitamine/Vitamin%20A.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
+- [Vitamin B1](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B1.md)
+- [Vitamin C](../wichtige%20Verbindungen/Vitamine/Vitamin%20C.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
 
 - Ameisensäure 
 - Kieselsäure -> Bioverfügbares [Silizium](../Datenbank_Elemente_Des_Periodensystems/Silizium.md#Silizium)
@@ -91,7 +91,7 @@ Alles was enthalten ist ist tendenziell in extrem großen Mengen und in höchst 
 - Scopoletin 
 - Beta-Sitosterol
 - Sidosterol (Cholesterinsenker)
-- [Flavonoide](../Nahrungs_Inhaltsstoffe/Flavonoide/Flavonoide.md#Flavonoide)
+- [Flavonoide](../wichtige%20Verbindungen/Flavonoide/Flavonoide.md#Flavonoide)
 	- Quercetin 
 	- Kampferol 
 - Viele Essenzielle Aminosäuren

@@ -12,6 +12,6 @@ Dem Keimblatt des Ektoderm unterstehen alle diejenen Körperteile, die der Bewus
 - Ausführungsgänge
 	- Schilddrüse
 	- Tränendrüsen
-	- [Insulin](../../../../../Stoffe/Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)produktion
+	- [Insulin](../../../../../Stoffe/wichtige%20Verbindungen/Hormone/Insulin.md)produktion
 
 Weitere notwendige Informationen hierzu gibt es in der [Tabelle der GNM Zusammenhänge](__Attatchments/Tabelle%20GNM%20Zusammenhänge.ods)

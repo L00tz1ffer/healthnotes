@@ -7,19 +7,19 @@
 - der [Cashew Kern](Cashew.md#Cashew%20Kern) wächt ausserhalb des [Cashew Apfel](Cashew.md#Cashew%20Apfel)
 
 ## Cashew Apfel
-- [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md)
+- [Vitamin C](../wichtige%20Verbindungen/Vitamine/Vitamin%20C.md)
 - [Beta-Carotin](https://www.zentrum-der-gesundheit.de/ernaehrung/vitamine/weitere-vitamine/beta-carotin) (orange Variante) 
 - [Anthocyanin](https://www.zentrum-der-gesundheit.de/ernaehrung/lebensmittel/inhaltsstoffe/anthocyane) (rote Variante)
 
 ## Cashew Kern
 ### Inhaltsstoffe
 Inhaltsstoffangaben beziehen sich auf 100g Cashewkerne
-- ~ 640 µg [Vitamin B1](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B1.md)
-- ~ 260 µg[Vitamin B2](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B2.md)
-- ~ 1200 µg[Vitamin B5](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B5.md)
-- ~ 420 µg[Vitamin B6](../Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/Vitamin%20B6.md)
-- ~ 780 µg[Vitamin E](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20E.md)
-- ~ 25 µg natürliches (nicht razemisches) [Vitamin K1](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20K1.md)
+- ~ 640 µg [Vitamin B1](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B1.md)
+- ~ 260 µg[Vitamin B2](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B2.md)
+- ~ 1200 µg[Vitamin B5](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B5.md)
+- ~ 420 µg[Vitamin B6](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B6.md)
+- ~ 780 µg[Vitamin E](../wichtige%20Verbindungen/Vitamine/Vitamin%20E.md)
+- ~ 25 µg natürliches (nicht razemisches) [Vitamin K1](../wichtige%20Verbindungen/Vitamine/Vitamin%20K1.md)
 - ~270 mg [Magnesium](../Datenbank_Elemente_Des_Periodensystems/Magnesium.md)
 - ~ 375 mg [Phosphor](../Datenbank_Elemente_Des_Periodensystems/Phosphor.md)
 - ~ 550 mg [Kalium](../Datenbank_Elemente_Des_Periodensystems/Kalium.md)

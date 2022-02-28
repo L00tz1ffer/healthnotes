@@ -12,7 +12,7 @@ Da die Verdauung ein Regenerativer Prozess ist sind wir beispielsweise nach dem 
 - [Apfelessig](../../../../Stoffe/Rohstoffe/Apfelessig.md#Apfelessig)
 - [Knoblauch](../../../../Stoffe/Rohstoffe/Knoblauch.md#Knoblauch)
 - [Zwiebeln](../../../../Stoffe/Rohstoffe/Zwiebel.md#Zwiebeln)
-- [Tryptophan](../../../../Stoffe/Nahrungs_Inhaltsstoffe/Eiweiße/Tryptophan.md#Tryptophan) reiche Nahrungsmittel
+- [Tryptophan](../../../../Stoffe/wichtige%20Verbindungen/Eiweiße/Tryptophan.md#Tryptophan) reiche Nahrungsmittel
 - Knochenbrühe (z.B. [Hühnersuppe](../../../../Rezepte%20und%20Anleitungen/Hühnersuppe.md#Hühnersuppe))
 - basische Ernähurng
 - Fleisch von Wild gefangenen Tieren

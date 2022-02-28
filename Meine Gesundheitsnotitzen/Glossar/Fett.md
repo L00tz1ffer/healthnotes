@@ -1,5 +1,5 @@
 # Fett
-Fette und Fette [Öle](Öl.md) sind Ester des dreiwertigen Alkohols Glycerin (Propan-1,2,3-triol mit drei [Fettsäuren](../Stoffe/Nahrungs_Inhaltsstoffe/Fettsäuren/Fettsäuren.md).
+Fette und Fette [Öle](Öl.md) sind Ester des dreiwertigen Alkohols Glycerin (Propan-1,2,3-triol mit drei [Fettsäuren](../Stoffe/wichtige%20Verbindungen/Fettsäuren/Fettsäuren.md).
 
 Man nennt solche Verbindungen Triglyceride, die IUPAC empfiehlt jedoch als Namen Triacylglycerine.
 

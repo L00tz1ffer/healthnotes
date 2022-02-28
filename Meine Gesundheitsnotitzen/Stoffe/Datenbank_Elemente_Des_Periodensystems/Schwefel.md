@@ -14,7 +14,7 @@ Es empfiehlt sich daher im Monat von 30 Tagen etwa 90g Schwefel zu sich zu nehme
 		- Schwefelbrücken legen die Räumliche Struktur sämtlicher Enzyme fest
 			- Diese Strukturen sind die Grundlage für jegliche Enzymatische Aktivität
 	- Hormone
-		- [Insulin](../Nahrungs_Inhaltsstoffe/Hormone/Insulin.md)
+		- [Insulin](../wichtige%20Verbindungen/Hormone/Insulin.md)
 		- Glutathion
 	- Aminosäuren
 		- Cystein

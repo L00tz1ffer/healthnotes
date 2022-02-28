@@ -5,7 +5,7 @@
 - [ ] Die Liste der Lebensmittel. In Abhängigkeit zu deren Wertigkeit abarbeiten
 - [ ] Mein [Nutella](../Rezepte%20und%20Anleitungen/Nutella.md) Rezept einarbeiten
 - [ ] Vitaminliste ergänzen
-	- [ ] [B-Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/B-Vitamine/B-Vitamine.md)
+	- [ ] [B-Vitamine](../Stoffe/wichtige%20Verbindungen/Vitamine/B-Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
 - [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
@@ -19,7 +19,7 @@
 	- [ ] [Schachtelhalm](../Stoffe/Rohstoffe/Schachtelhalm.md)
 	- [ ] [Brennessel](../Stoffe/Rohstoffe/Brennessel.md)
 	- [ ] [Goldrute](../Stoffe/Rohstoffe/Goldrute.md)
-	- [ ] [Carnitin](../Stoffe/Rohstoffe/Carnitin.md)
+	- [ ] [Carnitin](../Stoffe/wichtige%20Verbindungen/Carnitin.md)
 	- [ ] [Ursuppe](../Rezepte%20und%20Anleitungen/Ursuppe.md)
 	- [ ] [Granatapfel](../Stoffe/Rohstoffe/Granatapfel.md)
 	- [ ] [Karrotte](../Stoffe/Rohstoffe/Karrotte.md)

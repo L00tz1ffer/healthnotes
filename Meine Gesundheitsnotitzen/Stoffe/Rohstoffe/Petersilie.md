@@ -1,5 +1,5 @@
 # Petersilie
 
 ## Wirkung
-- Reich an [Vitamin C](../Nahrungs_Inhaltsstoffe/Vitamine/Vitamin%20C.md)
+- Reich an [Vitamin C](../wichtige%20Verbindungen/Vitamine/Vitamin%20C.md)
 - 

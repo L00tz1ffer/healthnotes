@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "540674370676e31d",
+        "id": "02d158fb86eace64",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Stoffe/Rohstoffe/Waldmeister.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -58,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stoffe/Rohstoffe/Waldmeister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stoffe/Rohstoffe/Waldmeister.md"
+              }
             }
           },
           {
@@ -109,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "540674370676e31d",
+  "active": "02d158fb86eace64",
   "lastOpenFiles": [
-    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Symphatisches Nervensystem.md",
+    "Stoffe/Rohstoffe/Waldmeister.md",
+    "Stoffe/wichtige Verbindungen/Cumarin.md",
+    "Stoffe/wichtige Verbindungen/Carnitin.md",
+    "Stoffe/wichtige Verbindungen/wichtige Verbindungen.md",
+    "Stoffe/Rohstoffe/Zimt.md",
+    "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
+    "Stoffe/Rohstoffe/Cumarin.md",
     "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Parasymphatikus/Parasymphatikus.md",
-    "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
-    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Symphatikus/Symphatikus.md",
-    "Menschlicher Körper/Nervensystem/Nervensystem.md",
-    "Menschlicher Körper/Menschlicher Körper.md",
-    "Menschlicher Körper/Augen.md",
-    "Heilansätze/Heilansätze.md",
-    "Heilansätze/Meditation.md",
-    "Heilansätze/Voodoo/Loas/Rada Loa/Damballa/Damballa.md"
+    "Menschlicher Körper/Nervensystem/Symphatisches Nervensystem/Symphatisches Nervensystem.md",
+    "Heilansätze/GNM/5BN/BN2/Vagotonie.md"
   ]
 }

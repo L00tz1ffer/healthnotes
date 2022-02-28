@@ -21,7 +21,7 @@
 			- Bäume holen die mineralien aus dem Boden und reichern diese durch verdunstung in den Blättern an welche dann zu Humus werden
 
 [Wasser](../Stoffe/Rohstoffe/Wasser.md)
-[Vitamine](../Stoffe/Nahrungs_Inhaltsstoffe/Vitamine/Vitamine.md)
+[Vitamine](../Stoffe/wichtige%20Verbindungen/Vitamine/Vitamine.md)
 [Frische Mineralien](Frische%20Mineralien.md)
 [Salz](../Stoffe/Rohstoffe/Salze/Salz.md)
 

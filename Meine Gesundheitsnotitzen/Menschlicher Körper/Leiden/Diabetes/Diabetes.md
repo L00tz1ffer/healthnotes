@@ -9,7 +9,7 @@ Für weitere Informationen:
 
 ## Sympthome
 - Der Geruch den man als Schwefelgeruch interpretieren könnte ist Aceton, welches der Körper versucht auszuscheiden
-	- Der Grund hierfür ist der deutliche Anstieg in der Höhe von [Keton](../../../Glossar/Keton.md)körpern in dem systemischen Kreislauf, der als Reaktion auf eine Stresssituation für den Körper (provoziert Ernährungsfaktoren, die Körpertemperatur zu hohen Zahlen), wenn sie gestört Prozess vollständige Verdauung von [Proteinen](../../../Glossar/Protein.md), Lipiden und [Kohlenhydraten](../../../Stoffe/Nahrungs_Inhaltsstoffe/Kohlenhydrate.md) auftritt.
+	- Der Grund hierfür ist der deutliche Anstieg in der Höhe von [Keton](../../../Glossar/Keton.md)körpern in dem systemischen Kreislauf, der als Reaktion auf eine Stresssituation für den Körper (provoziert Ernährungsfaktoren, die Körpertemperatur zu hohen Zahlen), wenn sie gestört Prozess vollständige Verdauung von [Proteinen](../../../Glossar/Protein.md), Lipiden und [Kohlenhydraten](../../../Stoffe/wichtige%20Verbindungen/Kohlenhydrate.md) auftritt.
 
 ## Folgen
 ### Haare

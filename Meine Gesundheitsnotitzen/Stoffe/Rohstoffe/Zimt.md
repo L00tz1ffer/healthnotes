@@ -16,6 +16,7 @@ Der Baum wird hierzu regelmäßig geschnitten und die beim Schnitt anfallenden �
 Ceylon zimt kann auch in größeren Mengen verzehrt werden, da der Inhaltssoff Cumarin nur in sehr geringen Mengen verfügbar ist
 ### Cassia Zimt
 Parasiten die bei Autoimmunerkrankungen infrage kommen scheinen Cumarin weniger gut zu vertragen als Menschen
+Der Zimt der Sorte Cassia enthält viel Cumarin
 ### Saigon Zimt
 Scheint noch besser geeignet zu sein den Blutzuckerspiegel zu senken
 
