@@ -11,4 +11,3 @@ Das Kraut blüht von Mitte April bis etwa Juni.
 
 Die Blüten des Krautes duften nach Cumarin.
 Davon ist in ihnen auch reichlich vorhanden.
-
