@@ -7,7 +7,8 @@
 - [ ] Vitaminliste ergänzen
 	- [ ] [B-Vitamine](../Stoffe/wichtige%20Verbindungen/Vitamine/B-Vitamine/B-Vitamine.md)
 - [ ] https://www.youtube.com/watch?v=k_y5tzqa0X4 rezept
-- [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren
+
+### Artikel vervollständigen
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
 - [ ] Artikel Ausarbeiten
 	- [ ] [Selen](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Selen.md)
@@ -47,3 +48,33 @@
 		- [ ] http://www.hyperinfo.ca/LivingAtom/HomePage.html
 	- [ ] [Astralreise](../Glossar/Astralreise.md)
 	- [ ] Grabovoi Zahlen
+
+### Rezepte
+- [ ] Lebertee
+	- auf empfehlung Testen (Warnung nicht nachmachtenm noch nicht vom Autor getestet!!!!)
+	- Zeichen für schlechte Leber -> 
+		- Häufige Blähungen
+		- Trockener und bittererer Mund
+		- gelber und schaumiger Urin
+		- Haare häufig fettig
+		- Rücken ist fettig (teilweise mit starker Akne)
+		- heftiger Haarausfall
+		- trockene Augen
+		- häufig unkontrollierbare Emotionen 
+		- Schlaflosigkeit bei gleichzeitigem Mangel an Energie
+	- Rezept
+		- Zutaten
+			- Chrysantheme
+			- Ketsumeishi
+			- Klettenwurzel
+			- Geißblatt
+			- Zimt
+			- Wolfsbeere
+		- Zubereitung
+			- Alles in eine Kanne
+			- 5 Minuten Kochen
+			- 1 Tasse pro Tag trinken
+			- nach einem Monat zeigen sich allmählich resultate
+
+
+- [ ] [Gewürzpaste](https://www.chefkoch.de/rezepte/2924231444734351/Maggi-Wuerze.html) als Alternative zu Maggie Würze Ausprobieren

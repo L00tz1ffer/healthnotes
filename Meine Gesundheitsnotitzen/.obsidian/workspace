@@ -17,6 +17,19 @@
         }
       },
       {
+        "id": "08f203e7b5ab17d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Roadmap/Roadmap.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "2ec70f525606e93e",
         "type": "leaf",
         "state": {
@@ -46,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vagus nerv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md",
+                "file": "Roadmap/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md"
+                "file": "Roadmap/Roadmap.md"
               }
             }
           },
@@ -129,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02d158fb86eace64",
+  "active": "08f203e7b5ab17d9",
   "lastOpenFiles": [
+    "Roadmap/Roadmap.md",
+    "Stoffe/Rohstoffe/Lösungsmittel/DMSO.md",
+    "Stoffe/Rohstoffe/Lösungsmittel/Datenbank Lösungsmittel.md",
     "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md",
     "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Symphatikus/Symphatikus.md",
     "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
     "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Vegetatives Nervensystem.md",
     "Heilansätze/GNM/5BN/BN2/Vagotonie.md",
     "Stoffe/Rohstoffe/Waldmeister.md",
-    "Stoffe/wichtige Verbindungen/Cumarin.md",
-    "Stoffe/wichtige Verbindungen/Carnitin.md",
-    "Stoffe/wichtige Verbindungen/wichtige Verbindungen.md",
-    "Stoffe/Rohstoffe/Zimt.md"
+    "Stoffe/wichtige Verbindungen/Cumarin.md"
   ]
 }
