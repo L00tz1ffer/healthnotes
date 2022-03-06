@@ -7,7 +7,7 @@
 > <center> Aus gegebenem Anlass Wichtiges zur Impfung: </br><center><a href = "https://youtu.be/DW61NC9F2vE?t=1578">Hier Klicken</a></center>
 
 ----------------------
-testc
+
 ## Wie soll ich anfangen?
 
 Am Anfang dieses Werkes stand Unwissenheit!
