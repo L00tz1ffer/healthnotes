@@ -1,6 +1,8 @@
 # Heilsteine
 [Vorlage](Vorlage.md)
 
-[Rosenquarz](Rosenquarz.md)
+
 [Bergkristall](Bergkristall.md)
+[Lapis Lazuli](Lapis%20Lazuli.md)
+[Rosenquarz](Rosenquarz.md)
 [Rubin](Rubin.md)

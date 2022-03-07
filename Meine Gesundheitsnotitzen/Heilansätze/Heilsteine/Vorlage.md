@@ -1,5 +1,14 @@
 # Vorlage
 ## Synonyme
+## Beschreibung 
+### Merkmale
+#### Aussehen
+#### Farbe(n)
+- Blau
+- mit einschlüssen verschiedener meist metallischer Farben
+#### Härte 
+#### Kristallstruktur
+#### Gruppe
 
 ## Reinigungszyklus
 
@@ -14,6 +23,7 @@
 ## Primäre Anwendungsform
 
 ## Themen
+
 ## Sternzeichen
 
 ## Primärchakra
@@ -22,23 +32,14 @@
 
 ## Wirkung
 ### Körperlich
-
 ### Emotio Ratio
-
 ### Seelisch
 
-## Gruppe
 
 ## Entstehung
-
-## Härte 
-
-## Farbe
+### Bestandteile
 
 ## große Vorkommen
 
-## Bestandteile
-
-## Kristallstruktur
 
 ## Bemerkungen
