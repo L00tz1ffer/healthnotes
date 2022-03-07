@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/Heilsteine/Rubin.md",
+            "file": "Heilansätze/Heilsteine/Vorlage.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -35,8 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/Heilsteine/Lapis Lazuli.md",
-            "mode": "preview",
+            "file": "Heilansätze/Heilsteine/Heilsteine.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "43cce5928cf5a197",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/Heilsteine/Rubin.md",
+                "file": "Heilansätze/Heilsteine/Heilsteine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/Heilsteine/Rubin.md"
+                "file": "Heilansätze/Heilsteine/Heilsteine.md"
               }
             }
           },
@@ -156,12 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08f203e7b5ab17d9",
+  "active": "8c3f4d4ef2a13dc5",
   "lastOpenFiles": [
-    "Heilansätze/Heilsteine/Rubin.md",
-    "Heilansätze/Heilsteine/Vorlage.md",
-    "Heilansätze/Heilsteine/Lapis Lazuli.md",
     "Heilansätze/Heilsteine/Heilsteine.md",
+    "Heilansätze/Heilsteine/Lapis Lazuli.md",
+    "Heilansätze/Heilsteine/Vorlage.md",
+    "Heilansätze/Heilsteine/Rubin.md",
     "Heilansätze/Heilansätze.md",
     "Index.md",
     "Roadmap/Roadmap.md",
