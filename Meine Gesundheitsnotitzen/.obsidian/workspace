@@ -22,21 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/Heilsteine/Vorlage.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8c3f4d4ef2a13dc5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Heilansätze/Heilansätze.md",
-            "mode": "source",
+            "file": "Heilansätze/Heilsteine/Heilsteine.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/Heilansätze.md",
+                "file": "Heilansätze/Heilsteine/Heilsteine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/Heilansätze.md"
+                "file": "Heilansätze/Heilsteine/Heilsteine.md"
               }
             }
           },
@@ -155,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c3f4d4ef2a13dc5",
+  "active": "08f203e7b5ab17d9",
   "lastOpenFiles": [
-    "Heilansätze/Heilansätze.md",
     "Heilansätze/Heilsteine/Heilsteine.md",
-    "Heilansätze/Heilsteine/Lapis Lazuli.md",
-    "Heilansätze/Heilsteine/Vorlage.md",
-    "Heilansätze/Heilsteine/Rubin.md",
+    "Heilansätze/Heilansätze.md",
     "Index.md",
     "Roadmap/Roadmap.md",
     "Stoffe/Rohstoffe/Lösungsmittel/DMSO.md",
     "Stoffe/Rohstoffe/Lösungsmittel/Datenbank Lösungsmittel.md",
-    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md"
+    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md",
+    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Symphatikus/Symphatikus.md",
+    "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
+    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Vegetatives Nervensystem.md"
   ]
 }
