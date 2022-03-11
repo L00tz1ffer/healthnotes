@@ -10,3 +10,4 @@ Der Wichtigste Tipp von allen will gleich vorweg gegeben werden. Er ist [Sonoche
 - [Rhetorik](Rhetorik/Rhetorik.md)
 - [Kriegskunst](Kriegskunst/Kriegskunst.md)
 - [Manifestieren](__Attachments/Einfaches%20Manifestieren%20E-Book.pdf)
+- [Ölflecken entfernen](Ölflecken%20entfernen.md)
