@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilansätze/Heilsteine/Heilsteine.md",
+            "file": "Tipps für den Alltag/Allgemeine Tipps/Ölflecken entfernen.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilansätze/Heilsteine/Heilsteine.md",
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Ölflecken entfernen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilansätze/Heilsteine/Heilsteine.md"
+                "file": "Tipps für den Alltag/Allgemeine Tipps/Ölflecken entfernen.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "08f203e7b5ab17d9",
   "lastOpenFiles": [
+    "Tipps für den Alltag/Allgemeine Tipps/Ölflecken entfernen.md",
+    "Tipps für den Alltag/Gesprächskultur.md",
+    "Tipps für den Alltag/Nützliche Dateien.md",
     "Heilansätze/Heilsteine/Heilsteine.md",
     "Heilansätze/Heilansätze.md",
     "Index.md",
     "Roadmap/Roadmap.md",
     "Stoffe/Rohstoffe/Lösungsmittel/DMSO.md",
     "Stoffe/Rohstoffe/Lösungsmittel/Datenbank Lösungsmittel.md",
-    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md",
-    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Symphatikus/Symphatikus.md",
-    "Heilansätze/GNM/5BN/BN2/Symphatikotonie.md",
-    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Vegetatives Nervensystem.md"
+    "Menschlicher Körper/Nervensystem/Vegetatives Nervensystem/Parasymphatikus/Parasymphatikus.md"
   ]
 }
