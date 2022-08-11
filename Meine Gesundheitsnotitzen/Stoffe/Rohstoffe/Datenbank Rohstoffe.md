@@ -11,6 +11,8 @@
 - [Chia](Chia.md)
 - [Chilly](Chilly.md)
 - [DMSO](Lösungsmittel/DMSO.md)
+- [Datenbank Medikamente & Drogen](Medikamente%20&%20Drogen/Datenbank%20Medikamente%20&%20Drogen.md)
+- [Datenbank Lösungsmittel](Lösungsmittel/Datenbank%20Lösungsmittel.md)
 - [Ei](Ei.md)
 - [Goldrute](Goldrute.md)
 - [Granatapfel](Granatapfel.md)
