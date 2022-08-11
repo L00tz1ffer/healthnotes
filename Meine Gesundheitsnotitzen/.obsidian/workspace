@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "43adfbec5e82b48a",
+            "id": "7837533bb18be619",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,7 +142,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dba515dd3d1f0419",
+  "active": "08f203e7b5ab17d9",
   "lastOpenFiles": [
     "Stoffe/Rohstoffe/Medikamente & Drogen/Datenbank Medikamente & Drogen.md",
     "Stoffe/Rohstoffe/Datenbank Rohstoffe.md",
