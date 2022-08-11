@@ -2,7 +2,7 @@
 
 Naloxon ist ein **Notfallmedikament, das bei einer akuten Vergiftung mit Opioiden eingesetzt wird**. Opioide wie Heroin wirken betäubend auf das Nervensystem, in dem sie an den Opioid-Rezeptoren binden. Auch die Steuerung der Atmung ist davon betroffen.
 
-Es kann bei Überdosierungen mit jeglicher Art von Opioiden wie Heroin, Methadon oder Fentanyl eingesetzt werden.
+Es kann bei Überdosierungen mit jeglicher Art von Opioiden wie Heroin, Methadon oder [Fentanyl](Fentanyl.md) eingesetzt werden.
 
 ## Wirkung
 Naloxon selbst hat keine berauschende Wirkung. Bei Personen, die keine Opioide nehmen, hat Naloxon keinen Effekt. Der Opioid-Antagonist wird daher als sicher in der Anwendung eingestuft. Bei Opioidabhängigen kann Naloxon zwar Entzugssymptome auslösen, das Potential des Wirkstoffs, Leben zu retten, fällt nach Einschätzung von Expertinnen und Experten aber deutlich stärker ins Gewicht.
