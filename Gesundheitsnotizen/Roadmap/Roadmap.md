@@ -11,7 +11,7 @@
 ### Artikel vervollständigen
 - [ ] https://www.youtube.com/watch?v=XFCsLhcae30
 - [ ] Artikel Ausarbeiten
-	- [ ] [Selen](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Selen.md)
+	- [ ] [Selen](../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Selen.md)
 		- [ ] https://www.youtube.com/watch?v=hHOeLqdsYhE
 		- [ ] https://www.youtube.com/watch?v=4FZJIW7DZGw
 		- [ ] https://www.youtube.com/watch?v=ZeWNdjbfUwg

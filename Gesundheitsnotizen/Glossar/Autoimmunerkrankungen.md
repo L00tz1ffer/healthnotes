@@ -7,4 +7,4 @@ Im generellen verteht man unter einer Autoimmunerkrankung eine Sympthomatik welc
 
 
 ## Wichtig
-- [Germanium](../Stoffe/Datenbank_Elemente_Des_Periodensystems/Germanium.md) kurbelt das Immunsystem an - mögliche Verstärkung von Autoimmunreaktionen möglich
+- [Germanium](../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Germanium.md) kurbelt das Immunsystem an - mögliche Verstärkung von Autoimmunreaktionen möglich

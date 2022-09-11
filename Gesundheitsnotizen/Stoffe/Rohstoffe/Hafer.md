@@ -29,19 +29,19 @@
 
 | Mineralstoffe und Spurenelemente                                              | Wert / 100 g |
 | ----------------------------------------------------------------------------- | ------------ |
-| [Natrium](../Datenbank_Elemente_Des_Periodensystems/Natrium.md#Natrium)       | 0,002 g      |
-| [Kalium](../Datenbank_Elemente_Des_Periodensystems/Kalium.md#Kalium)          | 0,382 g      |
-| [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md#Kalzium)       | 0,016g       |
-| [Magnesium](../Datenbank_Elemente_Des_Periodensystems/Magnesium.md#Magnesium) | 0,121 g      |
-| [Phosphor](../Datenbank_Elemente_Des_Periodensystems/Phosphor.md#Phosphor)    | 0,325g       |
-| [Schwefel](../Datenbank_Elemente_Des_Periodensystems/Schwefel.md)             | 0,2 g        |
+| [Natrium](../Datenbank%20Elemente%20Des%20Periodensystems/Natrium.md#Natrium)       | 0,002 g      |
+| [Kalium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalium.md#Kalium)          | 0,382 g      |
+| [Kalzium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalzium.md#Kalzium)       | 0,016g       |
+| [Magnesium](../Datenbank%20Elemente%20Des%20Periodensystems/Magnesium.md#Magnesium) | 0,121 g      |
+| [Phosphor](../Datenbank%20Elemente%20Des%20Periodensystems/Phosphor.md#Phosphor)    | 0,325g       |
+| [Schwefel](../Datenbank%20Elemente%20Des%20Periodensystems/Schwefel.md)             | 0,2 g        |
 | Chlorid                                                                       | 0,061 g      |
-| [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md#Eisen)             | 4437 ug      |
-| [Zink](../Datenbank_Elemente_Des_Periodensystems/Zink.md#Zink)                | 3642 ug      |
-| [Kupfer](../Datenbank_Elemente_Des_Periodensystems/Kupfer.md#Kupfer)          | 410 ug       |
-| [Mangan](../Datenbank_Elemente_Des_Periodensystems/Mangan.md#Mangan)          | 4934 ug      |
+| [Eisen](../Datenbank%20Elemente%20Des%20Periodensystems/Eisen.md#Eisen)             | 4437 ug      |
+| [Zink](../Datenbank%20Elemente%20Des%20Periodensystems/Zink.md#Zink)                | 3642 ug      |
+| [Kupfer](../Datenbank%20Elemente%20Des%20Periodensystems/Kupfer.md#Kupfer)          | 410 ug       |
+| [Mangan](../Datenbank%20Elemente%20Des%20Periodensystems/Mangan.md#Mangan)          | 4934 ug      |
 | [Kalziumfluorid](Kalziumflourid.md#Kalziumfluorid)                            | 80 ug        |
-| [Iod](../Datenbank_Elemente_Des_Periodensystems/Iod.md)                       | 0,8 ug       |
+| [Iod](../Datenbank%20Elemente%20Des%20Periodensystems/Iod.md)                       | 0,8 ug       |
 |                                                                               |              |
 
 

@@ -6,7 +6,7 @@ zeichnet sich im wesentlichen nicht durch einen [Insulin](../../Stoffe/Nahrungs_
 ### [Infection as a cause of type 1 diabetes?](https://pubmed.ncbi.nlm.nih.gov/22504578/)
 ### [Kann die Bodenmineralisierung für Diabetes verantwortlich sein?](https://onlinelibrary.wiley.com/doi/10.1111/j.1399-5448.2007.00267.x)
 ### [Vanadium & Chrom bei Diabetes?](https://www.youtube.com/watch?v=UbDgoH-iyv8)
-- [Vanadium](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Chrom.md)
+- [Vanadium](../../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Vanadium.md), [Chrom](../../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Chrom.md)
 - [noch nicht getestete Vanadium Supplemente](https://de.luckyvitamin.com/p-629848-olympian-labs-vanadyl-sulfate-20-250-capsules)
 
 ### [Ingmar Bieda zu Diabetes](https://youtu.be/C_rQWYzAaRk)

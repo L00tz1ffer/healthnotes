@@ -4,11 +4,11 @@ Der als Gewürz und Heilmittel verwendete Teil der Rinde liegt unter der eigentl
 Der Baum wird hierzu regelmäßig geschnitten und die beim Schnitt anfallenden Äste werden von der äussern Korkschicht und dem Innenleben getrennt und anschließend getrocket.
 
 ## Inhaltsstoffe
-- [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md)
-- [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md)
-- [Magnesium](../Datenbank_Elemente_Des_Periodensystems/Magnesium.md)
-- [Natrium](../Datenbank_Elemente_Des_Periodensystems/Natrium.md)
-- [Kalium](../Datenbank_Elemente_Des_Periodensystems/Kalium.md)
+- [Eisen](../Datenbank%20Elemente%20Des%20Periodensystems/Eisen.md)
+- [Kalzium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalzium.md)
+- [Magnesium](../Datenbank%20Elemente%20Des%20Periodensystems/Magnesium.md)
+- [Natrium](../Datenbank%20Elemente%20Des%20Periodensystems/Natrium.md)
+- [Kalium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalium.md)
 - Ätherisches Öl (Zimtaldehyd, Eugenol, Cumarin)
 
 ## Zimt Arten

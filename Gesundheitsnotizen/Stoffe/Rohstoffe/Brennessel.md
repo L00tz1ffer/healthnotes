@@ -77,15 +77,15 @@ Selbstverständlich gibt es hier Ausnahmen -> [Vitamin B-12](../wichtige%20Verbi
 Alles was enthalten ist ist tendenziell in extrem großen Mengen und in höchst Bioverfügbarer Form enthalten.
 
 ### Blätter und Stängel
-- bis zu 700mg [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md#Kalzium) auf 100g
-- hoher [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md#Eisen) gehalt
-- hoher [Mangan](../Datenbank_Elemente_Des_Periodensystems/Mangan.md#Mangan) gehalt
+- bis zu 700mg [Kalzium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalzium.md#Kalzium) auf 100g
+- hoher [Eisen](../Datenbank%20Elemente%20Des%20Periodensystems/Eisen.md#Eisen) gehalt
+- hoher [Mangan](../Datenbank%20Elemente%20Des%20Periodensystems/Mangan.md#Mangan) gehalt
 - [Vitamin A](../wichtige%20Verbindungen/Vitamine/Vitamin%20A.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
 - [Vitamin B1](../wichtige%20Verbindungen/Vitamine/B-Vitamine/Vitamin%20B1.md)
 - [Vitamin C](../wichtige%20Verbindungen/Vitamine/Vitamin%20C.md) (kleine Mengen Brennessel können den Kompletten Tagesbedarf decken)
 
 - Ameisensäure 
-- Kieselsäure -> Bioverfügbares [Silizium](../Datenbank_Elemente_Des_Periodensystems/Silizium.md#Silizium)
+- Kieselsäure -> Bioverfügbares [Silizium](../Datenbank%20Elemente%20Des%20Periodensystems/Silizium.md#Silizium)
 - Serotonin 
 - Acetylcholin 
 - Scopoletin 

@@ -38,7 +38,7 @@ kurz
 					- große differenz in zeitkorrelation
 						- Maus wird entweder gefressen oder entkommt
 						- Mensch hat dauerhaft den Wegrennimpuls, baut kontinuierlich durch aktivität des [SBS](SBS.md#SBS) Fluchtkapazitäten auf
-						- durch überschuss an Zellstrukturen kommt besserer [Sauerstoff](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Sauerstoff.md) zufuhr
+						- durch überschuss an Zellstrukturen kommt besserer [Sauerstoff](../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Sauerstoff.md) zufuhr
 							- Diagnose des Arztes bei erstmaliger Wahrnehmung dieses Prozesses ist die Diagnose eines bösartigen [Tumor](../../Menschlicher%20Körper/Leiden/Tumor/Tumor.md) - eíne gestreute [Metastase](../../Menschlicher%20Körper/Leiden/Tumor/Metastase.md)
 				- Im Falle einer Entwarnung tritt [Vagotonie](5BN/BN2/BN2.md#Vagotonie) ein
 					- Zellrückbau beginnt

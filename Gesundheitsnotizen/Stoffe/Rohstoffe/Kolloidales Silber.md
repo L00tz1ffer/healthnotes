@@ -57,4 +57,4 @@
 
 ## Herstellung
 ### Zutaten:
-- [Silber](../Datenbank_Elemente_Des_Periodensystems/Silber.md)
+- [Silber](../Datenbank%20Elemente%20Des%20Periodensystems/Silber.md)

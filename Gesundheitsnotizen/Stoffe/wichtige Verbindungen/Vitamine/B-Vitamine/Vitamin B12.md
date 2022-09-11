@@ -1,3 +1,3 @@
 # Vitamin B-12
 ## Cobalamin
-- Bioverfügbares [Kobalt](../../../Datenbank_Elemente_Des_Periodensystems/Kobalt.md)
+- Bioverfügbares [Kobalt](../../../Datenbank%20Elemente%20Des%20Periodensystems/Kobalt.md)

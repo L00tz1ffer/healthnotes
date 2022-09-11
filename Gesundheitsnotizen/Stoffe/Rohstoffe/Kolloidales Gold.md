@@ -14,4 +14,4 @@ Weitere Namen: **MFKZT**, Manna, Roter Leu, Stein der Weisen
 
 ## Herstellung
 ### Zutaten:
-- [Gold](../Datenbank_Elemente_Des_Periodensystems/Gold.md)
+- [Gold](../Datenbank%20Elemente%20Des%20Periodensystems/Gold.md)

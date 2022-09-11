@@ -21,13 +21,13 @@ Eine weitere Folge (meiner Ansicht nach) vermutlich ebenfalls aufgrund des massi
 >Mir ist ein dickes stück meines Eckzahnes Abgebrochen, aber nicht so, dass ich ein stück Zahn in der Hand gehabt hätte, es waren sehr viele, verhältnismäßig sehr kleine (im Vergleich zu der relativ großen Masse an Substanz)
 
 ## Mangelerscheinung
-- [Vanadium](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Vanadium.md)
-- [Kupfer](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Kupfer.md)
-- [Chrom](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Chrom.md)
-- [Zink](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Zink.md)
-- [Mangan](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Mangan.md)
-- [Wolfram](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Wolfram.md)
-- [Molybdän](../../../Stoffe/Datenbank_Elemente_Des_Periodensystems/Molybdän.md)
+- [Vanadium](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Vanadium.md)
+- [Kupfer](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Kupfer.md)
+- [Chrom](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Chrom.md)
+- [Zink](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Zink.md)
+- [Mangan](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Mangan.md)
+- [Wolfram](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Wolfram.md)
+- [Molybdän](../../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/Molybdän.md)
 
 
 ## Interessante Links

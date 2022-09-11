@@ -1,6 +1,6 @@
 # Biochemie
 ## Die richtige Supplementation
-[Datenbank - Elemente des Periodensystems](../../Stoffe/Datenbank_Elemente_Des_Periodensystems/DB%20Elements.md#Datenbank%20-%20Elemente%20des%20Periodensystems)
+[Datenbank - Elemente des Periodensystems](../../Stoffe/Datenbank%20Elemente%20Des%20Periodensystems/DB%20Elements.md#Datenbank%20-%20Elemente%20des%20Periodensystems)
 
 ## Gesund mit Rohkost
 ### Gesund mit Ryan - Rohkost richtig

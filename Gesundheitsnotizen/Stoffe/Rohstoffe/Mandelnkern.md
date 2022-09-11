@@ -4,11 +4,11 @@
 ## Inhaltsstoffe
 - viele [ungesättigte Fettsäuren](../wichtige%20Verbindungen/Fettsäuren/ungesättigte_Fettsäuren/ungesättigte%20Fettsäuren.md)
 - Viele [B-Vitamine](../wichtige%20Verbindungen/Vitamine/B-Vitamine/B-Vitamine.md)
-- [Eisen](../Datenbank_Elemente_Des_Periodensystems/Eisen.md)
-- [Magnesium](../Datenbank_Elemente_Des_Periodensystems/Magnesium.md)
-- [Kalzium](../Datenbank_Elemente_Des_Periodensystems/Kalzium.md)
-- [Mangan](../Datenbank_Elemente_Des_Periodensystems/Mangan.md)
-- [Kupfer](../Datenbank_Elemente_Des_Periodensystems/Kupfer.md)
+- [Eisen](../Datenbank%20Elemente%20Des%20Periodensystems/Eisen.md)
+- [Magnesium](../Datenbank%20Elemente%20Des%20Periodensystems/Magnesium.md)
+- [Kalzium](../Datenbank%20Elemente%20Des%20Periodensystems/Kalzium.md)
+- [Mangan](../Datenbank%20Elemente%20Des%20Periodensystems/Mangan.md)
+- [Kupfer](../Datenbank%20Elemente%20Des%20Periodensystems/Kupfer.md)
 - viele wichtige [Eiweiße](../wichtige%20Verbindungen/Eiweiße/Eiweiße.md)
 	- [Tryptophan](../wichtige%20Verbindungen/Eiweiße/Tryptophan.md)
 
