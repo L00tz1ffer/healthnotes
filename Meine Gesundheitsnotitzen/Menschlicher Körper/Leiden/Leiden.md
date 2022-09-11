@@ -1,8 +1,10 @@
 # Bekannte Leiden
 
-[Diabetes](Diabetes/Diabetes.md)
-[Gastroperese](Gastroperese.md)
-[Haarausfall](Haarausfall.md)
-[Karies](Karies.md)
-[Milcharmut bei Stillenden Müttern](Milcharmut.md)
-[Rheuma](Rheuma.md)
+
+- [Athrose](Athrose.md)
+- [Karies](Karies.md)
+- [Gastroperese](Gastroperese.md)
+- [Diabetes](Diabetes/Diabetes.md)
+- [Milcharmut bei Stillenden Müttern](Milcharmut.md)
+- [Haarausfall](Haarausfall.md)
+- [Rheuma](Rheuma.md)

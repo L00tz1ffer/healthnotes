@@ -1,6 +1,7 @@
 # Glossar
 [Aceton](Aceton.md)
 [Alchemie](Alchemie.md)
+[Analgetikum](Analgetikum.md)
 [Anionisch](Anionisch.md)
 [Ankh](Ankh.md)
 [Antioxidanz](Antioxidanz.md)
