@@ -20,3 +20,7 @@ Eine Überdosierung führt zu einer respiratorischen Depression, die sich durch 
 	- Arbeit ist ebenfalls nahezu ein Ding der unmöglichkeit, insbesondere wenn der Subsitutionsarzt kein Take-Home gewährt.
 - Sollte eine Substitution gewährt sein, so ist unter allen Umständen sicherzustellen, dass der Substitutionsarzt möglichst weit weg von der Fentanylquelle liegt, da man sich sonst möglicherweise schneller dort wiederfindet als man es unrsprünglich angedacht hat.
 - Auf dem Weg durch den Entzug ist es grundsätzlich ratsam sich WEIT weg von Drogenumschlagsplätzen fernzuhalten.
+
+
+## Entzug
+- Ein Interessanter Austausch zum Thema Fentanylentzug findet sich [hier](https://forum.suchtmittel.de/viewtopic.php?t=2107&postdays=0&postorder=asc&start=0)
