@@ -10,7 +10,7 @@ Fentanyl ist ein narkotisierendes [Analgetikum](../../../Glossar/Analgetikum.md)
 
 Eine Überdosierung führt zu einer respiratorischen Depression, die sich durch Gabe von Naloxon umkehren lässt. Bei Herzstillstand oder einer schweren anaphylaktischen Reaktion kann es zu plötzlichem Exitus kommen. Für den Menschen ist eine Fentanyldosis von schätzungsweise 2 mg tödlich. Die empfohlene Serumkonzentration für analgetische Indikationen beträgt 1-2 ng/ml und für Narkoseindikationen 10-20 ng/ml. Blutkonzentrationen von etwa 7 ng/ml oder höher sind mit Sterbefällen nach Polysubstanzkonsum in Verbindung gebracht worden. Todesfälle sind zwar auch nach therapeutischer Anwendung aufgetreten, viele davon waren jedoch das Resultat eines Missbrauchs pharmazeutischer Produkte. So wurden benutzte und unbenutzte Fentanylpflaster mit tödlichem Ausgang injiziert, geraucht, geschnupft oder geschluckt.
 
-## Was ich über Fentanyl weiß
+## Was ich über Fentanyl gelernt habe
 
 ### Trivia
 - Es handelt sich bei Fentanyl um Synthetische Opiate in Form von Pflastern oder Flüssigkeit, welche von den Arzneimittelherstellern Hexal und 1A Pharma vertrieben werden.
