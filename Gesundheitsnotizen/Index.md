@@ -189,10 +189,11 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 
 ### [Heilsteine](Heilansätze/Heilsteine/Heilsteine.md)
 
-### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/__Allgemeine_Tipps.md)
+### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/Allgemeine%20Tipps.md)
 
 ### [Rezepte und Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
+
 
 ### [Nützliche Dateien](Tipps%20für%20den%20Alltag/Nützliche%20Dateien.md)
