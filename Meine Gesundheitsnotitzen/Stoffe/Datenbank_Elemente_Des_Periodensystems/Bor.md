@@ -15,6 +15,7 @@ So ist in Australien, wo das Trinkwasser besonders reich an Bor ist nur 1% der M
 ## Bor im Hormonstoffwechsel
 Sowohl Testosteron, als auch Östrogen erfordern für ihre Synthese eine mindestaufnahme an Bor täglich
 Bei der Synthese von Vitamin D ist ebenfalls Bor notwendig.
+test
 
 
 
