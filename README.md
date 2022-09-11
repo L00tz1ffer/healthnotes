@@ -1,3 +1,3 @@
 # healthnotes
 
-**[Hier](/Meine%20Gesundheitsnotitzen/Index.md)** geht es weiter
+**[Hier](/Gesundheitsnotizen/Index.md)** geht es weiter
