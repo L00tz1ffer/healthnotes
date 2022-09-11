@@ -6,6 +6,8 @@ Der Körper bildet auch selbst Opioide und schüttet sie bei Stress aus. Sie unt
 
 Der Körper bildet auch selbst Opioide und schüttet sie bei Stress aus. Sie unterdrücken plötzlich auftretende Schmerzen. Bei besonders starken oder dauerhaften Schmerzen sind diese körpereigenen Stoffe bald erschöpft. Dann helfen manchmal künstlich hergestellte Opioide, zum Beispiel in Form einer Tablette.
 
+Als [Antagonist](../../../../Glossar/Antagonist.md) bei Überdosen wird standardmäßig [Naloxon](Naloxon.md) verwendet. Aufgrund seiner starken jedoch kruzzeitigen Wirkung kann es zu Extremen Entzugserscheinungen führen
+
 Bekannte Opiathaltige Stoffe sind vorallem [Heroin](Heroin.md), [Tilidin](Tilidin.md) und der besonders intensive Newcomer [Fentanyl](Fentanyl.md)
 
 Weiterhin [Oxycodon](Oxycodon.md)
