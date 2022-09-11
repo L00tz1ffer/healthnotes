@@ -48,10 +48,19 @@
 
 
 ## Shops
-| Wichtige Produkte | Shop | Link |
-| - | - | - |
-| Kolloide, Laborutensilien | Bonavita Ost | <https://www.bonavita-ost.at/shop/> |
-| Kolloide | Essence of Gold | <https://www.essenceofgold.info/> |
-| Kolloide | Pulsar Li | <https://pulsar.li/> |
-| Laborbedarf & Rohstoffe | Alchemist.de | <https://www.alchemist.de> |
-| Gewürze | vom-achterhof.de | <https://mention-me.com/m/ode/kt1er-marian-kampfe> |
+| Wichtige Produkte         | Shop             | Link                                               |
+| ------------------------- | ---------------- | -------------------------------------------------- |
+| Kolloide, Laborutensilien | Bonavita Ost     | <https://www.bonavita-ost.at/shop/>                |
+| Kolloide                  | Essence of Gold  | <https://www.essenceofgold.info/>                  |
+| Kolloide                  | Pulsar Li        | <https://pulsar.li/>                               |
+| Laborbedarf & Rohstoffe   | Alchemist.de     | <https://www.alchemist.de>                         |
+| Gewürze                   | vom-achterhof.de | <https://mention-me.com/m/ode/kt1er-marian-kampfe> |
+|                           |                  |                                                    |
+|                           |                  |                                                    |
+
+
+## Ein Wenig mehr Freiheit
+
+| Idee               | Verwirklichung |
+| ------------------ | -------------- |
+| Deine eigene Cloud | [Nextcloud](https://nextcloud.com/)               |
