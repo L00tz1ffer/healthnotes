@@ -191,7 +191,7 @@ Ist es immer notwendig zu manipulieren? Schauen Sie selbst: [Gesprächskultur](T
 
 ### [Allgemeine Tipps](Tipps%20für%20den%20Alltag/Allgemeine%20Tipps/__Allgemeine_Tipps.md)
 
-### [Rezepte_und_Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
+### [Rezepte und Anleitungen](Rezepte%20und%20Anleitungen/Rezepte%20und%20Anleitungen.md)
 
 ### [Interessante Links](Interessante%20Links.md) 
 
