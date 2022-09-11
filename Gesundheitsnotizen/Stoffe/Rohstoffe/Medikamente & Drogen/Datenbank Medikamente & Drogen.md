@@ -1,6 +1,6 @@
 # Medikamente & Drogen
 
 - [Alkohol](Alkohol.md)
-- [Naloxon](Naloxon.md)
-- [Fentanyl](Fentanyl.md)
-- 
+- [Opioide](Opiate/Opioide.md)
+	- [Fentanyl](Opiate/Fentanyl.md)
+	- [Naloxon](Opiate/Naloxon.md)
