@@ -1,5 +1,3 @@
-> Dies ist die [Roadmap](Roadmap/Roadmap.md) für das Projekt
-
 > Das Gesamte Werk entsteht in meiner Freizeit. 
 > [-> Wie soll ich anfangen](Index.md#Wie%20soll%20ich%20anfangen) 
 > Du kannst mich gerne dabei unterstützen indem du den [Spendenlink](https://www.paypal.com/paypalme/jensmysl) anklickst!

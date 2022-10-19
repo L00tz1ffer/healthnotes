@@ -61,6 +61,7 @@
 
 ## Ein Wenig mehr Freiheit
 
-| Idee               | Verwirklichung |
-| ------------------ | -------------- |
-| Deine eigene Cloud | [Nextcloud](https://nextcloud.com/)               |
+| Idee               | Verwirklichung                      |
+| ------------------ | ----------------------------------- |
+| Deine eigene Cloud | [Nextcloud](https://nextcloud.com/) |
+| TorFlow            | [Finde heraus wo dein TOR Traffic lang fließt](https://torflow.uncharted.software/)                                    |
